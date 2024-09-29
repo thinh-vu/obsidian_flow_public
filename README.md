@@ -26,6 +26,22 @@ Tôi biết tôi cần một con đường rõ ràng hơn – một bản đồ 
 
 Nói một cách ngắn gọn, phương pháp FLOW bao gồm một hệ thống các nguyên tắc, hướng dẫn và quy trình giúp bạn có thể làm quen cũng như tích hợp hoàn toàn lối tư duy và phương pháp làm việc vào cuộc sống cá nhân và hành trình tích luỹ tri thức của bạn.
 
+## Tải về sử dụng
+
+### Tải file zip về giải nén
+
+Sử dụng cách này, bạn tải toàn bộ repo được chia sẻ dưới dạng 1 file zip, giải nén file và mở Open folder as Vault để sử dụng.
+
+![](6.%20Vault/attachments/obsidian_flow_github_download_zip.png)
+
+### Sao chép mẫu Vault dưới dạng 1 repo trong Github của bạn
+
+> [!hint]
+> Sử dụng cách này, bạn có thể đồng bộ Github repo về máy và sử dụng Git làm công cụ sao lưu mặc định. Thư mục Git có thể lưu trữ trong OneDrive, Google Drive, vv hay dịch vụ lưu trữ đám mây bất kỳ để tạo lớp sao lưu thứ 2. Khi đồng bộ với Github, bạn có thể xem nhanh các ghi chú thông qua Github mobile mà không cần Obsidian mobile (nhanh hơn), hoặc chỉnh sửa ghi chú với vscode.dev từ Github repo mà không cần đồng bộ trên máy trong những trường hợp bạn không tiện cài đặt Obsidian. Cũng có thể chỉnh sửa ghi chú theo cách này trên smartphone trong 1 số trường hợp cần thiết.
+
+![](6.%20Vault/attachments/obsidian_flow_github_template_repo.png)
+
+
 ## Thiết lập Obsidian Vault của bạn theo phương pháp FLOW
 
 >[!hint] Gợi ý
@@ -50,5 +66,3 @@ SORT aliases ASC, created DESC
 - **Đơn giản và trực quan**: FLOW giúp bạn tổ chức ghi chú theo một cấu trúc dễ hiểu, giảm thiểu sự phức tạp.
 - **Linh hoạt và cá nhân hóa**: Bạn có thể điều chỉnh phương pháp để phù hợp với phong cách làm việc và mục tiêu cá nhân.
 - **Hiệu quả trong việc tìm kiếm và truy cập thông tin**: Sử dụng metadata và thẻ một cách có mục đích giúp bạn nhanh chóng tìm thấy những gì tôi cần.
-
-

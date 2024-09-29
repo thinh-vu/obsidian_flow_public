@@ -51,8 +51,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "63c994e4ba9c00a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -274,8 +288,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "bfbf1988d2ea4916",
+  "active": "63c994e4ba9c00a1",
   "lastOpenFiles": [
+    "6. Vault/attachments/obsidian_flow_github_template_repo.png",
+    "6. Vault/attachments/obsidian_flow_github_download_zip.png",
+    "README.pdf",
+    "README.md",
     "4. Blueprint/Obsidian FLOW Methodology.md",
     "1. Capture/Điều hướng trong Obsidian FLOW.md",
     "6. Vault/attachments/floating_toc.png",
@@ -285,7 +303,6 @@
     "6. Vault/attachments/Pasted image 20240929172844.png",
     "6. Vault/attachments/obsidian_flow_ribbon_navigation.png",
     "6. Vault/attachments/Pasted image 20240929172500.png",
-    "README.md",
     "1. Capture/4. Feedback khoá học Python.md",
     "1. Capture/2, Obsidian Roadmap - From Novice to Master.md",
     "1. Capture/Community Plugin sử dụng trong Obsidian FLOW.md",
@@ -308,12 +325,10 @@
     "1. Capture/Untitled 2.md",
     "3. Forge/FLOW system/6. Vòng đời của một ghi chú.md",
     "3. Forge/FLOW system/3. Hướng dẫn nhanh để bắt đầu viết và tổ chức ghi chú.md",
-    "README.pdf",
     "6. Vault/attachments/quick_intro_thinhvu.png",
     "6. Vault/attachments/obsidian-flow-shortcuts-he-thong-phim-tat.png",
     "6. Vault/attachments/obsidian_flow_command_palette_shortcuts.png",
     "package-lock.json",
-    "6. Vault/attachments/Tran Bao Chau SSI.png",
-    "6. Vault/attachments/Dieu Huong.png"
+    "6. Vault/attachments/Tran Bao Chau SSI.png"
   ]
 }
