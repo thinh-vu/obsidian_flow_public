@@ -1,0 +1,38 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "6. Vault/templater",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": true,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "1. Capture",
+      "template": "6. Vault/templater/New.md"
+    },
+    {
+      "folder": "4. Blueprint",
+      "template": "6. Vault/templater/TOC.md"
+    },
+    {
+      "folder": "2. Track",
+      "template": "6. Vault/templater/Daily.md"
+    }
+  ],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": true,
+  "enabled_templates_hotkeys": [
+    "6. Vault/templater/New.md"
+  ],
+  "startup_templates": [
+    "6. Vault/templater/New.md"
+  ]
+}

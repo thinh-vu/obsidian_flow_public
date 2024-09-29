@@ -1,0 +1,51 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiHome",
+      "LiWaves",
+      "LiBrainCircuit",
+      "LiKey",
+      "LiGlasses"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false
+  },
+  "README.md": "LiGlasses",
+  "4. Wiki/1. Mastering Obsidian/2. Advanced": "LiCode",
+  "Home.canvas": "LiHome",
+  "0. Collection/AI Copilot.md": "🤖",
+  "0. Collection/Mastering Anything.md": "LiTreeDeciduous",
+  "1. Capture": "LiInbox",
+  "2. Track": "LiCalendar",
+  "6. Vault": "LiVault",
+  "5. Exhibit": "LiLibraryBig",
+  "4. Blueprint": "LiCompass",
+  "3. Forge": "LiHammer",
+  "LICENSE": "LiKey",
+  "5. Exhibit/FLOW & PKM": "LiBrainCircuit",
+  "3. Forge/FLOW system": "LiWaves",
+  "Home.md": "LiHome"
+}

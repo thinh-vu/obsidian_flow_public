@@ -1,0 +1,15 @@
+{
+  "deletionDestination": "system",
+  "excludeInclude": 1,
+  "excludedFolders": [
+    "6. Vault/Attachments"
+  ],
+  "attachmentsExcludeInclude": 1,
+  "attachmentExtensions": [
+    "*"
+  ],
+  "deletionConfirmation": true,
+  "runOnStartup": false,
+  "removeFolders": false,
+  "ignoredFrontmatter": []
+}

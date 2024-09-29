@@ -1,0 +1,11 @@
+{
+  "pinned": [
+    "workspace:export-pdf",
+    "insert-template",
+    "file-explorer:move-file",
+    "canvas:new-file",
+    "obsidian-excalidraw-plugin:excalidraw-autocreate-and-embed-new-tab",
+    "marp-slides:preview",
+    "obsidian-style-settings:style-settings-class-toggle-obsidian-prism-theme-pt-focused-mode"
+  ]
+}

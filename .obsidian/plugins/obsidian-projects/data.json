@@ -1,0 +1,418 @@
+{
+  "version": 2,
+  "projects": [
+    {
+      "fieldConfig": {
+        "Note": {
+          "richText": true
+        }
+      },
+      "defaultName": "",
+      "templates": [
+        "6. Vault/templates/1. New Note.md"
+      ],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "dataview",
+        "config": {
+          "query": "TABLE WITHOUT ID file.link as Note, progress as Progress, tags as Tags, created as Created\nFROM -\"6. Vault\"\nWHERE contains(string(join(blueprint, \"  \")), \"Obsidian FLOW Methodology\") AND progress != \"done\""
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "fieldConfig": {
+              "name": {
+                "width": 442
+              },
+              "created-after": {
+                "hide": true
+              },
+              "min-rank": {
+                "hide": true
+              },
+              "aliases": {
+                "hide": true
+              },
+              "path": {
+                "hide": true
+              },
+              "Note": {
+                "width": 394
+              }
+            }
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": [
+              {
+                "field": "Tags",
+                "order": "asc",
+                "enabled": true
+              }
+            ]
+          },
+          "id": "68df8133-a1b2-45f9-ba47-f3e33c677256",
+          "name": "Table",
+          "type": "table"
+        },
+        {
+          "config": {},
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "23e96d3d-a948-4e34-a2ec-95428cb631f0",
+          "name": "Board",
+          "type": "board"
+        },
+        {
+          "config": {},
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "4d6b1045-89e5-4125-8d8a-63b421103735",
+          "name": "Calendar",
+          "type": "calendar"
+        },
+        {
+          "config": {},
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "834ca77a-2d5b-4f0c-8a2a-490c60e119c3",
+          "name": "Gallery",
+          "type": "gallery"
+        }
+      ],
+      "id": "128af538-00c0-4f13-befa-6f0a71b80352",
+      "name": "Content Masterplan"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [
+        "9. Archive/Templates/1. New Note.md"
+      ],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "1. Capture",
+          "recursive": true
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "fieldConfig": {
+              "name": {
+                "width": 328
+              }
+            }
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "fd74fd68-1b5e-44b4-8cf1-6cc56a096bc1",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "2de8b5b6-041b-435f-9c83-49b365383904",
+      "name": "Capture"
+    },
+    {
+      "fieldConfig": {
+        "Note": {
+          "richText": true
+        },
+        "Blueprint": {
+          "richText": true
+        }
+      },
+      "defaultName": "",
+      "templates": [
+        "6. Vault/templates/1. New Note.md"
+      ],
+      "excludedNotes": [],
+      "isDefault": true,
+      "dataSource": {
+        "kind": "dataview",
+        "config": {
+          "query": "TABLE WITHOUT ID file.link as Note, progress as Progress, blueprint as Blueprint, tags as Tags, impact as Impact\nFROM -\"6. Vault\" AND -\"2. Track\"\nWHERE progress != \"done\" AND created != null"
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "fieldConfig": {
+              "parent": {
+                "hide": true
+              },
+              "Note": {
+                "width": 503
+              }
+            }
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "88a64510-5022-4d06-9a67-4c53a36de75d",
+          "name": "Table",
+          "type": "table"
+        },
+        {
+          "config": {
+            "groupByField": "Progress",
+            "columns": {
+              "No status": {
+                "weight": 0
+              },
+              "raw": {
+                "weight": 1
+              },
+              "medium": {
+                "weight": 2
+              }
+            },
+            "includeFields": [
+              "Impact",
+              "Tags"
+            ]
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": [
+              {
+                "color": "#03d81c",
+                "condition": {
+                  "field": "Impact",
+                  "operator": "is",
+                  "enabled": true,
+                  "value": "5"
+                }
+              },
+              {
+                "color": "#3b3a3a",
+                "condition": {
+                  "field": "Impact",
+                  "operator": "is-empty",
+                  "enabled": false
+                }
+              }
+            ]
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "7d576df3-5950-44ab-9811-7d9304a50c60",
+          "name": "Board",
+          "type": "board"
+        }
+      ],
+      "id": "5266923d-b537-4434-a783-d2da1ed3de2d",
+      "name": "Forge"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "6. Vault/bookshelf",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "fieldConfig": {
+              "blueprint": {
+                "hide": true
+              },
+              "aliases": {
+                "hide": true
+              },
+              "path": {
+                "hide": true
+              },
+              "cover": {
+                "hide": true
+              },
+              "created": {
+                "hide": true
+              },
+              "summary": {
+                "width": 342
+              },
+              "avg_stars": {
+                "width": 154
+              },
+              "rating": {
+                "width": 148
+              }
+            },
+            "orderFields": [
+              "name",
+              "author",
+              "category",
+              "avg_stars",
+              "rating",
+              "summary",
+              "edition",
+              "end",
+              "impact",
+              "progress",
+              "start",
+              "tags"
+            ]
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": [
+              {
+                "field": "rating",
+                "order": "desc",
+                "enabled": true
+              }
+            ]
+          },
+          "id": "98b7fa81-f2df-4ec6-9ed9-586f7f92d534",
+          "name": "Table",
+          "type": "table"
+        },
+        {
+          "config": {
+            "coverField": "cover",
+            "fitStyle": "contain",
+            "includeFields": [
+              "category",
+              "avg_stars",
+              "rating"
+            ]
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": [
+              {
+                "field": "rating",
+                "order": "desc",
+                "enabled": true
+              },
+              {
+                "field": "avg_stars",
+                "order": "desc",
+                "enabled": true
+              }
+            ]
+          },
+          "id": "6af0ea34-6f92-45bf-ae4f-625465553f09",
+          "name": "Gallery",
+          "type": "gallery"
+        },
+        {
+          "config": {
+            "groupByField": "progress"
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "17998779-5bd4-4919-8870-c16c8a1cd72c",
+          "name": "Board",
+          "type": "board"
+        }
+      ],
+      "id": "e752fc62-c770-4a55-945a-95f890140dc1",
+      "name": "Reading"
+    }
+  ],
+  "archives": [],
+  "preferences": {
+    "projectSizeLimit": 1000,
+    "frontmatter": {
+      "quoteStrings": "PLAIN"
+    },
+    "locale": {
+      "firstDayOfWeek": "monday"
+    },
+    "commands": [
+      {
+        "project": "5266923d-b537-4434-a783-d2da1ed3de2d",
+        "view": "7d576df3-5950-44ab-9811-7d9304a50c60"
+      }
+    ],
+    "linkBehavior": "open-editor"
+  }
+}

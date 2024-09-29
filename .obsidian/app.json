@@ -1,0 +1,19 @@
+{
+  "useMarkdownLinks": true,
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "relative",
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "6. Vault/attachments",
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "readableLineLength": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "1. Capture",
+  "propertiesInDocument": "visible",
+  "promptDelete": false,
+  "vimMode": false
+}
