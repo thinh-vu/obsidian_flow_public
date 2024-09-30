@@ -2,7 +2,7 @@
 
 ## Giới thiệu
 
-> [!hint]
+> [!tip]
 Chào mừng bạn ghé thăm không gian minh hoạ phương pháp quản lý kiến thức FLOW trong Obsidian. 
 Phương pháp FLOW do Thịnh Vũ phát triển là kết quả của quá trình trải nghiệm, tương tác và chia sẻ với cộng đồng trong 3 năm qua. 
 Obsidian FLOW là kết quả của những trăn trở, tìm tòi và nghiên cứu của anh nhằm tìm ra một hệ thống quản lý linh hoạt, đa dụng và cá nhân hoá quản lý cuộc sống "số" và hành trình tích luỹ kiến thức thú vị hơn.
@@ -36,7 +36,7 @@ Sử dụng cách này, bạn tải toàn bộ repo được chia sẻ dưới d
 
 ### Sao chép mẫu Vault dưới dạng 1 repo trong Github của bạn
 
-> [!hint]
+>[!tip]
 > Sử dụng cách này, bạn có thể đồng bộ Github repo về máy và sử dụng Git làm công cụ sao lưu mặc định. Thư mục Git có thể lưu trữ trong OneDrive, Google Drive, vv hay dịch vụ lưu trữ đám mây bất kỳ để tạo lớp sao lưu thứ 2. Khi đồng bộ với Github, bạn có thể xem nhanh các ghi chú thông qua Github mobile mà không cần Obsidian mobile (nhanh hơn), hoặc chỉnh sửa ghi chú với vscode.dev từ Github repo mà không cần đồng bộ trên máy trong những trường hợp bạn không tiện cài đặt Obsidian. Cũng có thể chỉnh sửa ghi chú theo cách này trên smartphone trong 1 số trường hợp cần thiết.
 
 ![](6.%20Vault/attachments/obsidian_flow_github_template_repo.png)
@@ -44,7 +44,7 @@ Sử dụng cách này, bạn tải toàn bộ repo được chia sẻ dưới d
 
 ## Thiết lập Obsidian Vault của bạn theo phương pháp FLOW
 
->[!hint] Gợi ý
+>[!tip]
 >Bạn có thể tìm thấy nội dung dưới đây tại trang mục lục giới thiệu phương pháp [Obsidian FLOW Methodology](4.%20Blueprint/Obsidian%20FLOW%20Methodology.md).
 
 ```dataview
