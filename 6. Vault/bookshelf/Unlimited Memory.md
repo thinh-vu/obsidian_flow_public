@@ -1,23 +1,22 @@
 ---
 aliases:
-- Unlimited Memory
+  - Unlimited Memory
 created: 2024-09-20T18:14:21
 progress: raw
 blueprint:
-- "[[../../4. Blueprint/Reading Challenges|Reading Challenges]]"
-impact:
+  - "[[../../4. Blueprint/Reading Challenges|Reading Challenges]]"
+impact: 
 tags:
-- book
-- highlight
+  - book
+  - highlight
 category:
-- Self Help
+  - Self Help
 author:
-- Kevin Horsley
-edition:
-start:
-end:
-summary: Cuốn sách cung cấp những kỹ thuật nâng cao bộ nhớ và tập trung, giúp bạn
-  học nhanh hơn, ghi nhớ lâu hơn, và hiệu quả hơn trong cuộc sống.
+  - Kevin Horsley
+edition: 
+start: 
+end: 
+summary: Cuốn sách cung cấp những kỹ thuật nâng cao bộ nhớ và tập trung, giúp bạn học nhanh hơn, ghi nhớ lâu hơn, và hiệu quả hơn trong cuộc sống.
 cover: https://m.media-amazon.com/images/I/71f4yosQq2L._AC_UY218_.jpg
 rating: 21784
 avg_stars: 4.01

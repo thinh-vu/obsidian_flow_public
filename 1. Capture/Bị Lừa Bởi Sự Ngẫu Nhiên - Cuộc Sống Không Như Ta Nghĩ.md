@@ -4,7 +4,7 @@ aliases:
 created: 29-09-2024 16:53
 progress: raw
 blueprint:
-  - "[[../../4. Blueprint/Reading Challenges|Reading Challenges]]"
+  - "[[../4. Blueprint/Reading Challenges|Reading Challenges]]"
   - "[[../4. Blueprint/Content Plan|Content Plan]]"
 impact: 
 urgency: 

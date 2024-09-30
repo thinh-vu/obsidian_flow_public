@@ -1,24 +1,21 @@
 ---
 aliases:
-- "Risk Savvy: How to Make Good Decisions"
+  - "Risk Savvy: How to Make Good Decisions"
 progress: raw
 blueprint:
-- "[[../../4. Blueprint/Reading Challenges|Reading Challenges]]"
-impact:
+  - "[[../../4. Blueprint/Reading Challenges|Reading Challenges]]"
+impact: 
 tags:
-- book
-- highlight
+  - book
+  - highlight
 category:
-- Psychology
+  - Psychology
 author:
-- Gigerenzer, Gerd
-edition:
-start:
-end:
-summary: A guide to navigating uncertainty and making sound decisions in a world filled
-  with risks and unexpected events. Learn to recognize and avoid cognitive illusions,
-  understand the limitations of experts, and harness the power of simple rules of
-  thumb.
+  - Gigerenzer, Gerd
+edition: 
+start: 
+end: 
+summary: A guide to navigating uncertainty and making sound decisions in a world filled with risks and unexpected events. Learn to recognize and avoid cognitive illusions, understand the limitations of experts, and harness the power of simple rules of thumb.
 cover: https://m.media-amazon.com/images/I/51yfzKYinrL._AC_UY218_.jpg
 rating: 1735
 avg_stars: 4.03

@@ -1,25 +1,21 @@
 ---
 aliases:
-- Think Again
+  - Think Again
 progress: raw
 blueprint:
-- "[[../../4. Blueprint/Reading Challenges|Reading Challenges]]"
-impact:
+  - "[[../../4. Blueprint/Reading Challenges|Reading Challenges]]"
+impact: 
 tags:
-- book
-- highlight
+  - book
+  - highlight
 category:
-- Psychology
+  - Psychology
 author:
-- Grant, Adam
-edition:
-start:
-end:
-summary: Khám phá sức mạnh của việc suy nghĩ lại và những lợi ích của việc nghi ngờ
-  bản thân, từ việc đưa ra quyết định tốt hơn đến việc xây dựng mối quan hệ hiệu quả
-  hơn. Tác giả Adam Grant trình bày những nghiên cứu và câu chuyện minh họa để giúp
-  bạn mở rộng tâm trí, đối mặt với những thay đổi trong cuộc sống, và trở thành một
-  người học hỏi suốt đời.
+  - Grant, Adam
+edition: 
+start: 
+end: 
+summary: Khám phá sức mạnh của việc suy nghĩ lại và những lợi ích của việc nghi ngờ bản thân, từ việc đưa ra quyết định tốt hơn đến việc xây dựng mối quan hệ hiệu quả hơn. Tác giả Adam Grant trình bày những nghiên cứu và câu chuyện minh họa để giúp bạn mở rộng tâm trí, đối mặt với những thay đổi trong cuộc sống, và trở thành một người học hỏi suốt đời.
 cover: https://m.media-amazon.com/images/I/71H2pj3fLJL._AC_UY218_.jpg
 rating: 1122
 avg_stars: 3.69

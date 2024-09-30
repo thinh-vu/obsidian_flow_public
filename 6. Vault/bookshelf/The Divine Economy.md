@@ -1,23 +1,21 @@
 ---
 aliases:
-- The Divine Economy
+  - The Divine Economy
 progress: raw
 blueprint:
-- "[[../../4. Blueprint/Reading Challenges|Reading Challenges]]"
-impact:
+  - "[[../../4. Blueprint/Reading Challenges|Reading Challenges]]"
+impact: 
 tags:
-- book
-- highlight
+  - book
+  - highlight
 category:
-- Religion & Spirituality
+  - Religion & Spirituality
 author:
-- Seabright, Paul
-edition:
-start:
-end:
-summary: A compelling exploration of the "divine economy" – how religions function
-  as platforms, compete for wealth, power, and people, and the enduring human need
-  for enchantment.
+  - Seabright, Paul
+edition: 
+start: 
+end: 
+summary: A compelling exploration of the "divine economy" – how religions function as platforms, compete for wealth, power, and people, and the enduring human need for enchantment.
 cover: https://m.media-amazon.com/images/I/81p3v6nMHOL._AC_UY218_.jpg
 rating: 111
 avg_stars: 3.56

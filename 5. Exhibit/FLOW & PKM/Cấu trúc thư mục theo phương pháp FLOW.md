@@ -1,7 +1,7 @@
 ---
 aliases:
   - 1. Cấu trúc thư mục theo Obsidian FLOW
-created: 16-09-2024 21:09:58
+created: 2024-09-16 21:09:58
 status: done
 blueprint:
   - "[[../../4. Blueprint/Obsidian FLOW Methodology|Obsidian FLOW Methodology]]"

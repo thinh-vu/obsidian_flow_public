@@ -1,25 +1,23 @@
 ---
 aliases:
-- Superforecasting
-created: 17-03-2023 22:35:56
+  - Superforecasting
+created: 2023-03-17 22:35:56
 progress: raw
 blueprint:
-- "[[../../4. Blueprint/Reading Challenges|Reading Challenges]]"
-impact:
+  - "[[../../4. Blueprint/Reading Challenges|Reading Challenges]]"
+impact: 
 tags:
-- book
-- highlight
+  - book
+  - highlight
 category:
-- Psychology
+  - Psychology
 author:
-- Philip E. Tetlock
-- Dan Gardner
-edition:
-start:
-end:
-summary: Khám phá những kỹ thuật dự đoán hiệu quả và phân tích những yếu tố tạo nên
-  “siêu dự báo viên” (superforecasters), những người có khả năng dự đoán chính xác
-  các sự kiện quốc tế.
+  - Philip E. Tetlock
+  - Dan Gardner
+edition: 
+start: 
+end: 
+summary: Khám phá những kỹ thuật dự đoán hiệu quả và phân tích những yếu tố tạo nên “siêu dự báo viên” (superforecasters), những người có khả năng dự đoán chính xác các sự kiện quốc tế.
 cover: https://m.media-amazon.com/images/I/81DEUON-JpL._AC_UY218_.jpg
 rating: 20573
 avg_stars: 4.08

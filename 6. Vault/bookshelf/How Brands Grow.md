@@ -1,26 +1,22 @@
 ---
 aliases:
-- How Brands Grow
-created: 05-10-2023 15:26:06
+  - How Brands Grow
+created: 2023-10-05 15:26:06
 progress: raw
 blueprint:
-- "[[../../4. Blueprint/Reading Challenges|Reading Challenges]]"
-impact:
+  - "[[../../4. Blueprint/Reading Challenges|Reading Challenges]]"
+impact: 
 tags:
-- book
-- highlight
+  - book
+  - highlight
 category:
-- Business & Economics
+  - Business & Economics
 author:
-- Byron Sharp
-edition:
-start:
-end:
-summary: Cuốn sách "How Brands Grow" trình bày những quy luật khoa học về hành vi
-  người tiêu dùng và hiệu quả tiếp thị, dựa trên nghiên cứu thực tế kéo dài nhiều
-  thập kỷ. Cuốn sách phê phán nhiều quan niệm phổ biến trong ngành tiếp thị và cung
-  cấp những kiến thức thực tiễn để giúp các nhà tiếp thị xây dựng và phát triển thương
-  hiệu hiệu quả hơn.
+  - Byron Sharp
+edition: 
+start: 
+end: 
+summary: Cuốn sách "How Brands Grow" trình bày những quy luật khoa học về hành vi người tiêu dùng và hiệu quả tiếp thị, dựa trên nghiên cứu thực tế kéo dài nhiều thập kỷ. Cuốn sách phê phán nhiều quan niệm phổ biến trong ngành tiếp thị và cung cấp những kiến thức thực tiễn để giúp các nhà tiếp thị xây dựng và phát triển thương hiệu hiệu quả hơn.
 cover: https://m.media-amazon.com/images/I/51KCQGH94UL._SY445_SX342_.jpg
 rating: 3292
 avg_stars: 4.16

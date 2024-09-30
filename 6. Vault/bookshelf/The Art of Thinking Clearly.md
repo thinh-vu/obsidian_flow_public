@@ -1,24 +1,22 @@
 ---
 aliases:
-- The Art of Thinking Clearly
-created: 17-03-2023 00:54:38
+  - The Art of Thinking Clearly
+created: 2023-03-17 00:54:38
 progress: raw
 blueprint:
-- "[[../../4. Blueprint/Reading Challenges|Reading Challenges]]"
-impact:
+  - "[[../../4. Blueprint/Reading Challenges|Reading Challenges]]"
+impact: 
 tags:
-- book
-- highlight
+  - book
+  - highlight
 category:
-- Psychology
+  - Psychology
 author:
-- Rolf Dobelli
-edition:
-start:
-end:
-summary: Cuốn sách cung cấp danh sách 99 lỗi suy nghĩ phổ biến, giúp bạn nhận biết
-  và loại bỏ những sai lầm trong tư duy, từ đó đưa ra quyết định tốt hơn và sống hạnh
-  phúc hơn.
+  - Rolf Dobelli
+edition: 
+start: 
+end: 
+summary: Cuốn sách cung cấp danh sách 99 lỗi suy nghĩ phổ biến, giúp bạn nhận biết và loại bỏ những sai lầm trong tư duy, từ đó đưa ra quyết định tốt hơn và sống hạnh phúc hơn.
 rating: 36711
 avg_stars: 3.85
 cover: https://m.media-amazon.com/images/I/51gLEj8UHzL._AC_UY218_.jpg

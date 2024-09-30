@@ -1,23 +1,21 @@
 ---
 aliases:
-- Breakthrough Thinking
+  - Breakthrough Thinking
 progress: raw
 blueprint:
-- "[[../../4. Blueprint/Reading Challenges|Reading Challenges]]"
-impact:
+  - "[[../../4. Blueprint/Reading Challenges|Reading Challenges]]"
+impact: 
 tags:
-- book
-- highlight
+  - book
+  - highlight
 category:
-- Business & Economics
+  - Business & Economics
 author:
-- Vogel, Thomas
-edition:
-start:
-end:
-summary: Hướng dẫn thực hành về cách suy nghĩ sáng tạo và tạo ra ý tưởng hiệu quả,
-  bao gồm định nghĩa về sáng tạo, các phương pháp tư duy sáng tạo, các bước giải quyết
-  vấn đề sáng tạo, và cách truyền đạt ý tưởng hiệu quả.
+  - Vogel, Thomas
+edition: 
+start: 
+end: 
+summary: Hướng dẫn thực hành về cách suy nghĩ sáng tạo và tạo ra ý tưởng hiệu quả, bao gồm định nghĩa về sáng tạo, các phương pháp tư duy sáng tạo, các bước giải quyết vấn đề sáng tạo, và cách truyền đạt ý tưởng hiệu quả.
 cover: https://m.media-amazon.com/images/I/818Qchk26oL._AC_UY218_.jpg
 rating: 24
 avg_stars: 3.83

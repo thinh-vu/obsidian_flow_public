@@ -1,23 +1,22 @@
 ---
 aliases:
-- Rework
+  - Rework
 progress: raw
 blueprint:
-- "[[../../4. Blueprint/Reading Challenges|Reading Challenges]]"
-impact:
+  - "[[../../4. Blueprint/Reading Challenges|Reading Challenges]]"
+impact: 
 tags:
-- book
-- highlight
+  - book
+  - highlight
 category:
-- Business & Economics
+  - Business & Economics
 author:
-- Fried, Jason
-- Hansson, David Heinemeier
-edition:
-start:
-end:
-summary: A practical and unconventional guide for building, running, and growing a
-  business, based on the experiences of 37signals, a small, profitable company.
+  - Fried, Jason
+  - Hansson, David Heinemeier
+edition: 
+start: 
+end: 
+summary: A practical and unconventional guide for building, running, and growing a business, based on the experiences of 37signals, a small, profitable company.
 cover: https://m.media-amazon.com/images/I/71f+6gez7bL._AC_UY218_.jpg
 rating: 168452
 avg_stars: 3.98

@@ -1,27 +1,22 @@
 ---
 aliases:
-- The Psychology of Money
-created: 07-10-2023 15:10:51
+  - The Psychology of Money
+created: 2023-10-07 15:10:51
 progress: raw
 blueprint:
-- "[[../../4. Blueprint/Reading Challenges|Reading Challenges]]"
-impact:
+  - "[[../../4. Blueprint/Reading Challenges|Reading Challenges]]"
+impact: 
 tags:
-- book
-- highlight
+  - book
+  - highlight
 category:
-- Business & Economics
+  - Business & Economics
 author:
-- Morgan Housel
-edition:
-start:
-end:
-summary: '"The Psychology of Money" là một cuốn sách về quản lý tài chính cá nhân,  nhấn
-  mạnh vai trò của tâm lý, hành vi và  kỹ năng mềm trong việc đạt được thành công
-  lâu dài.  Tác giả Morgan Housel  dùng nhiều câu chuyện và ví dụ thực tế để  giúp  người
-  đọc  hiểu rõ  hơn  về  bản chất  của  tiền bạc,  cách  kiểm soát  cảm xúc,  tập
-  trung  vào  những  điều  quan  trọng  và  tạo  dựng  một  cuộc  sống  tài  chính  bền
-  vững.'
+  - Morgan Housel
+edition: 
+start: 
+end: 
+summary: '"The Psychology of Money" là một cuốn sách về quản lý tài chính cá nhân,  nhấn mạnh vai trò của tâm lý, hành vi và  kỹ năng mềm trong việc đạt được thành công lâu dài.  Tác giả Morgan Housel  dùng nhiều câu chuyện và ví dụ thực tế để  giúp  người đọc  hiểu rõ  hơn  về  bản chất  của  tiền bạc,  cách  kiểm soát  cảm xúc,  tập trung  vào  những  điều  quan  trọng  và  tạo  dựng  một  cuộc  sống  tài  chính  bền vững.'
 cover: https://m.media-amazon.com/images/I/81PGh4Jx+wL._AC_UY218_.jpg
 rating: 212998
 avg_stars: 4.3

@@ -1,25 +1,22 @@
 ---
 aliases:
-- "The PARA Method: Simplify, Organise, and Master Your Digital Life"
-created: 06-10-2023 21:48:44
+  - "The PARA Method: Simplify, Organise, and Master Your Digital Life"
+created: 2023-10-06 21:48:44
 progress: raw
 blueprint:
-- "[[../../4. Blueprint/Reading Challenges|Reading Challenges]]"
-impact:
+  - "[[../../4. Blueprint/Reading Challenges|Reading Challenges]]"
+impact: 
 tags:
-- book
-- highlight
+  - book
+  - highlight
 category:
-- Self-Help
+  - Self-Help
 author:
-- Tiago Forte
-edition:
-start:
-end:
-summary: "The PARA Method is a system for organizing digital information, breaking
-  down information into four categories: Projects, Areas, Resources, and Archives.
-  The system helps users gain focus, improve productivity, and unlock their creative
-  potential."
+  - Tiago Forte
+edition: 
+start: 
+end: 
+summary: "The PARA Method is a system for organizing digital information, breaking down information into four categories: Projects, Areas, Resources, and Archives. The system helps users gain focus, improve productivity, and unlock their creative potential."
 cover: https://m.media-amazon.com/images/I/71Tt+EbMYzL._AC_UL320_.jpg
 rating: 2066
 avg_stars: 4.1

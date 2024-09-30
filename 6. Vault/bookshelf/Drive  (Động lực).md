@@ -1,25 +1,22 @@
 ---
 aliases:
-- Drive
-created: 05-10-2023 15:21:45
+  - Drive
+created: 2023-10-05 15:21:45
 progress: raw
 blueprint:
-- "[[../../4. Blueprint/Reading Challenges|Reading Challenges]]"
-impact:
+  - "[[../../4. Blueprint/Reading Challenges|Reading Challenges]]"
+impact: 
 tags:
-- book
-- highlight
+  - book
+  - highlight
 category:
-- Business & Economics
+  - Business & Economics
 author:
-- Daniel H. Pink
-edition:
-start:
-end:
-summary: Drive là một cuốn sách về động lực, giải thích các yếu tố chính thúc đẩy
-  con người hành động. Nó cho rằng cách thức truyền thống sử dụng phần thưởng và hình
-  phạt không còn phù hợp trong thế giới hiện đại và cần được thay thế bằng một hệ
-  thống mới dựa trên tự chủ, thành thạo và mục đích.
+  - Daniel H. Pink
+edition: 
+start: 
+end: 
+summary: Drive là một cuốn sách về động lực, giải thích các yếu tố chính thúc đẩy con người hành động. Nó cho rằng cách thức truyền thống sử dụng phần thưởng và hình phạt không còn phù hợp trong thế giới hiện đại và cần được thay thế bằng một hệ thống mới dựa trên tự chủ, thành thạo và mục đích.
 cover: https://images.isbndb.com/covers/48/03/9781594484803.jpg
 rating: 120143
 avg_stars: 3.95

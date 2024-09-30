@@ -1,25 +1,22 @@
 ---
 aliases:
-- The Bullet Journal Method
-created: 05-10-2023 15:38:03
+  - The Bullet Journal Method
+created: 2023-10-05 15:38:03
 progress: raw
 blueprint:
-- "[[../../4. Blueprint/Reading Challenges|Reading Challenges]]"
-impact:
+  - "[[../../4. Blueprint/Reading Challenges|Reading Challenges]]"
+impact: 
 tags:
-- book
-- highlight
+  - book
+  - highlight
 category:
-- Self-Help
+  - Self-Help
 author:
-- Ryder Carroll
-edition:
-start:
-end:
-summary: '"The Bullet Journal Method" là một cuốn sách hướng dẫn phương pháp quản
-  lý thời gian và cuộc sống hiệu quả dựa trên việc sử dụng sổ tay. Tác giả Ryder Carroll
-  giới thiệu một hệ thống ghi chú linh hoạt,  gọn gàng và  hiệu quả giúp người đọc
-  ghi chép,  lập kế hoạch,  tập trung và  kiểm soát cuộc sống của mình.'
+  - Ryder Carroll
+edition: 
+start: 
+end: 
+summary: '"The Bullet Journal Method" là một cuốn sách hướng dẫn phương pháp quản lý thời gian và cuộc sống hiệu quả dựa trên việc sử dụng sổ tay. Tác giả Ryder Carroll giới thiệu một hệ thống ghi chú linh hoạt,  gọn gàng và  hiệu quả giúp người đọc ghi chép,  lập kế hoạch,  tập trung và  kiểm soát cuộc sống của mình.'
 cover: https://m.media-amazon.com/images/I/914AJ35kVrL._AC_UY218_.jpg
 rating: 30013
 avg_stars: 4.05

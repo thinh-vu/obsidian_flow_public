@@ -42,10 +42,10 @@
   "2. Track": "LiCalendar",
   "6. Vault": "LiVault",
   "5. Exhibit": "LiLibraryBig",
-  "4. Blueprint": "LiCompass",
   "3. Forge": "LiHammer",
   "LICENSE": "LiKey",
   "5. Exhibit/FLOW & PKM": "LiBrainCircuit",
   "3. Forge/FLOW system": "LiWaves",
-  "Home.md": "LiHome"
+  "Home.md": "LiHome",
+  "4. Blueprint": "LiCompass"
 }

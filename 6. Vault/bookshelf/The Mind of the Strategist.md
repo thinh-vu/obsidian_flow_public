@@ -1,28 +1,24 @@
 ---
 aliases:
-- The Mind of the Strategist
+  - The Mind of the Strategist
 progress: raw
 blueprint:
-- "[[../../4. Blueprint/Reading Challenges|Reading Challenges]]"
-impact:
+  - "[[../../4. Blueprint/Reading Challenges|Reading Challenges]]"
+impact: 
 tags:
-- book
-- highlight
+  - book
+  - highlight
 category:
-- Business & Economics
+  - Business & Economics
 author:
-- Ohmae, Kenichi
-edition:
-start:
-end:
-summary: Một tác phẩm kinh điển về chiến lược kinh doanh, khám phá tư duy chiến lược
-  của các nhà lãnh đạo Nhật Bản và cách thức họ tạo ra lợi thế cạnh tranh. Cuốn sách
-  cung cấp những phân tích sâu sắc về cách thức xác định các yếu tố then chốt, khai
-  thác điểm mạnh tương đối, phát triển các chiến lược dựa trên khách hàng, và thích
-  nghi với những thay đổi trong môi trường kinh doanh.
+  - Ohmae, Kenichi
+edition: 
+start: 
+end: 
+summary: Một tác phẩm kinh điển về chiến lược kinh doanh, khám phá tư duy chiến lược của các nhà lãnh đạo Nhật Bản và cách thức họ tạo ra lợi thế cạnh tranh. Cuốn sách cung cấp những phân tích sâu sắc về cách thức xác định các yếu tố then chốt, khai thác điểm mạnh tương đối, phát triển các chiến lược dựa trên khách hàng, và thích nghi với những thay đổi trong môi trường kinh doanh.
 cover: https://m.media-amazon.com/images/I/71W1Lig3OXL._AC_UL320_.jpg
 rating: 657
-avg_stars: 4.0
+avg_stars: 4
 ---
 
 

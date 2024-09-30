@@ -1,24 +1,21 @@
 ---
 aliases:
-- Thinking in Bets
+  - Thinking in Bets
 progress: raw
 blueprint:
-- "[[../../4. Blueprint/Reading Challenges|Reading Challenges]]"
-impact:
+  - "[[../../4. Blueprint/Reading Challenges|Reading Challenges]]"
+impact: 
 tags:
-- book
-- highlight
+  - book
+  - highlight
 category:
-- Psychology
+  - Psychology
 author:
-- Duke, Annie
+  - Duke, Annie
 edition: 2018
-start:
-end:
-summary: Hướng dẫn thực tế để đưa ra quyết định tốt hơn khi bạn không có đầy đủ thông
-  tin, dựa trên những bài học từ poker chuyên nghiệp. Học cách nhận biết sự khác biệt
-  giữa kết quả và chất lượng quyết định, khai thác sức mạnh của "không chắc chắn"
-  và sử dụng các chiến lược để lên kế hoạch cho tương lai.
+start: 
+end: 
+summary: Hướng dẫn thực tế để đưa ra quyết định tốt hơn khi bạn không có đầy đủ thông tin, dựa trên những bài học từ poker chuyên nghiệp. Học cách nhận biết sự khác biệt giữa kết quả và chất lượng quyết định, khai thác sức mạnh của "không chắc chắn" và sử dụng các chiến lược để lên kế hoạch cho tương lai.
 cover: https://m.media-amazon.com/images/I/71704XiiwBL._AC_UY218_.jpg
 rating: 19508
 avg_stars: 3.83

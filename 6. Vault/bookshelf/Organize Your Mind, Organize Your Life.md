@@ -1,27 +1,24 @@
 ---
 aliases:
-- Organize Your Mind, Organize Your Life
-created: 07-10-2023 14:43:05
+  - Organize Your Mind, Organize Your Life
+created: 2023-10-07 14:43:05
 progress: raw
 blueprint:
-- "[[../../4. Blueprint/Reading Challenges|Reading Challenges]]"
-impact:
+  - "[[../../4. Blueprint/Reading Challenges|Reading Challenges]]"
+impact: 
 tags:
-- book
-- highlight
+  - book
+  - highlight
 category:
-- Self-Help
+  - Self-Help
 author:
-- Paul Hammerness
-- Margaret Moore
-- John Hanc
-edition:
-start:
-end:
-summary: Cuốn sách "Organize Your Mind, Organize Your Life" hướng dẫn độc giả cách
-  tổ chức tâm trí để cải thiện hiệu quả công việc và cuộc sống. Tác giả đề xuất 6
-  nguyên tắc (Rules of Order) giúp độc giả kiểm soát cảm xúc, duy trì sự tập trung,
-  rèn luyện khả năng kiềm chế, xử lý thông tin, chuyển đổi tâm trí và kết nối ý tưởng.
+  - Paul Hammerness
+  - Margaret Moore
+  - John Hanc
+edition: 
+start: 
+end: 
+summary: Cuốn sách "Organize Your Mind, Organize Your Life" hướng dẫn độc giả cách tổ chức tâm trí để cải thiện hiệu quả công việc và cuộc sống. Tác giả đề xuất 6 nguyên tắc (Rules of Order) giúp độc giả kiểm soát cảm xúc, duy trì sự tập trung, rèn luyện khả năng kiềm chế, xử lý thông tin, chuyển đổi tâm trí và kết nối ý tưởng.
 cover: https://m.media-amazon.com/images/I/61ed7t++wzL._AC_UY218_.jpg
 rating: 670
 avg_stars: 3.34

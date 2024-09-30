@@ -1,25 +1,23 @@
 ---
 aliases:
-- Learn Like a Pro
-created: 18-03-2023 19:07:22
+  - Learn Like a Pro
+created: 2023-03-18 19:07:22
 progress: raw
 blueprint:
-- "[[../../4. Blueprint/Reading Challenges|Reading Challenges]]"
-impact:
+  - "[[../../4. Blueprint/Reading Challenges|Reading Challenges]]"
+impact: 
 tags:
-- book
-- highlight
+  - book
+  - highlight
 category:
-- Self Help
+  - Self Help
 author:
-- Barbara Oakley
-- Olav Schewe
-edition:
-start:
-end:
-summary: Cuốn sách cung cấp những kỹ thuật khoa học để nâng cao hiệu quả học tập,
-  từ cách tập trung, giải quyết vấn đề, ghi nhớ, đến cách đọc hiệu quả và chiến lược
-  thi cử hiệu quả.
+  - Barbara Oakley
+  - Olav Schewe
+edition: 
+start: 
+end: 
+summary: Cuốn sách cung cấp những kỹ thuật khoa học để nâng cao hiệu quả học tập, từ cách tập trung, giải quyết vấn đề, ghi nhớ, đến cách đọc hiệu quả và chiến lược thi cử hiệu quả.
 cover: https://m.media-amazon.com/images/I/81viMG6VEHL._AC_UY218_.jpg
 rating: 1385
 avg_stars: 4.14

@@ -1,25 +1,24 @@
 ---
 aliases:
-- The Minto Pyramid Principle
+  - The Minto Pyramid Principle
 progress: raw
 blueprint:
-- "[[../../4. Blueprint/Reading Challenges|Reading Challenges]]"
-impact:
+  - "[[../../4. Blueprint/Reading Challenges|Reading Challenges]]"
+impact: 
 tags:
-- book
-- highlight
+  - book
+  - highlight
 category:
-- Business & Economics
+  - Business & Economics
 author:
-- Minto, Barbara
+  - Minto, Barbara
 edition: 2010
-start:
-end:
-summary: A guide to clear and logical thinking and writing, based on the Minto Pyramid
-  Principle, designed to help you structure your ideas and communicate them effectively.
+start: 
+end: 
+summary: A guide to clear and logical thinking and writing, based on the Minto Pyramid Principle, designed to help you structure your ideas and communicate them effectively.
 cover: https://m.media-amazon.com/images/I/718WH3QTEGL._AC_UY218_.jpg
 rating: 0
-avg_stars: 0.0
+avg_stars: 0
 ---
 
 

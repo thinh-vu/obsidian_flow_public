@@ -1,24 +1,22 @@
 ---
 aliases:
-- Fooled by Randomness
-created: 17-03-2023 19:00:07
+  - Fooled by Randomness
+created: 2023-03-17 19:00:07
 progress: raw
 blueprint:
-- "[[../../4. Blueprint/Reading Challenges|Reading Challenges]]"
-impact:
+  - "[[../../4. Blueprint/Reading Challenges|Reading Challenges]]"
+impact: 
 tags:
-- book
-- highlight
+  - book
+  - highlight
 category:
-- Finance
+  - Finance
 author:
-- Nassim Nicholas Taleb
+  - Nassim Nicholas Taleb
 edition: 2nd
-start:
-end:
-summary: Khám phá vai trò của sự ngẫu nhiên trong cuộc sống và thị trường, cảnh báo
-  về những lỗi suy nghĩ phổ biến khiến chúng ta bị đánh lừa bởi sự ngẫu nhiên và đưa
-  ra những quyết định sai lầm.
+start: 
+end: 
+summary: Khám phá vai trò của sự ngẫu nhiên trong cuộc sống và thị trường, cảnh báo về những lỗi suy nghĩ phổ biến khiến chúng ta bị đánh lừa bởi sự ngẫu nhiên và đưa ra những quyết định sai lầm.
 cover: https://m.media-amazon.com/images/I/51urVNmy8EL._AC_UY218_.jpg
 rating: 272
 avg_stars: 4.14

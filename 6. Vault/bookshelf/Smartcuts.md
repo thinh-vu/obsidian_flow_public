@@ -1,24 +1,22 @@
 ---
 aliases:
-- Smartcuts
-created: 17-03-2023 01:21:04
+  - Smartcuts
+created: 2023-03-17 01:21:04
 progress: raw
 blueprint:
-- "[[../../4. Blueprint/Reading Challenges|Reading Challenges]]"
-impact:
+  - "[[../../4. Blueprint/Reading Challenges|Reading Challenges]]"
+impact: 
 tags:
-- book
-- highlight
+  - book
+  - highlight
 category:
-- Self Help
+  - Self Help
 author:
-- Shane Snow
-edition:
-start:
-end:
-summary: Cuốn sách khám phá 9 nguyên tắc giúp con người đạt được thành công nhanh
-  chóng và bền vững, phá vỡ các quy tắc truyền thống và tìm ra những con đường ngắn
-  hơn, thông minh hơn để đạt được mục tiêu.
+  - Shane Snow
+edition: 
+start: 
+end: 
+summary: Cuốn sách khám phá 9 nguyên tắc giúp con người đạt được thành công nhanh chóng và bền vững, phá vỡ các quy tắc truyền thống và tìm ra những con đường ngắn hơn, thông minh hơn để đạt được mục tiêu.
 rating: 6529
 avg_stars: 3.88
 cover: https://m.media-amazon.com/images/I/71NkDWwtDcL._AC_UY218_.jpg

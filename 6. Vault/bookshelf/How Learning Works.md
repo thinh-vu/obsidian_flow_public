@@ -1,28 +1,26 @@
 ---
 aliases:
-- How Learning Works
-created: 22-03-2023 23:15:40
+  - How Learning Works
+created: 2023-03-22 23:15:40
 progress: raw
 blueprint:
-- "[[../../4. Blueprint/Reading Challenges|Reading Challenges]]"
-impact:
+  - "[[../../4. Blueprint/Reading Challenges|Reading Challenges]]"
+impact: 
 tags:
-- book
-- highlight
+  - book
+  - highlight
 category:
-- Education
+  - Education
 author:
-- Susan A. Ambrose
-- Michael W. Bridges
-- Michele DiPietro
-- Marsha C. Lovett
-- Marie K. Norman
-edition:
-start:
-end:
-summary: Cuốn sách trình bày 7 nguyên tắc học tập dựa trên nghiên cứu khoa học, giúp
-  giáo viên hiểu rõ cách thức học tập của sinh viên và áp dụng những nguyên tắc này
-  vào thực tế giảng dạy.
+  - Susan A. Ambrose
+  - Michael W. Bridges
+  - Michele DiPietro
+  - Marsha C. Lovett
+  - Marie K. Norman
+edition: 
+start: 
+end: 
+summary: Cuốn sách trình bày 7 nguyên tắc học tập dựa trên nghiên cứu khoa học, giúp giáo viên hiểu rõ cách thức học tập của sinh viên và áp dụng những nguyên tắc này vào thực tế giảng dạy.
 cover: https://m.media-amazon.com/images/I/71895BIJX0L._AC_UY218_.jpg
 rating: 1313
 avg_stars: 4.12

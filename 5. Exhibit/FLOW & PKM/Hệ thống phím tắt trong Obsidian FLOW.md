@@ -2,7 +2,7 @@
 aliases:
   - Tối ưu sử dụng phím tắt trong Obsidian FLOW
 created: 27-09-2024 01:09
-progress: medium
+progress: done
 blueprint:
   - "[[../../4. Blueprint/Obsidian FLOW Methodology|Obsidian FLOW Methodology]]"
 impact: 4

@@ -16,7 +16,7 @@
       "dataSource": {
         "kind": "dataview",
         "config": {
-          "query": "TABLE WITHOUT ID file.link as Note, progress as Progress, tags as Tags, created as Created\nFROM -\"6. Vault\"\nWHERE contains(string(join(blueprint, \"  \")), \"Obsidian FLOW Methodology\") AND progress != \"done\""
+          "query": "TABLE WITHOUT ID file.link as Note, progress as Progress, impact as Impact, urgency as Urgency, tags as Tags, created as Created, publish as \"Publish Date\"\nFROM -\"6. Vault\"\nWHERE contains(string(join(blueprint, \"  \")), \"Obsidian FLOW Methodology\") AND progress != \"done\"\nSORT Impact DESC"
         }
       },
       "newNotesFolder": "",
@@ -54,7 +54,12 @@
           "sort": {
             "criteria": [
               {
-                "field": "Tags",
+                "field": "Impact",
+                "order": "desc",
+                "enabled": true
+              },
+              {
+                "field": "Progress",
                 "order": "asc",
                 "enabled": true
               }
@@ -65,7 +70,9 @@
           "type": "table"
         },
         {
-          "config": {},
+          "config": {
+            "groupByField": "Progress"
+          },
           "filter": {
             "conjunction": "and",
             "conditions": []

@@ -1,25 +1,22 @@
 ---
 aliases:
-- How to Take Smart Notes
-created: 06-10-2023 11:15:30
+  - How to Take Smart Notes
+created: 2023-10-06 11:15:30
 progress: raw
 blueprint:
-- "[[../../4. Blueprint/Reading Challenges|Reading Challenges]]"
-impact:
+  - "[[../../4. Blueprint/Reading Challenges|Reading Challenges]]"
+impact: 
 tags:
-- book
-- highlight
+  - book
+  - highlight
 category:
-- Self-Help
+  - Self-Help
 author:
-- Sönke Ahrens
-edition:
-start:
-end:
-summary: '"How to Take Smart Notes" là một cuốn sách hướng dẫn phương pháp ghi chú
-  thông minh để nâng cao hiệu suất viết, học tập và suy nghĩ. Tác giả Sönke Ahrens
-  giới thiệu hệ thống ghi chú Zettelkasten của Niklas Luhmann, một kỹ thuật hiệu quả
-  giúp thu thập kiến thức, kết nối ý tưởng và tạo ra nội dung chất lượng cao.'
+  - Sönke Ahrens
+edition: 
+start: 
+end: 
+summary: '"How to Take Smart Notes" là một cuốn sách hướng dẫn phương pháp ghi chú thông minh để nâng cao hiệu suất viết, học tập và suy nghĩ. Tác giả Sönke Ahrens giới thiệu hệ thống ghi chú Zettelkasten của Niklas Luhmann, một kỹ thuật hiệu quả giúp thu thập kiến thức, kết nối ý tưởng và tạo ra nội dung chất lượng cao.'
 cover: https://m.media-amazon.com/images/I/61l+o0RTsDL._AC_UL320_.jpg
 rating: 11573
 avg_stars: 4.12

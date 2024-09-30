@@ -1,26 +1,24 @@
 ---
 aliases:
-- Make It Stick
-created: 23-03-2023 16:50:15
+  - Make It Stick
+created: 2023-03-23 16:50:15
 progress: raw
 blueprint:
-- "[[../../4. Blueprint/Reading Challenges|Reading Challenges]]"
-impact:
+  - "[[../../4. Blueprint/Reading Challenges|Reading Challenges]]"
+impact: 
 tags:
-- book
-- highlight
+  - book
+  - highlight
 category:
-- Education
+  - Education
 author:
-- Peter C. Brown
-- Henry L. Roediger III
-- Mark A. McDaniel
-edition:
-start:
-end:
-summary: Khám phá khoa học về học tập hiệu quả, giúp bạn hiểu rõ các phương pháp học
-  hiệu quả dựa trên nghiên cứu khoa học, thay thế những kỹ thuật học tập kém hiệu
-  quả nhưng phổ biến.
+  - Peter C. Brown
+  - Henry L. Roediger III
+  - Mark A. McDaniel
+edition: 
+start: 
+end: 
+summary: Khám phá khoa học về học tập hiệu quả, giúp bạn hiểu rõ các phương pháp học hiệu quả dựa trên nghiên cứu khoa học, thay thế những kỹ thuật học tập kém hiệu quả nhưng phổ biến.
 cover: https://m.media-amazon.com/images/I/71R50407NOL._AC_UY218_.jpg
 rating: 19837
 avg_stars: 4.16

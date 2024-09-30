@@ -1,25 +1,22 @@
 ---
 aliases:
-- "Getting Things Done: The Art of Stress-Free Productivity"
-created: 05-10-2023 16:33:45
+  - "Getting Things Done: The Art of Stress-Free Productivity"
+created: 2023-10-05 16:33:45
 progress: raw
 blueprint:
-- "[[../../4. Blueprint/Reading Challenges|Reading Challenges]]"
-impact:
+  - "[[../../4. Blueprint/Reading Challenges|Reading Challenges]]"
+impact: 
 tags:
-- book
-- highlight
+  - book
+  - highlight
 category:
-- Self-Help
+  - Self-Help
 author:
-- David Allen
+  - David Allen
 edition: Revised Edition
-start:
-end:
-summary: "GTD là một phương pháp quản lý công việc và cuộc sống hiệu quả, giúp bạn
-  giảm stress, tăng năng suất và tập trung vào những điều quan trọng. Tác giả David
-  Allen giới thiệu 5 bước để kiểm soát mọi thứ: Thu thập, Xác định, Tổ chức, Phản
-  ánh và Thực thi. "
+start: 
+end: 
+summary: "GTD là một phương pháp quản lý công việc và cuộc sống hiệu quả, giúp bạn giảm stress, tăng năng suất và tập trung vào những điều quan trọng. Tác giả David Allen giới thiệu 5 bước để kiểm soát mọi thứ: Thu thập, Xác định, Tổ chức, Phản ánh và Thực thi. "
 cover: https://m.media-amazon.com/images/I/81T9Hk+soDL._AC_UY218_.jpg
 rating: 160300
 avg_stars: 4.01

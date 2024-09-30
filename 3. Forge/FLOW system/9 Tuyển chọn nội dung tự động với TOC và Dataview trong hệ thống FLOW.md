@@ -1,7 +1,7 @@
 ---
 aliases:
   - 92. Tuyển chọn nội dung tự động với TOC và Dataview trong hệ thống FLOW
-created: 16-09-2024 23:09:24
+created: 2024-09-16 23:09:24
 status: done
 blueprint:
   - "[[../../4. Blueprint/Obsidian FLOW Methodology|Obsidian FLOW Methodology]]"
@@ -9,7 +9,7 @@ impact: "5"
 urgency: 
 tags:
   - user-manual
-category:
+category: 
 ---
 
 Trong hệ thống **FLOW**, việc tổ chức thông tin không chỉ dừng lại ở việc sử dụng các thư mục (folders), mà còn bao gồm cả việc tạo ra các bản đồ nội dung với Blueprint[^1] để bạn dễ dàng điều hướng qua các ghi chú, dự án và chủ đề phức tạp. **Blueprint** có thể được sử dụng làm tấm bản đồ nội dung cho từng dự án, thư mục cụ thể, giúp bạn có cái nhìn tổng quan và quản lý thông tin một cách hiệu quả.

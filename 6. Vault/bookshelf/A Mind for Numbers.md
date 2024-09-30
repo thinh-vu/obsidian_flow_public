@@ -1,23 +1,21 @@
 ---
 aliases:
-- A Mind for Numbers
+  - A Mind for Numbers
 progress: raw
 blueprint:
-- "[[../../4. Blueprint/Reading Challenges|Reading Challenges]]"
-impact:
+  - "[[../../4. Blueprint/Reading Challenges|Reading Challenges]]"
+impact: 
 tags:
-- book
-- highlight
+  - book
+  - highlight
 category:
-- Education
+  - Education
 author:
-- Oakley, Barbara
-edition:
-start:
-end:
-summary: A guide to improving your learning in math and science, by understanding
-  how your brain works and using effective techniques for focus, memory, and problem
-  solving.
+  - Oakley, Barbara
+edition: 
+start: 
+end: 
+summary: A guide to improving your learning in math and science, by understanding how your brain works and using effective techniques for focus, memory, and problem solving.
 cover: https://m.media-amazon.com/images/I/618nqGazdPL._AC_UY218_.jpg
 rating: 20403
 avg_stars: 4.2

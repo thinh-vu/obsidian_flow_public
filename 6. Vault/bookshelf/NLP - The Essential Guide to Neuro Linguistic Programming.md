@@ -1,25 +1,23 @@
 ---
 aliases:
-- "NLP: The Essential Guide to Neuro-Linguistic Programming"
+  - "NLP: The Essential Guide to Neuro-Linguistic Programming"
 progress: raw
 blueprint:
-- "[[../../4. Blueprint/Reading Challenges|Reading Challenges]]"
-impact:
+  - "[[../../4. Blueprint/Reading Challenges|Reading Challenges]]"
+impact: 
 tags:
-- book
-- highlight
+  - book
+  - highlight
 category:
-- Self-Help
+  - Self-Help
 author:
-- Hoobyar, Tom
-- Dotz, Tom
-- Sanders, Susan
-edition:
-start:
-end:
-summary: An engaging and practical guide to mastering NLP for personal and professional
-  success. Learn how your mind works and how to influence your thoughts, feelings,
-  and communication.
+  - Hoobyar, Tom
+  - Dotz, Tom
+  - Sanders, Susan
+edition: 
+start: 
+end: 
+summary: An engaging and practical guide to mastering NLP for personal and professional success. Learn how your mind works and how to influence your thoughts, feelings, and communication.
 cover: https://m.media-amazon.com/images/I/81TYJtYtH8L._AC_UY218_.jpg
 rating: 1123
 avg_stars: 3.97

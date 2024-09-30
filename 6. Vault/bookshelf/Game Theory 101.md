@@ -1,24 +1,22 @@
 ---
 aliases:
-- Game Theory 101
-created: 25-03-2023 18:32:19
+  - Game Theory 101
+created: 2023-03-25 18:32:19
 progress: raw
 blueprint:
-- "[[../../4. Blueprint/Reading Challenges|Reading Challenges]]"
-impact:
+  - "[[../../4. Blueprint/Reading Challenges|Reading Challenges]]"
+impact: 
 tags:
-- book
-- highlight
+  - book
+  - highlight
 category:
-- Mathematics
+  - Mathematics
 author:
-- William Spaniel
-edition:
-start:
-end:
-summary: Cuốn sách giới thiệu các khái niệm cơ bản về lý thuyết trò chơi thông qua
-  các ví dụ cụ thể và dễ hiểu, bao gồm các khái niệm về ưu thế tuyệt đối, cân bằng
-  Nash, suy luận ngược và những ứng dụng thực tiễn.
+  - William Spaniel
+edition: 
+start: 
+end: 
+summary: Cuốn sách giới thiệu các khái niệm cơ bản về lý thuyết trò chơi thông qua các ví dụ cụ thể và dễ hiểu, bao gồm các khái niệm về ưu thế tuyệt đối, cân bằng Nash, suy luận ngược và những ứng dụng thực tiễn.
 cover: https://m.media-amazon.com/images/I/61zzkB26vzL._AC_UY218_.jpg
 rating: 314
 avg_stars: 3.47

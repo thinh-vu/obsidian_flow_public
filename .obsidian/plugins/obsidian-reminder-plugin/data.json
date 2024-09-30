@@ -1,19 +1,6 @@
 {
   "scanned": true,
-  "reminders": {
-    "2. Track/2024-09-29.md": [
-      {
-        "title": "Chia sẻ Vault mẫu Obsidian FLOW cho các bạn đăng ký theo dõi qua Substack",
-        "time": "2024-09-29 20:00",
-        "rowNumber": 10
-      },
-      {
-        "title": "Thiết lập Home note để điều hướng ghi chú trong Vault cho user",
-        "time": "2024-10-06",
-        "rowNumber": 11
-      }
-    ]
-  },
+  "reminders": {},
   "debug": false,
   "settings": {
     "reminderTime": "09:00",

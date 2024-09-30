@@ -1,24 +1,22 @@
 ---
 aliases:
-- Words That Change Minds
-created: 16-03-2023 19:46:58
+  - Words That Change Minds
+created: 2023-03-16 19:46:58
 progress: raw
 blueprint:
-- "[[../../4. Blueprint/Reading Challenges|Reading Challenges]]"
-impact:
+  - "[[../../4. Blueprint/Reading Challenges|Reading Challenges]]"
+impact: 
 tags:
-- book
-- highlight
+  - book
+  - highlight
 category:
-- Self Help
+  - Self Help
 author:
-- Shelle Rose Charvet
+  - Shelle Rose Charvet
 edition: 3rd
-start:
-end:
-summary: Hướng dẫn sử dụng LAB Profile® để phân tích và hiểu rõ động lực, cách suy
-  nghĩ và đưa ra quyết định của mọi người, từ đó nâng cao khả năng giao tiếp, thuyết
-  phục và ảnh hưởng tích cực đến người khác.
+start: 
+end: 
+summary: Hướng dẫn sử dụng LAB Profile® để phân tích và hiểu rõ động lực, cách suy nghĩ và đưa ra quyết định của mọi người, từ đó nâng cao khả năng giao tiếp, thuyết phục và ảnh hưởng tích cực đến người khác.
 rating: 1882
 avg_stars: 3.69
 cover: https://m.media-amazon.com/images/I/813XOq1GMzL._AC_UY218_.jpg

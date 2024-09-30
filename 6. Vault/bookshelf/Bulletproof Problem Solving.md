@@ -1,26 +1,23 @@
 ---
 aliases:
-- Bulletproof Problem Solving
-created: 24-03-2023 22:15:46
+  - Bulletproof Problem Solving
+created: 2023-03-24 22:15:46
 progress: raw
 blueprint:
-- "[[../../4. Blueprint/Reading Challenges|Reading Challenges]]"
-impact:
+  - "[[../../4. Blueprint/Reading Challenges|Reading Challenges]]"
+impact: 
 tags:
-- book
-- highlight
+  - book
+  - highlight
 category:
-- Business
+  - Business
 author:
-- Charles Conn
-- Robert McLean
-edition:
-start:
-end:
-summary: Cuốn sách giới thiệu một phương pháp giải quyết vấn đề có hệ thống được gọi
-  là Bulletproof Problem Solving, được phát triển tại McKinsey & Company,  gồm 7 bước,
-  giúp bạn xử lý các vấn đề từ cá nhân đến doanh nghiệp, và cả những vấn đề phức tạp
-  cấp xã hội.
+  - Charles Conn
+  - Robert McLean
+edition: 
+start: 
+end: 
+summary: Cuốn sách giới thiệu một phương pháp giải quyết vấn đề có hệ thống được gọi là Bulletproof Problem Solving, được phát triển tại McKinsey & Company,  gồm 7 bước, giúp bạn xử lý các vấn đề từ cá nhân đến doanh nghiệp, và cả những vấn đề phức tạp cấp xã hội.
 cover: https://m.media-amazon.com/images/I/61JEz-8bMkL._AC_UY218_.jpg
 rating: 850
 avg_stars: 4.07

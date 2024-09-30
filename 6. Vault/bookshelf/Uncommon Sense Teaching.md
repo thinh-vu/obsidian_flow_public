@@ -1,26 +1,24 @@
 ---
 aliases:
-- Uncommon Sense Teaching
-created: 18-03-2023 18:12:51
+  - Uncommon Sense Teaching
+created: 2023-03-18 18:12:51
 progress: raw
 blueprint:
-- "[[../../4. Blueprint/Reading Challenges|Reading Challenges]]"
-impact:
+  - "[[../../4. Blueprint/Reading Challenges|Reading Challenges]]"
+impact: 
 tags:
-- book
-- highlight
+  - book
+  - highlight
 category:
-- Education
+  - Education
 author:
-- Barbara Oakley
-- Beth Rogowsky
-- Terrence Sejnowski
-edition:
-start:
-end:
-summary: Cuốn sách mang đến những kiến thức về khoa học thần kinh và tâm lý học nhận
-  thức để giúp giáo viên cải thiện cách giảng dạy và học sinh cải thiện khả năng học
-  tập.
+  - Barbara Oakley
+  - Beth Rogowsky
+  - Terrence Sejnowski
+edition: 
+start: 
+end: 
+summary: Cuốn sách mang đến những kiến thức về khoa học thần kinh và tâm lý học nhận thức để giúp giáo viên cải thiện cách giảng dạy và học sinh cải thiện khả năng học tập.
 cover: https://m.media-amazon.com/images/I/71lt-QLaDgL._AC_UY218_.jpg
 rating: 668
 avg_stars: 4.2

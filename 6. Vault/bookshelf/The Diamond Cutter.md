@@ -1,27 +1,22 @@
 ---
 aliases:
-- The Diamond Cutter
-created: 05-10-2023 15:35:31
+  - The Diamond Cutter
+created: 2023-10-05 15:35:31
 progress: raw
 blueprint:
-- "[[../../4. Blueprint/Reading Challenges|Reading Challenges]]"
-impact:
+  - "[[../../4. Blueprint/Reading Challenges|Reading Challenges]]"
+impact: 
 tags:
-- book
-- highlight
+  - book
+  - highlight
 category:
-- Business & Economics
+  - Business & Economics
 author:
-- Geshe Michael Roach
-edition:
-start:
-end:
-summary: '"The Diamond Cutter" là một cuốn sách kết hợp triết lý Phật giáo với quản
-  lý kinh doanh, cung cấp những lời khuyên thực tế để đạt được thành công và hạnh
-  phúc trong cuộc sống. Tác giả Geshe Michael Roach chia sẻ những nguyên tắc từ kinh
-  sách Phật giáo "Vajracchedik Prajnaparamita Sutra" để giúp độc giả hiểu rõ hơn về
-  bản chất của cuộc sống, cách khai thác tiềm năng bản thân và tạo dựng thành công
-  bền vững.'
+  - Geshe Michael Roach
+edition: 
+start: 
+end: 
+summary: '"The Diamond Cutter" là một cuốn sách kết hợp triết lý Phật giáo với quản lý kinh doanh, cung cấp những lời khuyên thực tế để đạt được thành công và hạnh phúc trong cuộc sống. Tác giả Geshe Michael Roach chia sẻ những nguyên tắc từ kinh sách Phật giáo "Vajracchedik Prajnaparamita Sutra" để giúp độc giả hiểu rõ hơn về bản chất của cuộc sống, cách khai thác tiềm năng bản thân và tạo dựng thành công bền vững.'
 cover: https://m.media-amazon.com/images/I/817tWTPJ3lL._AC_UY218_.jpg
 rating: 27
 avg_stars: 2.85

@@ -1,6 +1,6 @@
 ---
 aliases: []
-created: <% tp.file.creation_date("DD-MM-YYYY HH:mm") %>
+created: <% tp.file.creation_date("YYYY-MM-DD HH:mm") %>
 progress: raw
 blueprint: []
 impact: 

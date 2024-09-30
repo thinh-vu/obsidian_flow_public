@@ -1,24 +1,21 @@
 ---
 aliases:
-- Stumbling on Happiness
+  - Stumbling on Happiness
 progress: raw
 blueprint:
-- "[[../../4. Blueprint/Reading Challenges|Reading Challenges]]"
-impact:
+  - "[[../../4. Blueprint/Reading Challenges|Reading Challenges]]"
+impact: 
 tags:
-- book
-- highlight
+  - book
+  - highlight
 category:
-- Psychology
+  - Psychology
 author:
-- Daniel Gilbert
-edition:
-start:
-end:
-summary: Cuốn sách "Stumbling on Happiness" của Daniel Gilbert là một cuộc khám phá
-  hấp dẫn về khả năng của não bộ con người trong việc tưởng tượng về tương lai, dự
-  đoán phản ứng cảm xúc và những hạn chế dẫn đến việc chúng ta thường đánh giá sai
-  hạnh phúc của bản thân.
+  - Daniel Gilbert
+edition: 
+start: 
+end: 
+summary: Cuốn sách "Stumbling on Happiness" của Daniel Gilbert là một cuộc khám phá hấp dẫn về khả năng của não bộ con người trong việc tưởng tượng về tương lai, dự đoán phản ứng cảm xúc và những hạn chế dẫn đến việc chúng ta thường đánh giá sai hạnh phúc của bản thân.
 cover: https://m.media-amazon.com/images/I/51F1B1U11RL._AC_UY218_.jpg
 rating: 61817
 avg_stars: 3.83

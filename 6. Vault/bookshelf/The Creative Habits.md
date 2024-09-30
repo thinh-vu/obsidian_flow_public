@@ -1,24 +1,22 @@
 ---
 aliases:
-- "The Creative Habit: Learn It and Use It for Life"
-created: 06-10-2023 15:30:27
+  - "The Creative Habit: Learn It and Use It for Life"
+created: 2023-10-06 15:30:27
 progress: raw
 blueprint:
-- "[[../../4. Blueprint/Reading Challenges|Reading Challenges]]"
-impact:
+  - "[[../../4. Blueprint/Reading Challenges|Reading Challenges]]"
+impact: 
 tags:
-- book
-- highlight
+  - book
+  - highlight
 category:
-- Self-Help
+  - Self-Help
 author:
-- Twyla Tharp
-edition:
-start:
-end:
-summary: '"The Creative Habit" là một cuốn sách về sự sáng tạo, chia sẻ kinh nghiệm
-  và lời khuyên của nhà biên đạo múa Twyla Tharp.  Nó nhấn mạnh vai trò của sự chuẩn
-  bị, kỷ luật, và thói quen trong việc khai thác tiềm năng sáng tạo của bản thân.'
+  - Twyla Tharp
+edition: 
+start: 
+end: 
+summary: '"The Creative Habit" là một cuốn sách về sự sáng tạo, chia sẻ kinh nghiệm và lời khuyên của nhà biên đạo múa Twyla Tharp.  Nó nhấn mạnh vai trò của sự chuẩn bị, kỷ luật, và thói quen trong việc khai thác tiềm năng sáng tạo của bản thân.'
 cover: https://m.media-amazon.com/images/I/619EWpDPrIL._AC_UY218_.jpg
 rating: 38765
 avg_stars: 4.07

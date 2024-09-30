@@ -6,7 +6,7 @@ created-after: 2024-08-01
 ```dataview
 TABLE impact, created
 FROM -"6. Vault"
-WHERE contains(string(join(blueprint, "  ")), this.file.name) AND number(impact) >= number(this.min-impact) AND date(created, "dd-MM-yyyy HH:mm:ss") >= date(this.created-after)
+WHERE contains(string(join(blueprint, "  ")), this.file.name) AND number(impact) >= number(this.min-impact) AND date(created, "yyyy-MM-dd HH:mm:ss") >= date(this.created-after)
 SORT rank DESC, created DESC
 ```
 

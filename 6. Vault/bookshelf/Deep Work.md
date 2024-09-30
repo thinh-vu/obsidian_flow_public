@@ -1,24 +1,22 @@
 ---
 aliases:
-- Deep Work
-created: 05-10-2023 15:24:43
+  - Deep Work
+created: 2023-10-05 15:24:43
 progress: raw
 blueprint:
-- "[[../../4. Blueprint/Reading Challenges|Reading Challenges]]"
-impact:
+  - "[[../../4. Blueprint/Reading Challenges|Reading Challenges]]"
+impact: 
 tags:
-- book
-- highlight
+  - book
+  - highlight
 category:
-- Business & Economics
+  - Business & Economics
 author:
-- Cal Newport
-edition:
-start:
-end:
-summary: Deep Work là một cuốn sách về nghệ thuật tập trung trong thế giới đầy xao
-  nhãng. Tác giả Cal Newport lý giải giá trị của Deep Work, một dạng công việc đòi
-  hỏi tập trung tối đa, và đưa ra các quy tắc để phát triển kỹ năng này.
+  - Cal Newport
+edition: 
+start: 
+end: 
+summary: Deep Work là một cuốn sách về nghệ thuật tập trung trong thế giới đầy xao nhãng. Tác giả Cal Newport lý giải giá trị của Deep Work, một dạng công việc đòi hỏi tập trung tối đa, và đưa ra các quy tắc để phát triển kỹ năng này.
 cover: https://m.media-amazon.com/images/I/91ZEUnFeUSL._SY445_SX342_.jpg
 rating: 163386
 avg_stars: 4.18

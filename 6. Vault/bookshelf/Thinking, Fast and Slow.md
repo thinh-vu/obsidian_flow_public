@@ -1,24 +1,22 @@
 ---
 aliases:
-- Thinking, Fast and Slow
+  - Thinking, Fast and Slow
 created: 2024-09-20T17:36:47
 progress: raw
 blueprint:
-- "[[../../4. Blueprint/Reading Challenges|Reading Challenges]]"
-impact:
+  - "[[../../4. Blueprint/Reading Challenges|Reading Challenges]]"
+impact: 
 tags:
-- book
-- highlight
+  - book
+  - highlight
 category:
-- Psychology
+  - Psychology
 author:
-- Daniel Kahneman
-edition:
-start:
-end:
-summary: Tóm tắt những phát hiện đột phá về tâm lý học nhận thức, giải thích cách
-  thức hoạt động của hai hệ thống suy nghĩ trong não bộ và cách thức chúng ảnh hưởng
-  đến quyết định của chúng ta.
+  - Daniel Kahneman
+edition: 
+start: 
+end: 
+summary: Tóm tắt những phát hiện đột phá về tâm lý học nhận thức, giải thích cách thức hoạt động của hai hệ thống suy nghĩ trong não bộ và cách thức chúng ảnh hưởng đến quyết định của chúng ta.
 cover: https://m.media-amazon.com/images/I/61ZQRfblKrL._AC_UY218_.jpg
 rating: 519292
 avg_stars: 4.18

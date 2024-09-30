@@ -1,23 +1,21 @@
 ---
 aliases:
-- Being Logical
+  - Being Logical
 progress: raw
 blueprint:
-- "[[../../4. Blueprint/Reading Challenges|Reading Challenges]]"
-impact:
+  - "[[../../4. Blueprint/Reading Challenges|Reading Challenges]]"
+impact: 
 tags:
-- book
-- highlight
+  - book
+  - highlight
 category:
-- Philosophy
+  - Philosophy
 author:
-- McInerny, D. Q.
+  - McInerny, D. Q.
 edition: 2004
-start:
-end:
-summary: Hướng dẫn thực hành về cách suy nghĩ rõ ràng và hiệu quả, bao gồm các nguyên
-  tắc cơ bản của logic, các dạng suy luận sai lầm (fallacies) và những thái độ có
-  thể cản trở tư duy logic.
+start: 
+end: 
+summary: Hướng dẫn thực hành về cách suy nghĩ rõ ràng và hiệu quả, bao gồm các nguyên tắc cơ bản của logic, các dạng suy luận sai lầm (fallacies) và những thái độ có thể cản trở tư duy logic.
 cover: https://m.media-amazon.com/images/I/51y6nuVaeNL._AC_UY218_.jpg
 rating: 1941
 avg_stars: 3.75

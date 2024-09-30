@@ -24,7 +24,8 @@ Xem thêm: [Hệ thống phím tắt trong Obsidian FLOW](../5.%20Exhibit/FLOW%2
 
 > [!todo]
 > Sử dụng Tasks Calendar Wrapper plugin để quản lý nhiệm vụ cần làm
-> Sử dụng Reminder plugin để đặt nhắc nhở, gõ `(@` để kích hoạt giao diện chọn ngày, giờ nhắc nhở.
+> Sử dụng Reminder plugin để đặt nhắc nhở, gõ `(@` để kích hoạt giao diện chọn ngày, giờ nhắc nhở. Click vào "Focus On Today" sẽ hiện ra dòng thời gian các nhiệm vụ như trong hình.
+
 
 ![](../6.%20Vault/attachments/Pasted%20image%2020240929172844.png)
 

@@ -8,18 +8,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ad37673f197f7043",
+            "id": "725c476fc78a33e9",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "pinned": true
+              "type": "obsidian-projects",
+              "state": {}
             }
           },
           {
@@ -51,22 +44,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "63c994e4ba9c00a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:migration",
+                "query": "[\"impact\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -140,7 +119,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 366.5
+    "width": 321.5
   },
   "right": {
     "id": "b2a70d1e73e50140",
@@ -164,7 +143,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +159,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,9 +192,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -232,7 +207,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "README.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -265,7 +239,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 360.5
+    "width": 375.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -279,7 +253,6 @@
       "random-note:Open random note": false,
       "switcher:Open quick switcher": false,
       "templates:Insert template": false,
-      "marp-slides:Show Slide Preview": false,
       "templater-obsidian:Templater": false,
       "file-cleaner-redux:Clean files": false,
       "obsidian-projects:Open projects": false,
@@ -288,47 +261,51 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "63c994e4ba9c00a1",
+  "active": "725c476fc78a33e9",
   "lastOpenFiles": [
+    "5. Exhibit/FLOW & PKM/Hệ thống phím tắt trong Obsidian FLOW.md",
+    "5. Exhibit/FLOW & PKM/FLOW - Nhà Máy Sản Xuất Ý Tưởng & Hành Trình Sáng Tạo.md",
+    "6. Vault/attachments/nha-may-san-xuat-y-tuong-flow 1.png",
+    "6. Vault/attachments/nha-may-san-xuat-y-tuong-flow.png",
+    "1. Capture/Điều hướng trong Obsidian FLOW.md",
+    "1. Capture/Tự động hoá thay đổi nội dung markdown với Python Script.md",
+    "1. Capture/Tại sao chúng ta sợ những điều không có khả năng giết chúng ta?.md",
+    "1. Capture/Làm quen các thao tác Git CLI với dòng lệnh.md",
+    "1. Capture/Chiến lược quản lý chi tiêu.md",
+    "1. Capture/Cài đặt Obsidian Project.md",
+    "README.md",
+    "6. Vault/attachments/Obsidian_FLOW_is_ready_for_you.png",
+    "6. Vault/attachments/select_the_latest_release_tag.png",
+    "6. Vault/attachments/download_release_zip_file.png",
+    "README.pdf",
+    "2. Track/2024-09-30.md",
+    "6. Vault/templater/Daily.md",
+    "6. Vault/templater/TOC.md",
+    "6. Vault/templater/New.md",
+    "6. Vault/templates/1. New Note.md",
+    "6. Vault/templates/2. Thought.md",
+    "6. Vault/templates/3. Blog.md",
+    "6. Vault/templates/5. Daily.md",
+    "6. Vault/templates/6. Read.md",
+    "6. Vault/templates/7. Project.md",
+    "6. Vault/templates/8. Profile.md",
+    "6. Vault/templates/9. TOC.md",
+    "6. Vault/templates/10. Blueprint.md",
+    "2. Track/2024-09-21.md",
+    "2. Track/2024-09-29.md",
+    "6. Vault/attachments/obsidian_vault_feedback_nguyen-truong-thinh.png",
+    "4. Blueprint/Obsidian FLOW Methodology.md",
+    "6. Vault/attachments/modify_markdown_yaml_front_matter.png",
+    "6. Vault/attachments/run_python_script_in_visual_studio_code.png",
+    "6. Vault/scripts/yaml_add_field_tkinter_ui.py",
+    "6. Vault/scripts/replace_md_text.py",
+    "6. Vault/scripts/update_properties_time_format.py",
+    "6. Vault/scripts",
+    "5. Exhibit/FLOW & PKM/1. Giới thiệu phương pháp FLOW.md",
     "6. Vault/attachments/obsidian_flow_github_template_repo.png",
     "6. Vault/attachments/obsidian_flow_github_download_zip.png",
-    "README.pdf",
-    "README.md",
-    "4. Blueprint/Obsidian FLOW Methodology.md",
-    "1. Capture/Điều hướng trong Obsidian FLOW.md",
-    "6. Vault/attachments/floating_toc.png",
-    "5. Exhibit/FLOW & PKM/1. Giới thiệu phương pháp FLOW.md",
-    "6. Vault/attachments/Pasted image 20240929173717.png",
-    "Home.md",
-    "6. Vault/attachments/Pasted image 20240929172844.png",
-    "6. Vault/attachments/obsidian_flow_ribbon_navigation.png",
-    "6. Vault/attachments/Pasted image 20240929172500.png",
-    "1. Capture/4. Feedback khoá học Python.md",
-    "1. Capture/2, Obsidian Roadmap - From Novice to Master.md",
-    "1. Capture/Community Plugin sử dụng trong Obsidian FLOW.md",
-    "1. Capture/Làm quen các thao tác Git CLI với dòng lệnh.md",
-    "1. Capture/Cài đặt Obsidian Project.md",
-    "1. Capture/0. Tổng quan Vault.md",
-    "1. Capture/Chiến lược quản lý chi tiêu.md",
-    "1. Capture/Bị Lừa Bởi Sự Ngẫu Nhiên - Cuộc Sống Không Như Ta Nghĩ.md",
-    "1. Capture/1. Xin chào, đây là Thịnh.md",
-    "5. Storage/visuals/Drawing 2024-09-29 17.06.17.excalidraw.md",
     "5. Storage/visuals",
     "5. Storage",
-    "4. Blueprint/Reading Challenges.md",
-    "1. Capture/Tại sao chúng ta sợ những điều không có khả năng giết chúng ta?.md",
-    "4. Blueprint/Content Plan.md",
-    "6. Vault/archived/Sử dụng Github 101.md",
-    "6. Vault/visuals/1. New Note.md",
-    "3. Forge/FLOW system/1. Phương pháp quản lý cấu trúc Vault linh hoạt với FLOW.md",
-    "1. Capture/demo.md",
-    "1. Capture/Untitled 2.md",
-    "3. Forge/FLOW system/6. Vòng đời của một ghi chú.md",
-    "3. Forge/FLOW system/3. Hướng dẫn nhanh để bắt đầu viết và tổ chức ghi chú.md",
-    "6. Vault/attachments/quick_intro_thinhvu.png",
-    "6. Vault/attachments/obsidian-flow-shortcuts-he-thong-phim-tat.png",
-    "6. Vault/attachments/obsidian_flow_command_palette_shortcuts.png",
-    "package-lock.json",
-    "6. Vault/attachments/Tran Bao Chau SSI.png"
+    "package-lock.json"
   ]
 }

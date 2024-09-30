@@ -1,24 +1,22 @@
 ---
 aliases:
-- Competitive Advantage
-created: 26-03-2023 17:08:58
+  - Competitive Advantage
+created: 2023-03-26 17:08:58
 progress: raw
 blueprint:
-- "[[../../4. Blueprint/Reading Challenges|Reading Challenges]]"
-impact:
+  - "[[../../4. Blueprint/Reading Challenges|Reading Challenges]]"
+impact: 
 tags:
-- book
-- highlight
+  - book
+  - highlight
 category:
-- Business
+  - Business
 author:
-- Michael E. Porter
-edition:
-start:
-end:
-summary: Cuốn sách cung cấp một khung phân tích cạnh tranh, giúp các doanh nghiệp
-  nhận diện và duy trì lợi thế cạnh tranh thông qua việc phân tích chuỗi giá trị,
-  phân tích chi phí và phân biệt hóa.
+  - Michael E. Porter
+edition: 
+start: 
+end: 
+summary: Cuốn sách cung cấp một khung phân tích cạnh tranh, giúp các doanh nghiệp nhận diện và duy trì lợi thế cạnh tranh thông qua việc phân tích chuỗi giá trị, phân tích chi phí và phân biệt hóa.
 cover: https://m.media-amazon.com/images/I/71qG+wTLIyL._AC_UY218_.jpg
 rating: 4795
 avg_stars: 4.17

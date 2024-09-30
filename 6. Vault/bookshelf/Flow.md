@@ -1,26 +1,22 @@
 ---
 aliases:
-- "Flow: The Psychology of Optimal Experience"
-created: 06-10-2023 16:58:27
+  - "Flow: The Psychology of Optimal Experience"
+created: 2023-10-06 16:58:27
 progress: raw
 blueprint:
-- "[[../../4. Blueprint/Reading Challenges|Reading Challenges]]"
-impact:
+  - "[[../../4. Blueprint/Reading Challenges|Reading Challenges]]"
+impact: 
 tags:
-- book
-- highlight
+  - book
+  - highlight
 category:
-- Psychology
+  - Psychology
 author:
-- Mihaly Csikszentmihalyi
-edition:
-start:
-end:
-summary: '"Flow" là một cuốn sách về trạng thái tâm lý tối ưu, giải thích cách thức
-  để đạt được hạnh phúc và sự viên mãn trong cuộc sống. Tác giả Mihaly Csikszentmihalyi
-  đưa ra lý thuyết về "trạng thái dòng chảy", một trạng thái tâm lý đạt được khi kỹ
-  năng cá nhân phù hợp với thử thách, tạo ra sự tập trung, hứng thú và sự nhập tâm
-  hoàn toàn vào hoạt động.'
+  - Mihaly Csikszentmihalyi
+edition: 
+start: 
+end: 
+summary: '"Flow" là một cuốn sách về trạng thái tâm lý tối ưu, giải thích cách thức để đạt được hạnh phúc và sự viên mãn trong cuộc sống. Tác giả Mihaly Csikszentmihalyi đưa ra lý thuyết về "trạng thái dòng chảy", một trạng thái tâm lý đạt được khi kỹ năng cá nhân phù hợp với thử thách, tạo ra sự tập trung, hứng thú và sự nhập tâm hoàn toàn vào hoạt động.'
 cover: https://m.media-amazon.com/images/I/61OLmI7kpVL._AC_UY218_.jpg
 rating: 81935
 avg_stars: 4.11

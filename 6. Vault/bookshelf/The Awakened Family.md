@@ -1,25 +1,22 @@
 ---
 aliases:
-- The Awakened Family
-created: 05-10-2023 15:33:47
+  - The Awakened Family
+created: 2023-10-05 15:33:47
 progress: raw
 blueprint:
-- "[[../../4. Blueprint/Reading Challenges|Reading Challenges]]"
-impact:
+  - "[[../../4. Blueprint/Reading Challenges|Reading Challenges]]"
+impact: 
 tags:
-- book
-- highlight
+  - book
+  - highlight
 category:
-- Family & Relationships
+  - Family & Relationships
 author:
-- Shefali Tsabary
-edition:
-start:
-end:
-summary: '"The Awakened Family" là một cuốn sách về nuôi dạy con cái có ý thức, giúp
-  cha mẹ nhận thức rõ hơn về bản thân và cách thức nuôi dạy con hiệu quả. Tác giả
-  Shefali Tsabary nhấn mạnh vai trò của sự tỉnh thức, đồng cảm và lòng trắc ẩn trong
-  việc tạo ra mối quan hệ lành mạnh với con cái.'
+  - Shefali Tsabary
+edition: 
+start: 
+end: 
+summary: '"The Awakened Family" là một cuốn sách về nuôi dạy con cái có ý thức, giúp cha mẹ nhận thức rõ hơn về bản thân và cách thức nuôi dạy con hiệu quả. Tác giả Shefali Tsabary nhấn mạnh vai trò của sự tỉnh thức, đồng cảm và lòng trắc ẩn trong việc tạo ra mối quan hệ lành mạnh với con cái.'
 cover: https://m.media-amazon.com/images/I/71fmkVY0yxL._AC_UY218_.jpg
 rating: 3137
 avg_stars: 4.32

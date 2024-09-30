@@ -10,7 +10,7 @@ WHERE !completed
 ```dataview
 TABLE dateformat(date(file.ctime), "MMM dd") as Date
 FROM "/"
-WHERE number(impact) >= 4 AND date(created, "dd-MM-yyyy HH:mm:ss") >= date(this.created-after)
+WHERE number(impact) >= 4 AND date(created, "yyyy-MM-dd HH:mm:ss") >= date(this.created-after)
 SORT created DESC
 LIMIT 20
 ```

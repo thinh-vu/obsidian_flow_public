@@ -1,23 +1,21 @@
 ---
 aliases:
-- Mindshift
+  - Mindshift
 progress: raw
 blueprint:
-- "[[../../4. Blueprint/Reading Challenges|Reading Challenges]]"
-impact:
+  - "[[../../4. Blueprint/Reading Challenges|Reading Challenges]]"
+impact: 
 tags:
-- book
-- highlight
+  - book
+  - highlight
 category:
-- Self-Help
+  - Self-Help
 author:
-- Oakley, Barbara
+  - Oakley, Barbara
 edition: 2017
-start:
-end:
-summary: Hướng dẫn giúp bạn phá vỡ những rào cản trong học tập và khám phá tiềm năng
-  ẩn giấu bên trong. Học cách thay đổi tư duy, nắm bắt cơ hội, và rèn luyện những
-  kỹ năng cần thiết để thành công trong mọi lĩnh vực của cuộc sống.
+start: 
+end: 
+summary: Hướng dẫn giúp bạn phá vỡ những rào cản trong học tập và khám phá tiềm năng ẩn giấu bên trong. Học cách thay đổi tư duy, nắm bắt cơ hội, và rèn luyện những kỹ năng cần thiết để thành công trong mọi lĩnh vực của cuộc sống.
 cover: https://m.media-amazon.com/images/I/51UFTzH2AsL._AC_UL320_.jpg
 rating: 1657
 avg_stars: 3.88

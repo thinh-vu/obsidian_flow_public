@@ -1,27 +1,25 @@
 ---
 aliases:
-- The Accidental Instructional Designer
-created: 24-03-2023 00:50:15
+  - The Accidental Instructional Designer
+created: 2023-03-24 00:50:15
 progress: raw
 blueprint:
-- "[[../../4. Blueprint/Reading Challenges|Reading Challenges]]"
-impact:
+  - "[[../../4. Blueprint/Reading Challenges|Reading Challenges]]"
+impact: 
 tags:
-- book
-- highlight
+  - book
+  - highlight
 category:
-- Education
+  - Education
 author:
-- Cammy Bean
+  - Cammy Bean
 edition: 2nd
-start:
-end:
-summary: Cuốn sách dành cho các nhà thiết kế giáo dục, đặc biệt là những người mới
-  bắt đầu, cung cấp các kỹ thuật và chiến lược để tạo ra các chương trình học tập
-  hiệu quả và hấp dẫn hơn.
+start: 
+end: 
+summary: Cuốn sách dành cho các nhà thiết kế giáo dục, đặc biệt là những người mới bắt đầu, cung cấp các kỹ thuật và chiến lược để tạo ra các chương trình học tập hiệu quả và hấp dẫn hơn.
 cover: https://m.media-amazon.com/images/I/71GwgG5-TPL._AC_UY218_.jpg
 rating: 225
-avg_stars: 4.0
+avg_stars: 4
 ---
 
 ## Executive summary

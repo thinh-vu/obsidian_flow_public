@@ -1,24 +1,21 @@
 ---
 aliases:
-- "Mindset: The New Psychology of Success"
+  - "Mindset: The New Psychology of Success"
 progress: raw
 blueprint:
-- "[[../../4. Blueprint/Reading Challenges|Reading Challenges]]"
-impact:
+  - "[[../../4. Blueprint/Reading Challenges|Reading Challenges]]"
+impact: 
 tags:
-- book
-- highlight
+  - book
+  - highlight
 category:
-- Psychology
+  - Psychology
 author:
-- Dweck, Carol S.
+  - Dweck, Carol S.
 edition: Updated Edition
-start:
-end:
-summary: A groundbreaking exploration of the power of mindsets, revealing how our
-  beliefs about our abilities shape our lives and achievements. Learn the difference
-  between fixed and growth mindsets, and discover how to cultivate a growth mindset
-  to unlock your potential.
+start: 
+end: 
+summary: A groundbreaking exploration of the power of mindsets, revealing how our beliefs about our abilities shape our lives and achievements. Learn the difference between fixed and growth mindsets, and discover how to cultivate a growth mindset to unlock your potential.
 cover: https://m.media-amazon.com/images/I/71wEDMAAnOL._AC_UY218_.jpg
 rating: 157347
 avg_stars: 4.1
