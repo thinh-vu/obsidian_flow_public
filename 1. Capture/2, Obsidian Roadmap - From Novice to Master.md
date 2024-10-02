@@ -1,6 +1,6 @@
 ---
 aliases: 
-created: 28-09-2024 23:37
+created: 28-09-2024 23:37:00
 progress: raw
 blueprint: 
 impact: 

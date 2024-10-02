@@ -1,6 +1,6 @@
 ---
 aliases: 
-created: 29-09-2024 16:49
+created: 29-09-2024 16:49:00
 progress: raw
 blueprint:
   - "[[../4. Blueprint/Reading Challenges|Reading Challenges]]"

@@ -1,8 +1,8 @@
 ---
 aliases:
   - Phương pháp FLOW - Nhà Máy Sản Xuất Ý Tưởng & Hành Trình Sáng Tạo
-created: 2024-09-30T20:09:00
-publish: 2024-09-30T21:20:00
+created: 2024-09-30 20:09:00
+publish: 2024-09-30 21:20:00
 progress: done
 blueprint:
   - "[[../../4. Blueprint/Obsidian FLOW Methodology|Obsidian FLOW Methodology]]"
