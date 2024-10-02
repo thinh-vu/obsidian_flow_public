@@ -1,7 +1,7 @@
 ---
 aliases: 
 tags: 
-created: <% tp.file.creation_date("YYYY-MM-DD HH:mm") %>
+created: <% tp.file.creation_date("YYYY-MM-DD HH:mm:ss") %>
 feeling: 
 summary:
 ---

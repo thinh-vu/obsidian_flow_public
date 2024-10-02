@@ -124,7 +124,11 @@
       "name": "Content Masterplan"
     },
     {
-      "fieldConfig": {},
+      "fieldConfig": {
+        "path": {
+          "richText": true
+        }
+      },
       "defaultName": "",
       "templates": [
         "9. Archive/Templates/1. New Note.md"
@@ -145,8 +149,28 @@
             "fieldConfig": {
               "name": {
                 "width": 328
+              },
+              "path": {
+                "width": 213,
+                "hide": true
               }
-            }
+            },
+            "orderFields": [
+              "name",
+              "path",
+              "aliases",
+              "blueprint",
+              "category",
+              "channel",
+              "created",
+              "impact",
+              "mindmap-plugin",
+              "progress",
+              "source",
+              "status",
+              "tags",
+              "urgency"
+            ]
           },
           "filter": {
             "conjunction": "and",

@@ -1,7 +1,7 @@
 ---
 aliases:
   - Tối ưu sử dụng phím tắt trong Obsidian FLOW
-created: 27-09-2024 01:09:00
+created: 2024-09-27 01:09:00
 progress: done
 blueprint:
   - "[[../../4. Blueprint/Obsidian FLOW Methodology|Obsidian FLOW Methodology]]"

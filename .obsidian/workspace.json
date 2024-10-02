@@ -8,55 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "725c476fc78a33e9",
+            "id": "ad37673f197f7043",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Track/2024-09-30.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "70d2421a30561ffc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Track/2024-09-29.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9322057529602ac0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5. Exhibit/FLOW & PKM/FLOW - Nhà Máy Sản Xuất Ý Tưởng & Hành Trình Sáng Tạo.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "1879383fddfcd87e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Capture/Điều hướng trong Obsidian FLOW.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
+              },
+              "pinned": true
             }
           },
           {
@@ -90,7 +53,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -102,7 +65,7 @@
       {
         "id": "a82c2839e6188120",
         "type": "tabs",
-        "dimension": 52.81342546890424,
+        "dimension": 53.20829220138204,
         "children": [
           {
             "id": "5937c74a9416a612",
@@ -120,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"impact\"]",
+                "query": "tag:migration",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -142,7 +105,7 @@
       {
         "id": "66be9d45f09c9c3e",
         "type": "tabs",
-        "dimension": 47.18657453109575,
+        "dimension": 46.79170779861796,
         "children": [
           {
             "id": "bfbf1988d2ea4916",
@@ -164,7 +127,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.5
+    "width": 447.5
   },
   "right": {
     "id": "b2a70d1e73e50140",
@@ -188,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Track/2024-09-29.md",
+                "file": "4. Blueprint/Obsidian FLOW Methodology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Track/2024-09-29.md",
+                "file": "4. Blueprint/Obsidian FLOW Methodology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -240,11 +203,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Track/2024-09-29.md"
+                "file": "4. Blueprint/Obsidian FLOW Methodology.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       },
       {
         "id": "ca3b5d56810ea257",
@@ -256,7 +220,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2. Track/2024-09-29.md",
+                "file": "4. Blueprint/Obsidian FLOW Methodology.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -289,18 +253,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 375.5
+    "width": 382.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "audio-recorder:Start/stop recording": false,
       "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "random-note:Open random note": false,
-      "switcher:Open quick switcher": false,
-      "templates:Insert template": false,
+      "audio-recorder:Start/stop recording": false,
       "workspaces:Manage workspace layouts": false,
       "callout-manager:Insert Callout": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
@@ -311,40 +275,40 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "70d2421a30561ffc",
+  "active": "2af468f51bac5145",
   "lastOpenFiles": [
-    "5. Exhibit/FLOW & PKM/2. FLOW tương thích các dịch vụ truyền thống.md",
-    "2. Track/2024-09-29.md",
+    "3. Forge/FLOW system/4. Sử dụng template note trong phương pháp FLOW.md",
+    "4. Blueprint/Obsidian FLOW Methodology.md",
+    "README.md",
+    "Home.md",
+    "2. Track/2024-09-30.md",
     "5. Exhibit/FLOW & PKM/FLOW - Nhà Máy Sản Xuất Ý Tưởng & Hành Trình Sáng Tạo.md",
+    "1. Capture/Điều hướng trong Obsidian FLOW.md",
+    "6. Vault/templates/5. Daily.md",
+    "2. Track/2024-10-02.md",
+    "2. Track/2024-10-03.md",
+    "6. Vault/templates/1. New Note.md",
+    "6. Vault/templates/3. Blog.md",
+    "6. Vault/templater/TOC.md",
+    "6. Vault/templater/New.md",
+    "6. Vault/templater/Daily.md",
+    "6. Vault/templates/2. Thought.md",
+    "6. Vault/templates/6. Read.md",
+    "6. Vault/templates/7. Project.md",
+    "6. Vault/templates/8. Profile.md",
+    "6. Vault/templates/9. TOC.md",
+    "6. Vault/templates/10. Blueprint.md",
+    "2. Track/2024-09-29.md",
+    "5. Exhibit/FLOW & PKM/2. FLOW tương thích các dịch vụ truyền thống.md",
     "5. Exhibit/FLOW & PKM/Hệ thống phím tắt trong Obsidian FLOW.md",
     "5. Exhibit/FLOW & PKM/3. FLOW Và DIKW - Từ Thông Tin Đến Thông Thái.md",
-    "1. Capture/Điều hướng trong Obsidian FLOW.md",
     "1. Capture/Làm quen các thao tác Git CLI với dòng lệnh.md",
-    "1. Capture/Tại sao chúng ta sợ những điều không có khả năng giết chúng ta?.md",
-    "1. Capture/Tự động hoá thay đổi nội dung markdown với Python Script.md",
-    "1. Capture/0. Tổng quan Vault.md",
-    "1. Capture/1. Xin chào, đây là Thịnh.md",
-    "1. Capture/2, Obsidian Roadmap - From Novice to Master.md",
-    "1. Capture/4. Feedback khoá học Python.md",
-    "1. Capture/Bị Lừa Bởi Sự Ngẫu Nhiên - Cuộc Sống Không Như Ta Nghĩ.md",
-    "1. Capture/Cài đặt Obsidian Project.md",
-    "1. Capture/Chiến lược quản lý chi tiêu.md",
-    "2. Track/2024-09-30.md",
-    "2. Track/2024-09-21.md",
-    "6. Vault/templates/1. New Note.md",
     "6. Vault/attachments/nha-may-san-xuat-y-tuong-flow 1.png",
     "6. Vault/attachments/nha-may-san-xuat-y-tuong-flow.png",
-    "README.md",
     "6. Vault/attachments/Obsidian_FLOW_is_ready_for_you.png",
     "6. Vault/attachments/select_the_latest_release_tag.png",
     "6. Vault/attachments/download_release_zip_file.png",
     "README.pdf",
-    "6. Vault/templater/Daily.md",
-    "6. Vault/templater/TOC.md",
-    "6. Vault/templater/New.md",
-    "6. Vault/templates/2. Thought.md",
-    "6. Vault/templates/3. Blog.md",
-    "6. Vault/templates/5. Daily.md",
     "6. Vault/attachments/obsidian_vault_feedback_nguyen-truong-thinh.png",
     "6. Vault/attachments/modify_markdown_yaml_front_matter.png",
     "6. Vault/attachments/run_python_script_in_visual_studio_code.png",

@@ -73,24 +73,29 @@ class MarkdownDateTimeUpdater:
         Returns
         -------
         str
-            The datetime string in the new format 'yyyy-mm-dd hh:mm:ss' if valid, otherwise returns the original string.
+            The datetime string in the new format 'yyyy-mm-dd hh:mm:ss'.
         """
-        try:
-            day, month, year, time = match.groups()
-            hours, minutes, seconds = map(int, time.split(':'))
+        day, month, year, time = match.groups()
+        hours, minutes, seconds = map(int, time.split(':'))
 
-            # Validate time components
-            if not (0 <= hours < 24 and 0 <= minutes < 60 and 0 <= seconds < 60):
-                raise ValueError("Invalid time component(s)")
+        # Correct invalid time components by setting them to default values
+        if not (0 <= hours < 24):
+            print(f"Invalid hours value '{hours}', setting to '00'.")
+            hours = 0
+        if not (0 <= minutes < 60):
+            print(f"Invalid minutes value '{minutes}', setting to '00'.")
+            minutes = 0
+        if not (0 <= seconds < 60):
+            print(f"Invalid seconds value '{seconds}', setting to '00'.")
+            seconds = 0
 
-            # Convert to new format 'yyyy-mm-dd hh:mm:ss'
-            new_datetime = datetime.strptime(f"{day}-{month}-{year} {time}", "%d-%m-%Y %H:%M:%S")
-            return new_datetime.strftime("%Y-%m-%d %H:%M:%S")
-        except ValueError as e:
-            print(f"Error parsing datetime: {match.group(0)}")
-            print(f"Error details: {e}")
-            # Return the original matched string if there is an error
-            return match.group(0)
+        # Create a new datetime string with corrected values
+        corrected_time = f"{hours:02}:{minutes:02}:{seconds:02}"
+        new_datetime_str = f"{day}-{month}-{year} {corrected_time}"
+
+        # Convert to new format 'yyyy-mm-dd hh:mm:ss'
+        new_datetime = datetime.strptime(new_datetime_str, "%d-%m-%Y %H:%M:%S")
+        return new_datetime.strftime("%Y-%m-%d %H:%M:%S")
 
 
 def main():

@@ -14,7 +14,7 @@ SORT created DESC
 # Khác
 
 ```dataview
-TABLE impact, created
+TABLE impact, progress, created
 FROM -"6. Vault"
 WHERE contains(string(join(blueprint, "  ")), this.file.name) AND none(list(impact))
 SORT rank DESC, created DESC
