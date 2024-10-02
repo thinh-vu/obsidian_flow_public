@@ -51,9 +51,18 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "10552c9d7e3a4ae6",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -151,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Blueprint/Obsidian FLOW Methodology.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Blueprint/Obsidian FLOW Methodology.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Blueprint/Obsidian FLOW Methodology.md"
+                "file": "README.md"
               }
             }
           }
@@ -220,7 +229,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "4. Blueprint/Obsidian FLOW Methodology.md",
+                "file": "README.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -275,14 +284,20 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "2af468f51bac5145",
+  "active": "ad37673f197f7043",
   "lastOpenFiles": [
-    "3. Forge/FLOW system/4. Sử dụng template note trong phương pháp FLOW.md",
-    "4. Blueprint/Obsidian FLOW Methodology.md",
-    "README.md",
     "Home.md",
-    "2. Track/2024-09-30.md",
+    "4. Blueprint/Obsidian FLOW Methodology.md",
+    "5. Exhibit/FLOW & PKM/Cấu trúc thư mục theo phương pháp FLOW.md",
     "5. Exhibit/FLOW & PKM/FLOW - Nhà Máy Sản Xuất Ý Tưởng & Hành Trình Sáng Tạo.md",
+    "5. Exhibit/FLOW & PKM/1. Giới thiệu phương pháp FLOW.md",
+    "5. Exhibit/FLOW & PKM/3. FLOW Và DIKW - Từ Thông Tin Đến Thông Thái.md",
+    "5. Exhibit/FLOW & PKM/2. FLOW tương thích các dịch vụ truyền thống.md",
+    "5. Exhibit/FLOW & PKM/Hệ thống phím tắt trong Obsidian FLOW.md",
+    "1. Capture/0. Tổng quan Vault.md",
+    "3. Forge/FLOW system/4. Sử dụng template note trong phương pháp FLOW.md",
+    "README.md",
+    "2. Track/2024-09-30.md",
     "1. Capture/Điều hướng trong Obsidian FLOW.md",
     "6. Vault/templates/5. Daily.md",
     "2. Track/2024-10-02.md",
@@ -297,12 +312,6 @@
     "6. Vault/templates/7. Project.md",
     "6. Vault/templates/8. Profile.md",
     "6. Vault/templates/9. TOC.md",
-    "6. Vault/templates/10. Blueprint.md",
-    "2. Track/2024-09-29.md",
-    "5. Exhibit/FLOW & PKM/2. FLOW tương thích các dịch vụ truyền thống.md",
-    "5. Exhibit/FLOW & PKM/Hệ thống phím tắt trong Obsidian FLOW.md",
-    "5. Exhibit/FLOW & PKM/3. FLOW Và DIKW - Từ Thông Tin Đến Thông Thái.md",
-    "1. Capture/Làm quen các thao tác Git CLI với dòng lệnh.md",
     "6. Vault/attachments/nha-may-san-xuat-y-tuong-flow 1.png",
     "6. Vault/attachments/nha-may-san-xuat-y-tuong-flow.png",
     "6. Vault/attachments/Obsidian_FLOW_is_ready_for_you.png",

@@ -2,10 +2,10 @@
 aliases:
   - 1. Cấu trúc thư mục theo Obsidian FLOW
 created: 2024-09-16 21:09:58
-status: done
+progress: done
 blueprint:
   - "[[../../4. Blueprint/Obsidian FLOW Methodology|Obsidian FLOW Methodology]]"
-impact: "5"
+impact: 5
 urgency: 
 tags:
   - quick-start

@@ -53,9 +53,19 @@
                   },
                   "pinned": true
                 }
+              },
+              {
+                "id": "10552c9d7e3a4ae6",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "pinned": true
+                }
               }
             ],
-            "currentTab": 2
+            "currentTab": 3
           }
         ],
         "direction": "vertical"
@@ -153,7 +163,6 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "4. Blueprint/Obsidian FLOW Methodology.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -170,7 +179,6 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "4. Blueprint/Obsidian FLOW Methodology.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
@@ -204,9 +212,7 @@
                 "type": "leaf",
                 "state": {
                   "type": "outline",
-                  "state": {
-                    "file": "4. Blueprint/Obsidian FLOW Methodology.md"
-                  }
+                  "state": {}
                 }
               }
             ],
@@ -222,7 +228,6 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "4. Blueprint/Obsidian FLOW Methodology.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -270,7 +275,6 @@
           "workspaces:Manage workspace layouts": false,
           "callout-manager:Insert Callout": false,
           "obsidian-excalidraw-plugin:Create new drawing": false,
-          "marp-slides:Show Slide Preview": false,
           "templater-obsidian:Templater": false,
           "obsidian-projects:Open projects": false,
           "file-cleaner-redux:Clean files": false,
@@ -278,8 +282,8 @@
           "homepage:Open homepage": false
         }
       },
-      "active": "5937c74a9416a612",
-      "mtime": "2024-09-29T17:10:34+07:00"
+      "active": "10552c9d7e3a4ae6",
+      "mtime": "2024-10-03T00:08:57+07:00"
     }
   },
   "active": "Obsidian FLOW Entry"
