@@ -2,7 +2,7 @@
   "deletionDestination": "system",
   "excludeInclude": 1,
   "excludedFolders": [
-    "6. Vault/Attachments"
+    "6. Vault/attachments"
   ],
   "attachmentsExcludeInclude": 1,
   "attachmentExtensions": [
