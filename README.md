@@ -11,6 +11,8 @@ Phương pháp **FLOW** được tối ưu tối đa cho Obsidian nhưng đồng
 
 Hy vọng **FLOW** sẽ giúp bạn khám phá một cách tiếp cận đơn giản nhưng mạnh mẽ trong tổ chức thông tin và ý tưởng một cách hiệu quả, linh hoạt và dễ dàng cá nhân hoá theo nhu cầu của bạn.
 
+<iframe width="700" height="480" src="https://www.youtube.com/embed/8hAxzSGylfg?si=cwUjgq5cBDv48qol" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ---
 ## II. Phương pháp FLOW là gì?
 

@@ -31,7 +31,8 @@
     "iconsInLinksEnabled": true,
     "iconIdentifier": ":",
     "lucideIconPackType": "native",
-    "debugMode": false
+    "debugMode": false,
+    "useInternalPlugins": false
   },
   "README.md": "LiGlasses",
   "4. Wiki/1. Mastering Obsidian/2. Advanced": "LiCode",

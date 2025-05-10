@@ -1,6 +1,5 @@
 [
   "callout-manager",
-  "obsidian-list-callouts",
   "obsidian-excalidraw-plugin",
   "obsidian-icon-folder",
   "nldates-obsidian",
@@ -11,7 +10,6 @@
   "templater-obsidian",
   "dataview",
   "obsidian-projects",
-  "obsidian-banners",
   "flashcards-obsidian",
   "buttons",
   "obsidian-enhancing-mindmap",
@@ -20,7 +18,6 @@
   "obsidian-linter",
   "file-cleaner-redux",
   "dashboard-navigator",
-  "floating-toc",
   "homepage",
   "editing-toolbar"
 ]
