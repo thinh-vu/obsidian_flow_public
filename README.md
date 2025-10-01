@@ -34,7 +34,7 @@ Nói một cách ngắn gọn, phương pháp FLOW bao gồm một hệ thống 
 ---
 ## III. Thông tin khoá học Obsidian Cơ Bản
 
-![](https://my.learn-anything.vn/_next/image?url=%2Fimages%2Fkhoa-hoc-obsidian-can-ban-cover.jpg&w=640&q=100)
+[![](6.%20Vault/attachments/cover-khoa-hoc-obsidian-co-ban.png)](https://my.learn-anything.vn/courses/khoa-hoc-obsidian-co-ban-cap-do-1)
 
 Bạn đã có trong tay **Obsidian FLOW** – tấm bản đồ để xây dựng một hệ thống tri thức mạnh mẽ. Nhưng để thực sự làm chủ hành trình, bạn cần một người dẫn đường tin cậy.
 
@@ -51,7 +51,7 @@ Nhân dịp này, Thịnh dành tặng ưu đãi đặc biệt cho **100 học v
 
 Đây là một khoản đầu tư nhỏ cho một kỹ năng sẽ thay đổi cách bạn học tập và làm việc mãi mãi.
 
-<a href="https://my.learn-anything.vn/courses/khoa-hoc-obsidian-co-ban-cap-do-1" style="display:inline-block;padding:10px 24px;background:#FF6F61;color:#fff;font-weight:bold;border-radius:6px;text-decoration:none;font-size:1.1em;box-shadow:0 2px 8px rgba(0,0,0,0.12);margin:12px 0;">🎁 Đăng ký nhận ưu đãi</a>
+[![🎁 Đăng ký nhận ưu đãi](https://img.shields.io/badge/Đăng_ký_nhận_ưu_đãi-FF6F61?style=for-the-badge&logo=firefox)](https://my.learn-anything.vn/courses/khoa-hoc-obsidian-co-ban-cap-do-1)
 
 
 Đừng để sự chần chừ cản bước bạn trên hành trình chinh phục tri thức. Hãy bắt đầu ngay hôm nay.
