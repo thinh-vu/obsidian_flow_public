@@ -42,6 +42,8 @@
     "rating": "number",
     "avg_stars": "number",
     "feeling": "multitext",
-    "source": "multitext"
+    "source": "multitext",
+    "excalidraw-export-internal-links": "checkbox",
+    "excalidraw-embed-md": "checkbox"
   }
 }

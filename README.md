@@ -4,7 +4,7 @@
 
 > [!tip]
 Chào mừng bạn ghé thăm không gian minh hoạ phương pháp quản lý kiến thức FLOW trong Obsidian. 
-Phương pháp FLOW do Thịnh Vũ phát triển là kết quả của quá trình trải nghiệm, tương tác và chia sẻ với cộng đồng trong 3 năm qua. 
+Phương pháp FLOW do Thịnh Vũ phát triển là kết quả của quá trình trải nghiệm, tương tác và chia sẻ với cộng đồng trong 5 năm qua. 
 Obsidian FLOW là kết quả của những trăn trở, tìm tòi và nghiên cứu của anh nhằm tìm ra một hệ thống quản lý linh hoạt, đa dụng và cá nhân hoá quản lý cuộc sống "số" và hành trình tích luỹ kiến thức thú vị hơn.
 
 Phương pháp **FLOW** được tối ưu tối đa cho Obsidian nhưng đồng thời có thể áp dụng với bất kỳ nền tảng dịch vụ lưu trữ và ghi chú nào.
@@ -24,7 +24,7 @@ Tôi biết tôi cần một con đường rõ ràng hơn – một bản đồ 
 
 **FLOW** là viết tắt của:
 
-- **Forge** (_Rèn Luyện_): Thể hiện quá trình sáng tạo và không ngừng hoàn thiện từ ý tưởng thô sơ cho đến khi hoàn thiện. 
+- **Forge** (_Rèn Dũa_): Thể hiện quá trình sáng tạo và không ngừng hoàn thiện từ ý tưởng thô sơ cho đến khi hoàn thiện. 
 - **Link** (_Liên Kết_): Tượng trưng cho sự kết nối và liên hệ giữa các dự án, ý tưởng và nhiệm vụ khác nhau. **Link** thể hiện việc tổ chức các dự án ở một cấp độ trừu tượng, liên kết chúng với nhau.
 - **Organize** (_Tổ Chức_): Đại diện cho việc sắp xếp và trưng bày các thành phẩm hoặc tài liệu đã hoàn thiện. **Organize** mang lại cảm giác trật tự và dễ dàng truy xuất thông tin.
 - **Write** (_Viết_): Việc ghi chép và theo dõi tiến trình công việc, phản ánh quá trình phát triển liên tục của ý tưởng. **Write** đại diện cho hành động bắt tay vào việc viết để tư duy rành mạch đồng thời giúp duy trì dòng chảy của công việc.
@@ -32,31 +32,41 @@ Tôi biết tôi cần một con đường rõ ràng hơn – một bản đồ 
 Nói một cách ngắn gọn, phương pháp FLOW bao gồm một hệ thống các nguyên tắc, hướng dẫn và quy trình giúp bạn có thể làm quen cũng như tích hợp hoàn toàn lối tư duy và phương pháp làm việc vào cuộc sống cá nhân và hành trình tích luỹ tri thức của bạn.
 
 ---
-## III. Thông tin khoá học Obsidian Cơ Bản
+## III. Thông tin khoá học Obsidian
+
+Bạn đã có trong tay **Obsidian FLOW** – tấm bản đồ để xây dựng một hệ thống tri thức mạnh mẽ. Nhưng để thực sự làm chủ hành trình và đi xa hơn, Thịnh đã tâm huyết thiết kế 2 lộ trình học giúp bạn đi từ bước làm quen công cụ đến việc kiến tạo một "nhà máy sản xuất tri thức" thực thụ.
+
+### 3.1. Khoá học Obsidian Cơ Bản
 
 [![](6.%20Vault/attachments/cover-khoa-hoc-obsidian-co-ban.png)](https://my.learn-anything.vn/courses/khoa-hoc-obsidian-co-ban-cap-do-1)
 
-Bạn đã có trong tay **Obsidian FLOW** – tấm bản đồ để xây dựng một hệ thống tri thức mạnh mẽ. Nhưng để thực sự làm chủ hành trình, bạn cần một người dẫn đường tin cậy.
+Việc bắt đầu với một phần mềm tuỳ biến cao như Obsidian có thể khiến bạn cảm thấy "ngợp" và bối rối – đó là cảm giác chung của rất nhiều người. Khoá học **Obsidian Cơ Bản** được sinh ra để biến sự bối rối đó thành sự tự tin trong thời gian ngắn nhất.
 
-Việc bắt đầu với Obsidian có thể khiến bạn cảm thấy "ngợp" và bối rối – đó là cảm giác chung của rất nhiều người. Để biến sự bối rối đó thành sự tự tin và sáng tạo, Thịnh đã tâm huyết tạo ra khoá học **Obsidian Cơ Bản**.
+Nội dung khoá học được tinh gọn, tập trung dạy bạn **những thứ cực kỳ căn bản về Obsidian dưới góc độ là một công cụ**. Bạn sẽ làm quen nhanh chóng, biết cách thiết lập và sử dụng trọn vẹn các tính năng cốt lõi của ứng dụng ngay khi mới bắt đầu, từ đó tạo bước đệm vững chắc trước khi đào sâu vào Quản lý tri thức (PKM).
 
-Đây không chỉ là một khoá học, mà là chìa khoá giúp bạn xây dựng nền tảng vững chắc, biến Obsidian thành "bộ não thứ hai" thực thụ và khai phá trọn vẹn tiềm năng của phương pháp FLOW.
+### 3.2. Khoá học Obsidian FLOW PKM
+
+[![](6.%20Vault/attachments/obsidian_flow_pkm_course.png)](https://my.learn-anything.vn/courses/khoa-hoc-obsidian-flow-pkm)
+
+Nếu khoá Cơ bản giúp bạn làm chủ công cụ, thì đây là bước tiến đưa tư duy của bạn lên một tầm cao mới: **Quản lý tri thức (PKM)**. 
+
+Khoá học **Obsidian FLOW PKM** đi sâu vào việc làm việc với thông tin và tri thức. Bạn sẽ nắm bắt trọn vẹn phương pháp FLOW để chắt lọc, định hình và liên kết các ý tưởng rời rạc lại với nhau. Đây không đơn thuần là kỹ năng ghi chú, mà là cách bạn biến Obsidian thành một **"nhà máy sản xuất tri thức"** đáng tin cậy, giúp tối ưu hoá sự sáng tạo và xây dựng nguồn tài sản trí tuệ đồng hành cùng bạn suốt đời.
 
 ---
-### ƯU ĐÃI RA MẮT ĐẶC BIỆT
-Nhân dịp này, Thịnh dành tặng ưu đãi đặc biệt cho **100 học viên đăng ký đầu tiên**:
+### 🎁 ƯU ĐÃI ĐĂNG KÝ KHOÁ HỌC
+Nhân dịp ra mắt khoá học mới Obsidian FLOW PKM vào tháng 3/2026, Thịnh dành tặng ưu đãi đặc biệt cho **100 học viên đăng ký đầu tiên**:
 
-- **Giá gốc:** 499.000đ
-- **Giá ưu đãi:** **349.000đ**
+**🚀 Khoá học Obsidian FLOW PKM:**
+- Giá gốc: 1.499.000đ
+- **Giá ưu đãi:** **999.000đ**
 
-Đây là một khoản đầu tư nhỏ cho một kỹ năng sẽ thay đổi cách bạn học tập và làm việc mãi mãi.
+[![Đăng ký nhận ưu đãi Khoá PKM](https://img.shields.io/badge/Đăng_ký_Khoá_PKM-2E8B57?style=for-the-badge&logo=firefox)](https://course.learn-anything.vn/courses/khoa-hoc-obsidian-flow-pkm)
 
-[![🎁 Đăng ký nhận ưu đãi](https://img.shields.io/badge/Đăng_ký_nhận_ưu_đãi-FF6F61?style=for-the-badge&logo=firefox)](https://my.learn-anything.vn/courses/khoa-hoc-obsidian-co-ban-cap-do-1)
+> *Đây là một khoản đầu tư nhỏ cho một kỹ năng cốt lõi sẽ thay đổi hoàn toàn cách bạn học tập và làm việc mãi mãi.*
 
+Đừng để sự chần chừ cản bước bạn trên hành trình chinh phục tri thức. Hãy bắt đầu ngay hôm nay!
 
-Đừng để sự chần chừ cản bước bạn trên hành trình chinh phục tri thức. Hãy bắt đầu ngay hôm nay.
-
-Chúc bạn thành công và sớm làm chủ được Obsidian!
+Chúc bạn thành công và sớm làm chủ được hệ thống Obsidian của riêng mình.
 
 ---
 
@@ -134,9 +144,7 @@ Bạn có thể đăng ký kênh và theo dõi trang cá nhân của Thịnh đ�
 📰 **Bản tin Substack của Learn Anything:**
 
 - [learnanything.substack.com](https://learnanything.substack.com?utm_source=github&utm_medium=obsidian-flow-public)
-
 - 🏠 **Learn Anything:** [learn-anything.vn](https://learn-anything.vn?utm_source=github&utm_medium=obsidian-flow-public)
-
 - 😄 **Trang cá nhân**: facebook.com/mr.thinh.ueh
 
 ---
