@@ -107,36 +107,11 @@
                 "file": "1. Capture/Giới thiệu Obsidian FLOW.md"
               },
               "pinned": true,
-              "icon": "lucide-ghost",
-              "title": "mindmapView"
-            }
-          },
-          {
-            "id": "1865534180e2fce8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "README"
+              "icon": "blocks",
+              "title": "Giới thiệu Obsidian FLOW"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -410,18 +385,18 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "1865534180e2fce8",
+  "active": "ad37673f197f7043",
   "lastOpenFiles": [
-    "README.pdf",
+    "Home.md",
     "README.md",
+    "1. Capture/Giới thiệu Obsidian FLOW.md",
+    "README.pdf",
     "1. Capture/1. Xin chào, đây là Thịnh.md",
     "6. Vault/attachments/obsidian_flow_pkm_course.png",
-    "Home.md",
     "1. Capture/2, Obsidian Roadmap - From Novice to Master.md",
     "1. Capture/0. Tổng quan Vault.md",
     "4. Blueprint/Obsidian FLOW Methodology.md",
     "5. Exhibit/FLOW & PKM/1. Giới thiệu phương pháp FLOW.md",
-    "1. Capture/Giới thiệu Obsidian FLOW.md",
     "3. Forge/FLOW system/3. Hướng dẫn nhanh để bắt đầu viết và tổ chức ghi chú.md",
     "3. Forge/FLOW system/2. Nguyên tắc áp dụng phương pháp FLOW.md",
     "3. Forge/FLOW system/1a. Tuỳ biến tên thư mục theo phong cách của bạn.md",
