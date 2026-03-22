@@ -38,7 +38,7 @@ Bạn đã có trong tay **Obsidian FLOW** – tấm bản đồ để xây dự
 
 ### 3.1. Khoá học Obsidian Cơ Bản
 
-[![](6.%20Vault/attachments/cover-khoa-hoc-obsidian-co-ban.png)](https://my.learn-anything.vn/courses/khoa-hoc-obsidian-co-ban-cap-do-1)
+[![](6.%20Vault/attachments/cover-khoa-hoc-obsidian-co-ban.png)](https://course.learn-anything.vn/courses/khoa-hoc-obsidian-co-ban-cap-do-1)
 
 Việc bắt đầu với một phần mềm tuỳ biến cao như Obsidian có thể khiến bạn cảm thấy "ngợp" và bối rối – đó là cảm giác chung của rất nhiều người. Khoá học **Obsidian Cơ Bản** được sinh ra để biến sự bối rối đó thành sự tự tin trong thời gian ngắn nhất.
 
@@ -46,7 +46,7 @@ Nội dung khoá học được tinh gọn, tập trung dạy bạn **những th
 
 ### 3.2. Khoá học Obsidian FLOW PKM
 
-[![](6.%20Vault/attachments/obsidian_flow_pkm_course.png)](https://my.learn-anything.vn/courses/khoa-hoc-obsidian-flow-pkm)
+[![](6.%20Vault/attachments/obsidian_flow_pkm_course.png)](https://course.learn-anything.vn/courses/khoa-hoc-obsidian-flow-pkm)
 
 Nếu khoá Cơ bản giúp bạn làm chủ công cụ, thì đây là bước tiến đưa tư duy của bạn lên một tầm cao mới: **Quản lý tri thức (PKM)**. 
 
@@ -145,7 +145,7 @@ Bạn có thể đăng ký kênh và theo dõi trang cá nhân của Thịnh đ�
 
 - [learnanything.substack.com](https://learnanything.substack.com?utm_source=github&utm_medium=obsidian-flow-public)
 - 🏠 **Learn Anything:** [learn-anything.vn](https://learn-anything.vn?utm_source=github&utm_medium=obsidian-flow-public)
-- 😄 **Trang cá nhân**: facebook.com/mr.thinh.ueh
+- 😄 **Trang cá nhân**: [facebook.com/mr.thinh.ueh](https://www.facebook.com/mr.thinh.ueh)
 
 ---
 ## VIII. Giới thiệu tác giả
