@@ -46,7 +46,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "4. Blueprint/Obsidian FLOW Methodology.md",
+                    "file": "Blueprint/Obsidian FLOW Methodology.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
@@ -169,7 +169,8 @@
                     "showSearch": false,
                     "searchQuery": "",
                     "backlinkCollapsed": false,
-                    "unlinkedCollapsed": true
+                    "unlinkedCollapsed": true,
+                    "file": "README.md"
                   }
                 }
               },
@@ -180,7 +181,8 @@
                   "type": "outgoing-link",
                   "state": {
                     "linksCollapsed": false,
-                    "unlinkedCollapsed": true
+                    "unlinkedCollapsed": true,
+                    "file": "README.md"
                   }
                 }
               },
@@ -212,7 +214,9 @@
                 "type": "leaf",
                 "state": {
                   "type": "outline",
-                  "state": {}
+                  "state": {
+                    "file": "README.md"
+                  }
                 }
               }
             ],
@@ -252,7 +256,8 @@
                       "linkDistance": 250,
                       "scale": 1,
                       "close": true
-                    }
+                    },
+                    "file": "README.md"
                   }
                 }
               }

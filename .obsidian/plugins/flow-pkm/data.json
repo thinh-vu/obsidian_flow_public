@@ -1,0 +1,419 @@
+{
+  "presetId": "default",
+  "folderMap": {
+    "capture": "Capture",
+    "track": "Track",
+    "forge": "Forge",
+    "blueprint": "Blueprint",
+    "exhibit": "Exhibit",
+    "vault": "Vault"
+  },
+  "useNumberPrefix": false,
+  "enableCustomSort": true,
+  "autoCreateFolders": false,
+  "showRibbonIcon": true,
+  "reminderCheckIntervalSec": 3600,
+  "autoTOC": false,
+  "tocDataViewQueries": true,
+  "maxSubfolders": 9,
+  "captureStaleDays": 7,
+  "namingConvention": "any",
+  "healthScoring": {
+    "maxSubfolderDepth": 2,
+    "maxNotesPerFolder": 9,
+    "maxRootNotes": 9,
+    "staleThresholdDays": [
+      3,
+      7,
+      14
+    ],
+    "metaCoverageThresholds": [
+      50,
+      80
+    ],
+    "orphanRateThresholds": [
+      5,
+      15,
+      30
+    ],
+    "oversizedFileThresholds": [
+      5,
+      10
+    ]
+  },
+  "reminders": {
+    "consolidateCapture": {
+      "enabled": false,
+      "frequency": "weekly",
+      "lastTriggered": 0
+    },
+    "dailyNote": {
+      "enabled": false,
+      "frequency": "daily",
+      "lastTriggered": 0
+    },
+    "weeklyReview": {
+      "enabled": false,
+      "frequency": "weekly",
+      "dayOfWeek": 0,
+      "lastTriggered": 0
+    },
+    "publishContent": {
+      "enabled": false,
+      "frequency": "weekly",
+      "lastTriggered": 0
+    },
+    "forgeCleanup": {
+      "enabled": false,
+      "frequency": "monthly",
+      "lastTriggered": 0
+    }
+  },
+  "tagTaxonomy": [
+    {
+      "name": "mission",
+      "children": [
+        {
+          "name": "wellbeing",
+          "description": "Sống an nhiên",
+          "children": []
+        }
+      ]
+    }
+  ],
+  "vaultMissions": [
+    {
+      "id": "015aca73-a415-4ab2-b39b-faeec1cab179",
+      "name": "Obsidian Methodology",
+      "description": "Auto-detected from vault",
+      "relatedTags": [],
+      "status": "active"
+    },
+    {
+      "id": "c8073dc6-4709-49f7-8188-5411b913ad1e",
+      "name": "Wealthier Happier Ever",
+      "description": "Sống một cuộc đời đáng sống",
+      "relatedTags": [
+        "#odyssey_journey"
+      ],
+      "status": "active"
+    }
+  ],
+  "taxonomyDimensions": [
+    {
+      "id": "domain",
+      "label": "Domain",
+      "values": []
+    },
+    {
+      "id": "format",
+      "label": "Format",
+      "values": [
+        "article",
+        "video",
+        "podcast",
+        "note"
+      ]
+    },
+    {
+      "id": "lifecycle",
+      "label": "Lifecycle",
+      "values": [
+        "idea",
+        "draft",
+        "review",
+        "published",
+        "archived"
+      ]
+    }
+  ],
+  "progressLifecycle": {
+    "stages": [
+      "raw",
+      "medium",
+      "done",
+      "archived"
+    ]
+  },
+  "selectedFeelings": [],
+  "lastCachedStats": {
+    "propertiesGrouped": {
+      "created": {
+        "2026-02-03": 1,
+        "2026-02-03 10:21:53": 2,
+        "03-02-2026 09:02:91": 1,
+        "2026-03-12 11:48:48": 1,
+        "2026-03-10 12:01:12": 1
+      },
+      "subject": {
+        "Tư vấn pháp lý về hoạt động và phát triển dự án Vnstock": 1
+      },
+      "author": {
+        "Thịnh Vũ (vnstock)": 1
+      },
+      "progress": {
+        "raw": 5
+      },
+      "impact": {
+        "5": 1
+      },
+      "min-impact": {
+        "4": 1
+      },
+      "created-after": {
+        "2024-08-01": 1
+      }
+    },
+    "tagsCount": {},
+    "activityTimestamps": [
+      1770093218905,
+      1770101211193,
+      1770040138000,
+      1770088913650,
+      1770092974734,
+      1770092974734,
+      1770093129103,
+      1770085308828,
+      1774590519000,
+      1773290928000,
+      1773293360000,
+      1773118872000,
+      1774693203151,
+      1769744804568
+    ],
+    "moodByDate": {},
+    "feelingCounts": {},
+    "feelingByDate": {},
+    "totalActiveNotes": 8,
+    "notesPerFolder": {
+      "capture": 7,
+      "blueprint": 1
+    },
+    "roleStats": {
+      "capture": {
+        "noteCount": 7,
+        "propertiesGrouped": {
+          "created": {
+            "2026-02-03": 1,
+            "2026-02-03 10:21:53": 2,
+            "03-02-2026 09:02:91": 1,
+            "2026-03-12 11:48:48": 1,
+            "2026-03-10 12:01:12": 1
+          },
+          "subject": {
+            "Tư vấn pháp lý về hoạt động và phát triển dự án Vnstock": 1
+          },
+          "author": {
+            "Thịnh Vũ (vnstock)": 1
+          },
+          "progress": {
+            "raw": 5
+          },
+          "impact": {
+            "5": 1
+          }
+        },
+        "tagsCount": {},
+        "notesWithAnyMetadata": 6,
+        "notesWithTags": 0,
+        "notesWithProperties": 6,
+        "notesWithWikilinks": 1,
+        "maxFolderDepth": 0,
+        "subfolderCount": 0,
+        "notesInRoot": 7,
+        "notesPerSubfolder": {},
+        "captureHasWikilink": 1,
+        "captureRawNotes": 1,
+        "trackTasksCompleted": 0,
+        "trackTasksPending": 0,
+        "trackHasFeeling": 0,
+        "forgeWipCount": 0,
+        "forgeHeatmap": {},
+        "forgeProgressDistribution": {}
+      },
+      "track": {
+        "noteCount": 0,
+        "propertiesGrouped": {},
+        "tagsCount": {},
+        "notesWithAnyMetadata": 0,
+        "notesWithTags": 0,
+        "notesWithProperties": 0,
+        "notesWithWikilinks": 0,
+        "maxFolderDepth": 0,
+        "subfolderCount": 0,
+        "notesInRoot": 0,
+        "notesPerSubfolder": {},
+        "captureHasWikilink": 0,
+        "captureRawNotes": 0,
+        "trackTasksCompleted": 0,
+        "trackTasksPending": 0,
+        "trackHasFeeling": 0,
+        "forgeWipCount": 0,
+        "forgeHeatmap": {},
+        "forgeProgressDistribution": {}
+      },
+      "forge": {
+        "noteCount": 0,
+        "propertiesGrouped": {},
+        "tagsCount": {},
+        "notesWithAnyMetadata": 0,
+        "notesWithTags": 0,
+        "notesWithProperties": 0,
+        "notesWithWikilinks": 0,
+        "maxFolderDepth": 0,
+        "subfolderCount": 0,
+        "notesInRoot": 0,
+        "notesPerSubfolder": {},
+        "captureHasWikilink": 0,
+        "captureRawNotes": 0,
+        "trackTasksCompleted": 0,
+        "trackTasksPending": 0,
+        "trackHasFeeling": 0,
+        "forgeWipCount": 0,
+        "forgeHeatmap": {},
+        "forgeProgressDistribution": {}
+      },
+      "blueprint": {
+        "noteCount": 1,
+        "propertiesGrouped": {
+          "min-impact": {
+            "4": 1
+          },
+          "created-after": {
+            "2024-08-01": 1
+          }
+        },
+        "tagsCount": {},
+        "notesWithAnyMetadata": 1,
+        "notesWithTags": 0,
+        "notesWithProperties": 1,
+        "notesWithWikilinks": 0,
+        "maxFolderDepth": 0,
+        "subfolderCount": 0,
+        "notesInRoot": 1,
+        "notesPerSubfolder": {},
+        "captureHasWikilink": 0,
+        "captureRawNotes": 0,
+        "trackTasksCompleted": 0,
+        "trackTasksPending": 0,
+        "trackHasFeeling": 0,
+        "forgeWipCount": 0,
+        "forgeHeatmap": {},
+        "forgeProgressDistribution": {},
+        "topLinkedFiles": [
+          {
+            "name": "Obsidian Methodology",
+            "linkCount": 0
+          }
+        ]
+      },
+      "exhibit": {
+        "noteCount": 0,
+        "propertiesGrouped": {},
+        "tagsCount": {},
+        "notesWithAnyMetadata": 0,
+        "notesWithTags": 0,
+        "notesWithProperties": 0,
+        "notesWithWikilinks": 0,
+        "maxFolderDepth": 0,
+        "subfolderCount": 0,
+        "notesInRoot": 0,
+        "notesPerSubfolder": {},
+        "captureHasWikilink": 0,
+        "captureRawNotes": 0,
+        "trackTasksCompleted": 0,
+        "trackTasksPending": 0,
+        "trackHasFeeling": 0,
+        "forgeWipCount": 0,
+        "forgeHeatmap": {},
+        "forgeProgressDistribution": {}
+      }
+    },
+    "vaultTotalFiles": 72,
+    "vaultTotalSize": 6800299,
+    "vaultLargestFolders": [
+      {
+        "name": "Vault",
+        "size": 6731240
+      },
+      {
+        "name": "Capture",
+        "size": 62527
+      },
+      {
+        "name": "Blueprint",
+        "size": 214
+      }
+    ],
+    "orphanedAttachmentsCount": 5,
+    "orphanedAttachmentsSize": 10173,
+    "oversizedFiles": [
+      {
+        "path": "Vault/attachments/Gemini_Generated_Image_89oqcc89oqcc89oq.png",
+        "size": 6506225,
+        "ext": "png"
+      }
+    ],
+    "hasGitRepo": false,
+    "captureNoteAges": [
+      53.24222234953704,
+      53.85658467592592,
+      53.29205168981481,
+      53.245048402777776,
+      53.333774166666664,
+      16.231700416666666,
+      18.223089305555554
+    ],
+    "namingConventions": {
+      "zettelkasten": 0,
+      "natural": 8,
+      "kebab": 0,
+      "snake": 0,
+      "camel": 0,
+      "pascal": 0,
+      "other": 0
+    }
+  },
+  "dashboardRefreshIntervalMin": 30,
+  "language": "vi",
+  "urgencyConfig": {
+    "fieldName": "urgency",
+    "levels": [
+      {
+        "value": 0,
+        "label": "Không khẩn cấp"
+      },
+      {
+        "value": 1,
+        "label": "Khẩn cấp"
+      }
+    ]
+  },
+  "impactConfig": {
+    "fieldName": "impact",
+    "levels": [
+      {
+        "value": 1,
+        "label": "Rất thấp"
+      },
+      {
+        "value": 2,
+        "label": "Thấp"
+      },
+      {
+        "value": 3,
+        "label": "Trung bình"
+      },
+      {
+        "value": 4,
+        "label": "Cao"
+      },
+      {
+        "value": 5,
+        "label": "Rất cao"
+      }
+    ]
+  },
+  "publishFieldName": "publish",
+  "channelFieldName": "channel"
+}

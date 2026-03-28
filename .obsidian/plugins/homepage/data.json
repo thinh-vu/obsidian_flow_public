@@ -4,7 +4,7 @@
     "Main Homepage": {
       "value": "Obsidian FLOW Entry",
       "kind": "Workspace",
-      "openOnStartup": false,
+      "openOnStartup": true,
       "openMode": "Replace all open notes",
       "manualOpenMode": "Keep open notes",
       "view": "Reading view",

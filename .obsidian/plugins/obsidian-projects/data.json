@@ -9,14 +9,14 @@
       },
       "defaultName": "",
       "templates": [
-        "6. Vault/templates/1. New Note.md"
+        "Vault/templates/1. New Note.md"
       ],
       "excludedNotes": [],
       "isDefault": false,
       "dataSource": {
         "kind": "dataview",
         "config": {
-          "query": "TABLE WITHOUT ID file.link as Note, progress as Progress, impact as Impact, urgency as Urgency, tags as Tags, created as Created, publish as \"Publish Date\"\nFROM -\"6. Vault\"\nWHERE contains(string(join(blueprint, \"  \")), \"Obsidian FLOW Methodology\") AND progress != \"done\"\nSORT Impact DESC"
+          "query": "TABLE WITHOUT ID file.link as Note, progress as Progress, impact as Impact, urgency as Urgency, tags as Tags, created as Created, publish as \"Publish Date\"\nFROM -\"Vault\"\nWHERE contains(string(join(blueprint, \"  \")), \"Obsidian FLOW Methodology\") AND progress != \"done\"\nSORT Impact DESC"
         }
       },
       "newNotesFolder": "",
@@ -138,7 +138,7 @@
       "dataSource": {
         "kind": "folder",
         "config": {
-          "path": "1. Capture",
+          "path": "Capture",
           "recursive": true
         }
       },
@@ -201,14 +201,14 @@
       },
       "defaultName": "",
       "templates": [
-        "6. Vault/templates/1. New Note.md"
+        "Vault/templates/1. New Note.md"
       ],
       "excludedNotes": [],
       "isDefault": true,
       "dataSource": {
         "kind": "dataview",
         "config": {
-          "query": "TABLE WITHOUT ID file.link as Note, progress as Progress, blueprint as Blueprint, tags as Tags, impact as Impact\nFROM -\"6. Vault\" AND -\"2. Track\"\nWHERE progress != \"done\" AND created != null"
+          "query": "TABLE WITHOUT ID file.link as Note, progress as Progress, blueprint as Blueprint, tags as Tags, impact as Impact\nFROM -\"Vault\" AND -\"Track\"\nWHERE progress != \"done\" AND created != null"
         }
       },
       "newNotesFolder": "",
@@ -302,7 +302,7 @@
       "dataSource": {
         "kind": "folder",
         "config": {
-          "path": "6. Vault/bookshelf",
+          "path": "Vault/bookshelf",
           "recursive": false
         }
       },
