@@ -66,7 +66,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blueprint/Obsidian FLOW Methodology.md",
+                "file": "4. Blueprint/Obsidian FLOW Methodology.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -83,6 +83,18 @@
               "pinned": true,
               "icon": "lucide-file",
               "title": "Obsidian FLOW Methodology"
+            }
+          },
+          {
+            "id": "10552c9d7e3a4ae6",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -155,22 +167,12 @@
               "icon": "calendar-clock",
               "title": "Tasks Timeline"
             }
-          },
-          {
-            "id": "73a345c83018a0a9",
-            "type": "leaf",
-            "state": {
-              "type": "reminder-list",
-              "state": {},
-              "icon": "clock",
-              "title": "Reminders"
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 447.5
+    "width": 312.5
   },
   "right": {
     "id": "b2a70d1e73e50140",
@@ -179,7 +181,6 @@
       {
         "id": "41681102ef631353",
         "type": "tabs",
-        "dimension": 71.49621212121212,
         "children": [
           {
             "id": "5bfa6da26e6d3b5d",
@@ -187,8 +188,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           },
           {
@@ -267,14 +268,53 @@
               "icon": "lucide-list",
               "title": "Outline of README"
             }
+          },
+          {
+            "id": "9d0792fc3c70eb34",
+            "type": "leaf",
+            "state": {
+              "type": "tasks_timeline_view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "tasks_timeline_view"
+            }
+          },
+          {
+            "id": "7d2219adca4aef2a",
+            "type": "leaf",
+            "state": {
+              "type": "tasks_timeline_view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "tasks_timeline_view"
+            }
+          },
+          {
+            "id": "4a5a2e738a31a90e",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "reminder-list"
+            }
+          },
+          {
+            "id": "6936d9f804de6f72",
+            "type": "leaf",
+            "state": {
+              "type": "tasks_timeline_view",
+              "state": {},
+              "icon": "calendar-clock",
+              "title": "Tasks Timeline"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 9
       },
       {
         "id": "ca3b5d56810ea257",
         "type": "tabs",
-        "dimension": 28.50378787878788,
         "children": [
           {
             "id": "15cbcb4fa8cff1ab",
@@ -284,7 +324,7 @@
               "state": {
                 "file": "README.md",
                 "options": {
-                  "collapse-filter": false,
+                  "collapse-filter": true,
                   "search": "",
                   "localJumps": 1,
                   "localBacklinks": true,
@@ -292,7 +332,7 @@
                   "localInterlinks": false,
                   "showTags": false,
                   "showAttachments": false,
-                  "hideUnresolved": true,
+                  "hideUnresolved": false,
                   "collapse-color-groups": true,
                   "colorGroups": [],
                   "collapse-display": true,
@@ -305,7 +345,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.5573591067779969,
+                  "scale": 1,
                   "close": true
                 }
               },
@@ -317,12 +357,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 382.5
+    "width": 382.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "flow-pkm:FLOW Dashboard": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -334,58 +373,62 @@
       "audio-recorder:Start/stop recording": false,
       "workspaces:Manage workspace layouts": false,
       "callout-manager:Insert Callout": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
       "templater-obsidian:Templater": false,
       "obsidian-projects:Open projects": false,
-      "homepage:Open homepage": false
+      "file-cleaner-redux:Clean files": false,
+      "dashboard-navigator:Open dashboard navigator": false,
+      "homepage:Open homepage": false,
+      "flow-pkm:FLOW Dashboard": false
     }
   },
-  "active": "15cbcb4fa8cff1ab",
+  "active": "6936d9f804de6f72",
   "lastOpenFiles": [
-    "Home.md",
-    "Blueprint/Obsidian FLOW Methodology.md",
-    "Capture/2. Obsidian Roadmap - From Novice to Master.md",
-    "5. Storage/visuals/Drawing 2026-03-28 16.48.20.excalidraw.md",
-    "5. Storage/visuals",
-    "5. Storage",
-    "Track/2026-03-28.md",
-    "Vault/settings/feelings-spectrum.md",
-    "Vault/settings/tag-hierarchy.md",
-    "Vault/settings",
-    "README.md",
-    "Untitled.canvas",
-    "6. Vault/attachments/Pasted image 20260322225412.png",
-    "Capture/Giới thiệu Obsidian FLOW.md",
-    "README.pdf",
-    "Capture/1. Xin chào, đây là Thịnh.md",
-    "Vault/attachments/obsidian_flow_pkm_course.png",
-    "Capture/2, Obsidian Roadmap - From Novice to Master.md",
-    "Capture/0. Tổng quan Vault.md",
-    "Exhibit/FLOW & PKM/1. Giới thiệu phương pháp FLOW.md",
-    "Forge/FLOW system/3. Hướng dẫn nhanh để bắt đầu viết và tổ chức ghi chú.md",
-    "Forge/FLOW system/2. Nguyên tắc áp dụng phương pháp FLOW.md",
-    "Forge/FLOW system/1a. Tuỳ biến tên thư mục theo phong cách của bạn.md",
-    "Forge/FLOW system/1. Phương pháp quản lý cấu trúc Vault linh hoạt với FLOW.md",
-    "Track/2024-10-06.md",
-    "1..md",
-    "Forge/FLOW system/7. Nguyên tắc quản lý properties trong Obsidian FLOW.md",
-    "Forge/FLOW system/8. Chiến lược sử dụng tag trong phương pháp FLOW.md",
-    "Forge/FLOW system/6. Vòng đời của một ghi chú.md",
-    "Capture/Tự động hoá thay đổi nội dung markdown với Python Script.md",
-    "Capture/Tại sao chúng ta sợ những điều không có khả năng giết chúng ta_.md",
-    "Capture/Điều hướng trong Obsidian FLOW.md",
-    "1. Capture/Chiến lược quản lý chi tiêu.md",
-    "Vault/attachments/nha-may-san-xuat-y-tuong-flow 1.png",
-    "Vault/attachments/nha-may-san-xuat-y-tuong-flow.png",
-    "Vault/attachments/Obsidian_FLOW_is_ready_for_you.png",
-    "Vault/attachments/select_the_latest_release_tag.png",
-    "Vault/attachments/download_release_zip_file.png",
-    "Vault/attachments/obsidian_vault_feedback_nguyen-truong-thinh.png",
-    "Vault/attachments/modify_markdown_yaml_front_matter.png",
-    "Vault/attachments/run_python_script_in_visual_studio_code.png",
+    "Vault/templates/9. TOC.md",
+    "Vault/templates/8. Profile.md",
+    "Vault/templates/7. Project.md",
+    "Vault/templates/6. Read.md",
+    "Vault/templates/5. Daily.md",
+    "Vault/templates/3. Blog.md",
+    "Vault/templates/2. Thought.md",
+    "Vault/templates/10. Blueprint.md",
+    "Vault/templates/1. New Note.md",
+    "Vault/templater/TOC.md",
+    "Vault/templater/New.md",
+    "Vault/templater/Daily.md",
     "Vault/scripts/yaml_add_field_tkinter_ui.py",
-    "Vault/scripts/replace_md_text.py",
     "Vault/scripts/update_properties_time_format.py",
+    "Vault/scripts/replace_md_text.py",
+    "Vault/settings/tag-hierarchy.md",
+    "Vault/settings/feelings-spectrum.md",
+    "Vault/bookshelf/Words That Change Minds.md",
+    "Vault/bookshelf/Unlimited Memory.md",
+    "Vault/bookshelf/Uncommon Sense Teaching.md",
+    "Vault/bookshelf/Thinking, Fast and Slow.md",
+    "Vault/bookshelf/Thinking in Bets.md",
+    "Vault/bookshelf/Think Again.md",
+    "Vault/bookshelf/The Psychology of Money.md",
+    "Vault/bookshelf/The PARA method.md",
+    "Vault/bookshelf/The Minto Pyramid Principle.md",
+    "Vault/bookshelf/The Mind of the Strategist.md",
+    "Vault/bookshelf/The Divine Economy.md",
+    "Vault/bookshelf/The Diamond Cutter.md",
+    "Vault/attachments/y_nghia_cau_truc_thu_muc_phuong_phap_flow_obsidian.png",
+    "Vault/attachments/y_nghia_cach_dung_lop_quan_ly_thong_tin_linh_hoat_obsidian_flow.png",
+    "Vault/attachments/truong-ha-k4-k5.png",
+    "Vault/attachments/select_the_latest_release_tag.png",
+    "Vault/attachments/run_python_script_in_visual_studio_code.png",
+    "Vault/attachments/quick_intro_thinhvu.png",
+    "Vault/attachments/phuong-nguyen-boston-usa.png",
+    "Vault/attachments/obsidian_vault_feedback_nguyen-truong-thinh.png",
+    "Vault/attachments/obsidian_project_enable_rich_text_formating.png",
+    "Vault/attachments/obsidian_project_configure_field.png",
+    "Vault/templates",
+    "Vault/templater",
+    "Vault/settings",
     "Vault/scripts",
-    "package-lock.json"
+    "Vault/bookshelf",
+    "Vault/attachments",
+    "Vault/archived"
   ]
 }

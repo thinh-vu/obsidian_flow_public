@@ -16,8 +16,9 @@
   "calendar",
   "obsidian-reminder-plugin",
   "obsidian-linter",
+  "file-cleaner-redux",
+  "dashboard-navigator",
   "homepage",
   "editing-toolbar",
-  "flow-pkm",
-  "obsidian-banners"
+  "flow-pkm"
 ]

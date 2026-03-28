@@ -16,7 +16,7 @@ Hy vọng **FLOW** sẽ giúp bạn khám phá một cách tiếp cận đơn gi
 ---
 ## II. Phương pháp FLOW là gì?
 
-![](6.%20Vault/attachments/Obsidian_FLOW_is_ready_for_you.png)
+![](Vault/attachments/Obsidian_FLOW_is_ready_for_you.png)
 
 Hãy tưởng tượng bạn đang đứng giữa một cánh rừng lớn, đầy những cây xanh và vô số con đường nhỏ không rõ ràng. Đây chính là cảm giác của tôi khi đối mặt với việc quản lý ghi chú. Ý tưởng liên tục tràn ngập, nhưng mọi thứ cứ nằm lộn xộn, không có hệ thống. Mỗi khi cần tìm lại một ghi chú hoặc phát triển một ý tưởng, tôi cảm thấy như đang lạc lối trong chính không gian trí óc của tôi.
 
@@ -38,7 +38,7 @@ Bạn đã có trong tay **Obsidian FLOW** – tấm bản đồ để xây dự
 
 ### 3.1. Khoá học Obsidian Cơ Bản
 
-[![](6.%20Vault/attachments/cover-khoa-hoc-obsidian-co-ban.png)](https://course.learn-anything.vn/courses/khoa-hoc-obsidian-co-ban-cap-do-1)
+[![](Vault/attachments/cover-khoa-hoc-obsidian-co-ban.png)](https://course.learn-anything.vn/courses/khoa-hoc-obsidian-co-ban-cap-do-1)
 
 Việc bắt đầu với một phần mềm tuỳ biến cao như Obsidian có thể khiến bạn cảm thấy "ngợp" và bối rối – đó là cảm giác chung của rất nhiều người. Khoá học **Obsidian Cơ Bản** được sinh ra để biến sự bối rối đó thành sự tự tin trong thời gian ngắn nhất.
 
@@ -46,7 +46,7 @@ Nội dung khoá học được tinh gọn, tập trung dạy bạn **những th
 
 ### 3.2. Khoá học Obsidian FLOW PKM
 
-[![](6.%20Vault/attachments/obsidian_flow_pkm_course.png)](https://course.learn-anything.vn/courses/khoa-hoc-obsidian-flow-pkm)
+[![](Vault/attachments/obsidian_flow_pkm_course.png)](https://course.learn-anything.vn/courses/khoa-hoc-obsidian-flow-pkm)
 
 Nếu khoá Cơ bản giúp bạn làm chủ công cụ, thì đây là bước tiến đưa tư duy của bạn lên một tầm cao mới: **Quản lý tri thức (PKM)**. 
 
@@ -80,24 +80,24 @@ Chúc bạn thành công và sớm làm chủ được hệ thống Obsidian c�
 
 **Bước 1: Chọn link bản phát hành mới nhất tại giao diện của repo**
 
-![](6.%20Vault/attachments/select_the_latest_release_tag.png)
+![](Vault/attachments/select_the_latest_release_tag.png)
 
 **Bước 2: Chọn file zip Source code để tải về và giải nén ở màn hình tiếp theo**
 
-![](6.%20Vault/attachments/download_release_zip_file.png)
+![](Vault/attachments/download_release_zip_file.png)
 
 #### b. Tải từ mục Code > Download ZIP
 
 Sử dụng cách này, bạn tải toàn bộ repo được chia sẻ dưới dạng 1 file zip, giải nén file và mở Open folder as Vault để sử dụng. Mặc định file tải về là mã nguồn cập nhật mới nhất.
 
-![](6.%20Vault/attachments/obsidian_flow_github_download_zip.png)
+![](Vault/attachments/obsidian_flow_github_download_zip.png)
 
 ### 4.2. Sao chép mẫu Vault dưới dạng 1 repo trong Github của bạn
 
 >[!tip]
 > Sử dụng cách này, bạn có thể đồng bộ Github repo về máy và sử dụng Git làm công cụ sao lưu mặc định. Thư mục Git có thể lưu trữ trong OneDrive, Google Drive, vv hay dịch vụ lưu trữ đám mây bất kỳ để tạo lớp sao lưu thứ 2. Khi đồng bộ với Github, bạn có thể xem nhanh các ghi chú thông qua Github mobile mà không cần Obsidian mobile (nhanh hơn), hoặc chỉnh sửa ghi chú với vscode.dev từ Github repo mà không cần đồng bộ trên máy trong những trường hợp bạn không tiện cài đặt Obsidian. Cũng có thể chỉnh sửa ghi chú theo cách này trên smartphone trong 1 số trường hợp cần thiết.
 
-![](6.%20Vault/attachments/obsidian_flow_github_template_repo.png)
+![](Vault/attachments/obsidian_flow_github_template_repo.png)
 
 ---
 ## IV. Thiết lập Obsidian Vault của bạn theo phương pháp FLOW
