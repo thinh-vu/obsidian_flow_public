@@ -12,12 +12,12 @@ category: []
 
 ### Hiển thị nội dung markdown
 
-![](../6.%20Vault/attachments/obsidian_project_configure_field.png)
+![](../Vault/attachments/obsidian_project_configure_field.png)
 
-![](../6.%20Vault/attachments/obsidian_project_enable_rich_text_formating.png)
+![](../Vault/attachments/obsidian_project_enable_rich_text_formating.png)
 
 ## Thiết lập chế độ xem bảng Kanban (Board)
 
-![](../6.%20Vault/attachments/choose_progress_properties_as_status_field.png)
+![](../Vault/attachments/choose_progress_properties_as_status_field.png)
 
-![](../6.%20Vault/attachments/Pasted%20image%2020240925153203.png)
+![](../Vault/attachments/Pasted%20image%2020240925153203.png)

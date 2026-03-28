@@ -18,7 +18,7 @@ Xem thêm: [Hệ thống phím tắt trong Obsidian FLOW](../5.%20Exhibit/FLOW%2
 
 # Sử dụng giao diện đồ hoạ
 - Thanh công cụ Ribbon
-![](../6.%20Vault/attachments/obsidian_flow_ribbon_navigation.png)
+![](../Vault/attachments/obsidian_flow_ribbon_navigation.png)
 
 ## Quản lý nhiệm vụ cần làm
 
@@ -27,12 +27,12 @@ Xem thêm: [Hệ thống phím tắt trong Obsidian FLOW](../5.%20Exhibit/FLOW%2
 > Sử dụng Reminder plugin để đặt nhắc nhở, gõ `(@` để kích hoạt giao diện chọn ngày, giờ nhắc nhở. Click vào "Focus On Today" sẽ hiện ra dòng thời gian các nhiệm vụ như trong hình.
 
 
-![](../6.%20Vault/attachments/Pasted%20image%2020240929172844.png)
+![](../Vault/attachments/Pasted%20image%2020240929172844.png)
 
 ## Home
 
-![](../6.%20Vault/attachments/Pasted%20image%2020240929173717.png)
+![](../Vault/attachments/Pasted%20image%2020240929173717.png)
 
 ## Điều hướng trong bài viết - Floating TOC
 
-![](../6.%20Vault/attachments/floating_toc.png)
+![](../Vault/attachments/floating_toc.png)

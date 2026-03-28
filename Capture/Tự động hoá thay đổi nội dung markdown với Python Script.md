@@ -23,7 +23,7 @@ Vault mẫu Obsidian FLOW chứa các đoạn script python hữu ích tại th�
 *(\*) Trong mỗi file có câu lệnh mẫu. Để biết cách cài đặt Python, vui lòng xem hướng dẫn tại [Vnstock](https://vnstocks.com/docs/khoa-hoc/python-cho-cong-cong-khoa-hoc-mien-phi) hoặc [Learn Anything](https://learn-anything.vn/kien-thuc/python/thiet-lap-moi-truong-python)*
 
 Hình 1:
-![](../6.%20Vault/attachments/run_python_script_in_visual_studio_code.png)
+![](../Vault/attachments/run_python_script_in_visual_studio_code.png)
 
 Hình 2:
-![](../6.%20Vault/attachments/modify_markdown_yaml_front_matter.png)
+![](../Vault/attachments/modify_markdown_yaml_front_matter.png)

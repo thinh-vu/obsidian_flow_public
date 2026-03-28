@@ -15,7 +15,7 @@ channel:
   - Facebook
   - Blog
 ---
-![](../../6.%20Vault/attachments/obsidian-flow-shortcuts-he-thong-phim-tat.png)
+![](../../Vault/attachments/obsidian-flow-shortcuts-he-thong-phim-tat.png)
 ## Giới thiệu
 
 Obsidian không chỉ đơn thuần là một ứng dụng ghi chú, mà còn là một công cụ quản lý tri thức cá nhân đầy thú vị và mạnh mẽ. Điều khiến tôi đặc biệt yêu thích Obsidian, hơn bất kỳ ứng dụng soạn thảo nào khác, chính là bộ phím tắt phong phú và khả năng cá nhân hóa gần như vô hạn. Bộ phím tắt của Obsidian không chỉ đa dạng mà còn được thiết kế để tối ưu hóa trải nghiệm ghi chú, giúp người dùng có thể tập trung hoàn toàn vào việc sáng tạo mà "ít phải đụng tới chuột". Tuy nhiên, hiện nay có rất ít người chia sẻ về việc tận dụng những phím tắt này một cách tối ưu. Với bài viết này, tôi hy vọng sẽ giúp bạn khám phá sức mạnh thực sự của Obsidian, tăng tốc độ ghi chú lên gấp nhiều lần và quản lý hệ thống tri thức của mình hiệu quả hơn.
@@ -131,7 +131,7 @@ graph
 3. **Nhóm Các Phím Tắt Theo Tác Vụ**: Hãy phân loại các phím tắt theo chức năng như "Quản lý Giao Diện," "Tạo Nội Dung," và "Liên Kết" để dễ dàng học và sử dụng chúng trong ngữ cảnh phù hợp.
 4. Quan sát các tổ hợp phím trong tiêu đề lệnh khi sử dụng tính năng Cửa sổ lệnh (Command Palette) được kích hoạt với tổ hợp phím `⌘/Ctrl + P`
 
-![](../../6.%20Vault/attachments/obsidian_flow_command_palette_shortcuts.png)
+![](../../Vault/attachments/obsidian_flow_command_palette_shortcuts.png)
 
 ## Lời kết
 

@@ -15,12 +15,12 @@ channel:
   - Substack
 category:
 ---
-![](../../6.%20Vault/attachments/nha-may-san-xuat-y-tuong-flow.png)
+![](../../Vault/attachments/nha-may-san-xuat-y-tuong-flow.png)
 Các bạn đăng ký trải nghiệm **FLOW template vault** hẳn đã có dịp sử dụng thử mẫu thiết lập vault mà mình chia sẻ. Những hướng dẫn và minh hoạ hy vọng giúp các bạn **dễ dàng làm quen với một hệ thống và nguyên tắc tư duy hoàn chỉnh** cho hành trình sáng tạo của mình. Hãy cũng ngẫm lại đôi chút để hiểu hơn về những ý tưởng thú vị mình chắt lọc và truyền tải thông qua **hệ thống cấu trúc thư mục** của FLOW. Đây là **phần cấu trúc cố định** bên cạnh hệ thống thông tin linh hoạt quản lý bởi **properties, tags, và wikilink** trong Vault.
 
 FLOW hoạt động giống như một **nhà máy sản xuất sáng tạo**, nơi mọi ý tưởng từ những mảnh vụn sơ khai có thể được rèn thành sản phẩm hoàn thiện mang giá trị thật sự. Trong nhà máy này, không phải chúng ta sản xuất sản phẩm vật chất mà chính là sản xuất **ý tưởng**, **tri thức**, và **nội dung** – những thứ vô giá trong thế giới hiện đại. Hệ thống thư mục của FLOW ra đời để giúp bạn thực hiện từ những bước đầu tiên cho tới khi ý tưởng của bạn trở thành thành phẩm hoàn thiện và mang lại giá trị. Hãy cùng đi qua từng bước trong FLOW để hiểu rõ cách chúng ta quản lý ý tưởng từ lúc còn là một mẩu suy nghĩ cho tới khi trở thành một sản phẩm xuất sắc.
 
-![](../../6.%20Vault/attachments/nha-may-san-xuat-y-tuong-flow%201.png)
+![](../../Vault/attachments/nha-may-san-xuat-y-tuong-flow%201.png)
 
 #### **1. Capture - Thu Thập Vật Liệu Thô**
 Trong bất kỳ nhà máy nào, việc đầu tiên là **thu thập vật liệu thô**. Ý tưởng cũng như vậy, chúng đến từ mọi nguồn: từ một cuốn sách bạn đọc, một cuộc trò chuyện, hay thậm chí từ một khoảnh khắc im lặng. Những ý tưởng này giống như **nguyên liệu ban đầu** – không có hình dạng rõ ràng, chưa được xử lý.
