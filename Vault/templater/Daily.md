@@ -5,13 +5,13 @@ created: 2026-03-28 22:36:18
 feeling: 
 summary:
 ---
-# Missions ✨
+## Missions ✨
 
 
-# Thoughts 💬
+## Thoughts 💬
 
 
-# Notes 📝
+## Notes 📝
 
 ```dataview
 TABLE impact as Impact, created as Created
