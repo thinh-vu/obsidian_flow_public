@@ -32,97 +32,8 @@
               "icon": "lucide-file",
               "title": "README"
             }
-          },
-          {
-            "id": "c6135b3486af3d34",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Home"
-            }
-          },
-          {
-            "id": "2af468f51bac5145",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Blueprint/Obsidian FLOW Methodology.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Obsidian FLOW Methodology"
-            }
-          },
-          {
-            "id": "10552c9d7e3a4ae6",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true,
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "4dd72e3a9a64cd95",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vault/templates/10. Blueprint.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "10. Blueprint"
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -207,7 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 447.5
+    "width": 317.5
   },
   "right": {
     "id": "b2a70d1e73e50140",
@@ -233,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/templates/10. Blueprint.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +154,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 10. Blueprint"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -252,12 +163,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault/templates/10. Blueprint.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 10. Blueprint"
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -295,13 +206,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vault/templates/10. Blueprint.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 10. Blueprint"
+              "title": "Outline of README"
             }
           }
         ],
@@ -317,7 +228,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Vault/templates/10. Blueprint.md",
+                "file": "README.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -345,14 +256,15 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 10. Blueprint"
+              "title": "Graph of README"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 382.5
+    "width": 382.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -374,8 +286,15 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "4dd72e3a9a64cd95",
+  "active": "ad37673f197f7043",
   "lastOpenFiles": [
+    "Forge/FLOW system/6. Vòng đời của một ghi chú.md",
+    "Untitled.canvas",
+    "Forge/FLOW system/1. Phương pháp quản lý cấu trúc Vault linh hoạt với FLOW.md",
+    "README.md",
+    "Home.md",
+    "Blueprint/Obsidian FLOW Methodology.md",
+    "Vault/templates/10. Blueprint.md",
     "Vault/templates/9. TOC.md",
     "Vault/templates/8. Profile.md",
     "Vault/templates/7. Project.md",
@@ -389,7 +308,6 @@
     "Vault/templater/Daily.md",
     "Track/Untitled.md",
     "Vault/settings/blueprints-index.md",
-    "Vault/templates/10. Blueprint.md",
     "Vault/scripts/yaml_add_field_tkinter_ui.py",
     "Vault/scripts/update_properties_time_format.py",
     "Vault/scripts/replace_md_text.py",
@@ -400,11 +318,6 @@
     "Vault/bookshelf/Uncommon Sense Teaching.md",
     "Vault/bookshelf/Thinking, Fast and Slow.md",
     "Vault/bookshelf/Thinking in Bets.md",
-    "Vault/bookshelf/Think Again.md",
-    "Vault/bookshelf/The Psychology of Money.md",
-    "Vault/bookshelf/The PARA method.md",
-    "Vault/bookshelf/The Minto Pyramid Principle.md",
-    "Vault/bookshelf/The Mind of the Strategist.md",
     "Vault/attachments/y_nghia_cau_truc_thu_muc_phuong_phap_flow_obsidian.png",
     "Vault/attachments/y_nghia_cach_dung_lop_quan_ly_thong_tin_linh_hoat_obsidian_flow.png",
     "Vault/attachments/truong-ha-k4-k5.png",
