@@ -603,5 +603,32 @@
       ],
       "key": "M"
     }
+  ],
+  "flow-pkm:flow-open-dashboard": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "D"
+    }
+  ],
+  "flow-pkm:flow-open-dashboard-navigator": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "E"
+    }
+  ],
+  "flow-pkm:flow-open-dashboard-stats": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "C"
+    }
   ]
 }

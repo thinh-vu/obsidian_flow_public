@@ -32,8 +32,97 @@
               "icon": "lucide-file",
               "title": "README"
             }
+          },
+          {
+            "id": "c6135b3486af3d34",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Home"
+            }
+          },
+          {
+            "id": "2af468f51bac5145",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Blueprint/Obsidian FLOW Methodology.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Obsidian FLOW Methodology"
+            }
+          },
+          {
+            "id": "10552c9d7e3a4ae6",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "60d980ddc620655a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Home"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -118,7 +207,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.5
+    "width": 447.5
   },
   "right": {
     "id": "b2a70d1e73e50140",
@@ -144,7 +233,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +243,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for Home"
             }
           },
           {
@@ -163,12 +252,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links from Home"
             }
           },
           {
@@ -206,13 +295,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "Home.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of Home"
             }
           }
         ],
@@ -228,7 +317,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "README.md",
+                "file": "Home.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -256,21 +345,20 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of README"
+              "title": "Graph of Home"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 382.5,
-    "collapsed": true
+    "width": 382.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "flow-pkm:FLOW Dashboard": false,
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "flow-pkm:FLOW Dashboard": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -286,14 +374,26 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "ad37673f197f7043",
+  "active": "60d980ddc620655a",
   "lastOpenFiles": [
+    "Archive.zip",
+    "flow_public.zip",
+    "update_blueprint_props.py",
+    "Blueprint/Obsidian FLOW Methodology.md",
+    "Blueprint/Reading Challenges.md",
+    "Track/2026-03-28.md",
+    "fix_created.py",
+    "migrate_created.py",
+    "Track/2024-10-06.md",
+    "Track/2024-09-30.md",
+    "Track/2024-09-29.md",
+    "Track/2024-09-21.md",
+    "Blueprint/Content Plan.md",
+    "Home.md",
     "Forge/FLOW system/6. Vòng đời của một ghi chú.md",
     "Untitled.canvas",
     "Forge/FLOW system/1. Phương pháp quản lý cấu trúc Vault linh hoạt với FLOW.md",
     "README.md",
-    "Home.md",
-    "Blueprint/Obsidian FLOW Methodology.md",
     "Vault/templates/10. Blueprint.md",
     "Vault/templates/9. TOC.md",
     "Vault/templates/8. Profile.md",
@@ -307,17 +407,9 @@
     "Vault/templater/New.md",
     "Vault/templater/Daily.md",
     "Track/Untitled.md",
-    "Vault/settings/blueprints-index.md",
     "Vault/scripts/yaml_add_field_tkinter_ui.py",
     "Vault/scripts/update_properties_time_format.py",
     "Vault/scripts/replace_md_text.py",
-    "Vault/settings/tag-hierarchy.md",
-    "Vault/settings/feelings-spectrum.md",
-    "Vault/bookshelf/Words That Change Minds.md",
-    "Vault/bookshelf/Unlimited Memory.md",
-    "Vault/bookshelf/Uncommon Sense Teaching.md",
-    "Vault/bookshelf/Thinking, Fast and Slow.md",
-    "Vault/bookshelf/Thinking in Bets.md",
     "Vault/attachments/y_nghia_cau_truc_thu_muc_phuong_phap_flow_obsidian.png",
     "Vault/attachments/y_nghia_cach_dung_lop_quan_ly_thong_tin_linh_hoat_obsidian_flow.png",
     "Vault/attachments/truong-ha-k4-k5.png",
@@ -330,10 +422,6 @@
     "Vault/attachments/obsidian_project_configure_field.png",
     "Vault/templates",
     "Vault/templater",
-    "Vault/settings",
-    "Vault/scripts",
-    "Vault/bookshelf",
-    "Vault/attachments",
-    "Vault/archived"
+    "Vault/settings"
   ]
 }

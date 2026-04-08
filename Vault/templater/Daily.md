@@ -13,9 +13,28 @@ summary:
 
 ## Notes 📝
 
-```dataview
-TABLE impact as Impact, created as Created
-FROM -"6. Vault"
-WHERE dateformat(file.ctime,"yyyy-MM-dd") = dateformat(date(this.created, "yyyy-MM-dd HH:mm:ss"), "yyyy-MM-dd")
-SORT rank DESC, created DESC
+```base
+formulas:
+  Created: 'if(created, created, file.ctime)'
+filters:
+  and:
+    - '!file.path.startsWith("Vault")'
+    - file.ctime.date() == date(this["created"]).date()
+properties:
+  impact:
+    displayName: Impact
+  formula.Created:
+    displayName: Created
+views:
+  - type: table
+    name: "Daily Notes"
+    sorts:
+      - property: rank
+        direction: DESC
+      - property: formula.Created
+        direction: DESC
+    order:
+      - file.name
+      - impact
+      - formula.Created
 ```

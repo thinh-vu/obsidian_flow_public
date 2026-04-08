@@ -8,7 +8,6 @@
   "heatmap-calendar",
   "tasks-calendar-wrapper",
   "templater-obsidian",
-  "dataview",
   "obsidian-projects",
   "flashcards-obsidian",
   "buttons",
@@ -20,5 +19,6 @@
   "dashboard-navigator",
   "homepage",
   "editing-toolbar",
-  "flow-pkm"
+  "flow-pkm",
+  "dataview"
 ]

@@ -1,6 +1,6 @@
 ---
 aliases:
-  - 92. Tuyển chọn nội dung tự động với TOC và Dataview trong hệ thống FLOW
+  - 92. Tuyển chọn nội dung tự động với TOC và Base trong hệ thống FLOW
 created: 2024-09-16 23:09:24
 progress: done
 blueprint:
@@ -14,7 +14,7 @@ category:
 
 Trong hệ thống **FLOW**, việc tổ chức thông tin không chỉ dừng lại ở việc sử dụng các thư mục (folders), mà còn bao gồm cả việc tạo ra các bản đồ nội dung với Blueprint[^1] để bạn dễ dàng điều hướng qua các ghi chú, dự án và chủ đề phức tạp. **Blueprint** có thể được sử dụng làm tấm bản đồ nội dung cho từng dự án, thư mục cụ thể, giúp bạn có cái nhìn tổng quan và quản lý thông tin một cách hiệu quả.
 
-Bằng cách tận dụng **Dataview** plugin trong Obsidian, bạn có thể tự động tạo và cập nhật TOC dựa trên các thuộc tính metadata của từng ghi chú, như **status**, **impact**, **urgency**, và các thuộc tính khác. Điều này giúp bạn không cần phải chọn thủ công từng ghi chú, mà chỉ cần điều chỉnh metadata để tự động hiển thị chúng trong TOC.
+Bằng cách tận dụng **Bases** plugin trong Obsidian, bạn có thể tự động tạo và cập nhật TOC dựa trên các thuộc tính metadata của từng ghi chú, như **status**, **impact**, **urgency**, và các thuộc tính khác. Điều này giúp bạn không cần phải chọn thủ công từng ghi chú, mà chỉ cần điều chỉnh metadata để tự động hiển thị chúng trong TOC.
 
 ---
 
@@ -29,13 +29,25 @@ Một **Blueprint** đóng vai trò như "bản vẽ" khi bạn xây dựng mộ
 - Đây sẽ là "nhà" cho toàn bộ Vault, nơi bạn có thể điều hướng nhanh qua các dự án, ghi chú quan trọng.
 #### **Bước 2: Sử dụng Dataview để liệt kê các ghi chú theo trạng thái**
 
-- Trong TOC.md, sử dụng **Dataview Query** để tự động liệt kê các ghi chú dựa trên thuộc tính metadata. Ví dụ: Bạn có thể hiển thị tất cả các ghi chú có trạng thái `medium` (đang phát triển) hoặc những ghi chú `done` (hoàn thành).
+- Trong TOC.md, sử dụng **Bases syntax** để tự động liệt kê các ghi chú dựa trên thuộc tính metadata. Ví dụ: Bạn có thể hiển thị tất cả các ghi chú có trạng thái `medium` (đang phát triển) hoặc những ghi chú `done` (hoàn thành).
 
-```dataview
-table status, impact, urgency
-from ""
-where status = "medium" or status = "done"
-sort urgency desc
+```base
+filters:
+  and:
+    - or:
+        - status == "medium"
+        - status == "done"
+views:
+  - type: table
+    name: "Overview"
+    sorts:
+      - property: urgency
+        direction: DESC
+    order:
+      - file.name
+      - status
+      - impact
+      - urgency
 ```
 
 - Lệnh trên sẽ liệt kê tất cả các ghi chú trong Vault có trạng thái là `medium` hoặc `done`, sắp xếp chúng theo độ cấp bách **urgency** từ cao xuống thấp.
@@ -48,13 +60,26 @@ sort urgency desc
 
 #### **Bước 2: Sử dụng Dataview để tự động hiển thị ghi chú liên quan**
 
-- Trong TOC này, bạn có thể sử dụng **Dataview Query** để liệt kê các ghi chú thuộc dự án dựa trên metadata như **parent**, **status**, và **priority**.
+- Trong TOC này, bạn có thể sử dụng **Bases syntax** để liệt kê các ghi chú thuộc dự án dựa trên metadata như **parent**, **status**, và **priority**.
 
-```dataview
-table status, priority, updated
-from "/"
-where file.folder = "3. Forge/FLOW system" and status != "archived"
-sort priority asc, updated desc
+```base
+filters:
+  and:
+    - file.folder == "3. Forge/FLOW system"
+    - status != "archived"
+views:
+  - type: table
+    name: "Overview"
+    sorts:
+      - property: priority
+        direction: ASC
+      - property: updated
+        direction: DESC
+    order:
+      - file.name
+      - status
+      - priority
+      - updated
 ```
 
 - Câu lệnh trên sẽ liệt kê tất cả các ghi chú trong thư mục **3. Forge/FLOW system** có địa chỉ thư mục là "3. Forge/FLOW system" (để đảm bảo chỉ hiển thị ghi chú liên quan), loại bỏ các ghi chú đã được lưu trữ (`archived`) và sắp xếp chúng theo thứ tự ưu tiên **priority** từ thấp đến cao.
@@ -65,11 +90,24 @@ sort priority asc, updated desc
 
 Ví dụ, TOC liệt kê ghi chú có **urgency** cao trước:
 
-```dataview
-table status, urgency, updated
-from "Forge"
-where urgency >= 5
-sort urgency desc, updated desc
+```base
+filters:
+  and:
+    - file.path.startsWith("Forge")
+    - urgency >= 5
+views:
+  - type: table
+    name: "Overview"
+    sorts:
+      - property: urgency
+        direction: DESC
+      - property: updated
+        direction: DESC
+    order:
+      - file.name
+      - status
+      - urgency
+      - updated
 ```
 
 - Câu lệnh này sẽ liệt kê tất cả các ghi chú trong **Forge** có độ cấp bách từ 5 trở lên, sắp xếp theo mức độ khẩn cấp và ngày cập nhật mới nhất.
@@ -86,7 +124,7 @@ TOC không chỉ giúp bạn điều hướng qua các ghi chú mà còn đóng 
 
 ### **Linh hoạt nhưng có cấu trúc**
 
-Blueprint trong **FLOW** giúp bạn kết hợp giữa sự linh hoạt và cấu trúc vững chắc. Bằng cách sử dụng các thư mục để quản lý cấp độ cao và **Dataview** để tự động hóa việc tổ chức, bạn có thể duy trì Vault của mình một cách gọn gàng và có tổ chức, trong khi vẫn đảm bảo khả năng điều chỉnh nhanh chóng theo sự thay đổi của thông tin và dự án.
+Blueprint trong **FLOW** giúp bạn kết hợp giữa sự linh hoạt và cấu trúc vững chắc. Bằng cách sử dụng các thư mục để quản lý cấp độ cao và **Bases** để tự động hóa việc tổ chức, bạn có thể duy trì Vault của mình một cách gọn gàng và có tổ chức, trong khi vẫn đảm bảo khả năng điều chỉnh nhanh chóng theo sự thay đổi của thông tin và dự án.
 
 ### **Tiết kiệm thời gian và công sức**
 
@@ -94,6 +132,6 @@ Thay vì phải cập nhật thủ công các danh sách trong TOC, bạn chỉ 
 
 ### **Lời Kết**
 
-Blueprint là một công cụ mạnh mẽ khi sử dụng trong Obsidian FLOW, đặc biệt khi kết hợp với **Dataview** để tự động hóa việc tổ chức. Với **FLOW**, bạn không chỉ tạo ra một hệ thống linh hoạt, dễ dàng điều hướng, mà còn giúp đảm bảo thông tin luôn được cập nhật và tổ chức một cách khoa học.
+Blueprint là một công cụ mạnh mẽ khi sử dụng trong Obsidian FLOW, đặc biệt khi kết hợp với **Bases** để tự động hóa việc tổ chức. Với **FLOW**, bạn không chỉ tạo ra một hệ thống linh hoạt, dễ dàng điều hướng, mà còn giúp đảm bảo thông tin luôn được cập nhật và tổ chức một cách khoa học.
 
 [^1]: Blueprint tương đương với các khái niệm bạn có thể nghe từ trước như TOC - Table of Content hay **MOC** - Map of Contents

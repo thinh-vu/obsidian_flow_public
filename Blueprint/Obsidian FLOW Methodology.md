@@ -5,27 +5,77 @@ progress: done
 ---
 # TOC
 
-```dataview
-TABLE impact, progress, created
-FROM -"6. Vault"
-WHERE contains(string(join(blueprint, "  ")), this.file.name) AND number(impact) >= number(this.min-impact) AND date(created, "yyyy-MM-dd HH:mm:ss") >= date(this.created-after)
-SORT created DESC
+```base
+formulas:
+  Created: 'if(created, created, file.ctime)'
+filters:
+  and:
+    - '!file.path.startsWith("Vault")'
+    - blueprint.contains(this)
+    - impact >= this["min-impact"]
+    - formula.Created >= this["created-after"]
+views:
+  - type: table
+    name: "TOC"
+    sorts:
+      - property: formula.Created
+        direction: DESC
+    order:
+      - file.name
+      - impact
+      - progress
+      - formula.Created
 ```
 
 # Khác
 
-```dataview
-TABLE impact, progress, created
-FROM -"6. Vault"
-WHERE contains(string(join(blueprint, "  ")), this.file.name) AND none(list(impact))
-SORT rank DESC, created DESC
+```base
+formulas:
+  Created: 'if(created, created, file.ctime)'
+filters:
+  and:
+    - '!file.path.startsWith("Vault")'
+    - blueprint.contains(this)
+    - "!impact"
+views:
+  - type: table
+    name: Others
+    order:
+      - file.name
+      - impact
+      - progress
+      - formula.Created
+    sort:
+      - property: impact
+        direction: DESC
+    sorts:
+      - property: rank
+        direction: DESC
+      - property: formula.Created
+        direction: DESC
+
 ```
 
 # Hoàn thiện
 
-```dataview
-TABLE impact, progress, created
-FROM -"6. Vault"
-WHERE contains(string(join(blueprint, "  ")), this.file.name) AND number(impact) >= number(this.min-impact) AND progress = "done"
-SORT created DESC
+```base
+formulas:
+  Created: 'if(created, created, file.ctime)'
+filters:
+  and:
+    - '!file.path.startsWith("Vault")'
+    - blueprint.contains(this)
+    - impact >= this["min-impact"]
+    - progress == "done"
+views:
+  - type: table
+    name: "Done"
+    sorts:
+      - property: formula.Created
+        direction: DESC
+    order:
+      - file.name
+      - impact
+      - progress
+      - formula.Created
 ```

@@ -10,10 +10,30 @@ genre:
 progress: archived
 ---
 
-```dataview
-TABLE WITHOUT ID "![](" + cover + ")" + file.link as Title, join(author, ", ") as Author, join(category, " & ") as Genre, summary as Summary
-FROM "6. Vault/bookshelf" 
-WHERE blueprint = [[Reading Challenges]] OR contains(tags, "book") 
-AND contains(this.genre, category) 
-SORT category, rating, avg_rating desc
+```base
+formulas:
+  Title: 'file.asLink("![](" + cover + ")")'
+  Author: 'list(author).join(", ")'
+  Genre: 'list(category).join(" & ")'
+filters:
+  and:
+    - file.path.startsWith("Vault/bookshelf")
+    - or:
+        - blueprint == link("Reading Challenges")
+        - tags.contains("book")
+    - this["genre"].contains(category)
+views:
+  - type: table
+    name: "Overview"
+    sorts:
+      - property: category
+      - property: rating
+        direction: DESC
+      - property: avg_rating
+        direction: DESC
+    order:
+      - formula.Title
+      - formula.Author
+      - formula.Genre
+      - summary
 ```

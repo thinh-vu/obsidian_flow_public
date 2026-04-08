@@ -43,28 +43,28 @@
   },
   "reminders": {
     "consolidateCapture": {
-      "enabled": false,
+      "enabled": true,
       "frequency": "weekly",
       "lastTriggered": 0
     },
     "dailyNote": {
-      "enabled": false,
+      "enabled": true,
       "frequency": "daily",
-      "lastTriggered": 0
+      "lastTriggered": 1775608837954
     },
     "weeklyReview": {
-      "enabled": false,
+      "enabled": true,
       "frequency": "weekly",
       "dayOfWeek": 0,
-      "lastTriggered": 0
+      "lastTriggered": 1775608837954
     },
     "publishContent": {
-      "enabled": false,
+      "enabled": true,
       "frequency": "weekly",
-      "lastTriggered": 0
+      "lastTriggered": 1775608837954
     },
     "forgeCleanup": {
-      "enabled": false,
+      "enabled": true,
       "frequency": "monthly",
       "lastTriggered": 0
     }
@@ -138,12 +138,21 @@
   "selectedFeelings": [],
   "lastCachedStats": {
     "propertiesGrouped": {
+      "created": {
+        "2026-03-29 22:55:13": 1,
+        "2026-02-03": 1,
+        "2026-02-03 10:21:53": 2,
+        "03-02-2026 09:02:91": 1,
+        "2026-03-10 12:01:12": 1,
+        "2026-03-12 11:48:48": 1
+      },
+      "summary": {
+        "Hôm nay doanh thu dịch vụ tháng 3 chính thức vượt mốc 100 triệu": 1,
+        "Sống một cuộc đời đáng sống": 1
+      },
       "progress": {
         "medium": 1,
         "raw": 5
-      },
-      "summary": {
-        "Sống một cuộc đời đáng sống": 1
       },
       "impact": {
         "5": 2
@@ -159,13 +168,6 @@
       "created-after": {
         "2024-08-01": 2
       },
-      "created": {
-        "2026-03-12 11:48:48": 1,
-        "2026-02-03": 1,
-        "03-02-2026 09:02:91": 1,
-        "2026-02-03 10:21:53": 2,
-        "2026-03-10 12:01:12": 1
-      },
       "subject": {
         "Tư vấn pháp lý về hoạt động và phát triển dự án Vnstock": 1
       },
@@ -175,51 +177,53 @@
     },
     "tagsCount": {},
     "activityTimestamps": [
+      1774799713000,
+      1774799941000,
       1774694296000,
       1774694422000,
       1769744804000,
       1774694135000,
-      1773290928144,
-      1773293360634,
       1770093218000,
       1770101211000,
-      1770085308000,
-      1774590519690,
       1770088913000,
       1770092974000,
-      1773118872592,
-      1774693203000,
-      1770040138000,
       1770092974000,
-      1770093129000
+      1770093129000,
+      1770085308000,
+      1774590519000,
+      1773118872000,
+      1774693203000,
+      1773290928000,
+      1773293360000
     ],
     "moodByDate": {},
     "feelingCounts": {},
     "feelingByDate": {},
     "totalActiveNotes": 9,
     "notesPerFolder": {
+      "track": 1,
       "blueprint": 2,
-      "capture": 7
+      "capture": 6
     },
     "roleStats": {
       "capture": {
-        "noteCount": 7,
+        "noteCount": 6,
         "propertiesGrouped": {
           "created": {
-            "2026-03-12 11:48:48": 1,
             "2026-02-03": 1,
-            "03-02-2026 09:02:91": 1,
             "2026-02-03 10:21:53": 2,
-            "2026-03-10 12:01:12": 1
-          },
-          "progress": {
-            "raw": 5
+            "03-02-2026 09:02:91": 1,
+            "2026-03-10 12:01:12": 1,
+            "2026-03-12 11:48:48": 1
           },
           "subject": {
             "Tư vấn pháp lý về hoạt động và phát triển dự án Vnstock": 1
           },
           "author": {
             "Thịnh Vũ (vnstock)": 1
+          },
+          "progress": {
+            "raw": 5
           },
           "impact": {
             "5": 1
@@ -232,10 +236,10 @@
         "notesWithWikilinks": 1,
         "maxFolderDepth": 0,
         "subfolderCount": 0,
-        "notesInRoot": 7,
+        "notesInRoot": 6,
         "notesPerSubfolder": {},
         "captureHasWikilink": 1,
-        "captureRawNotes": 1,
+        "captureRawNotes": 0,
         "trackTasksCompleted": 0,
         "trackTasksPending": 0,
         "trackHasFeeling": 0,
@@ -244,20 +248,27 @@
         "forgeProgressDistribution": {}
       },
       "track": {
-        "noteCount": 0,
-        "propertiesGrouped": {},
+        "noteCount": 1,
+        "propertiesGrouped": {
+          "created": {
+            "2026-03-29 22:55:13": 1
+          },
+          "summary": {
+            "Hôm nay doanh thu dịch vụ tháng 3 chính thức vượt mốc 100 triệu": 1
+          }
+        },
         "tagsCount": {},
-        "notesWithAnyMetadata": 0,
+        "notesWithAnyMetadata": 1,
         "notesWithTags": 0,
-        "notesWithProperties": 0,
+        "notesWithProperties": 1,
         "notesWithWikilinks": 0,
         "maxFolderDepth": 0,
         "subfolderCount": 0,
-        "notesInRoot": 0,
+        "notesInRoot": 1,
         "notesPerSubfolder": {},
         "captureHasWikilink": 0,
         "captureRawNotes": 0,
-        "trackTasksCompleted": 0,
+        "trackTasksCompleted": 1,
         "trackTasksPending": 0,
         "trackHasFeeling": 0,
         "forgeWipCount": 0,
@@ -359,8 +370,8 @@
         "forgeProgressDistribution": {}
       }
     },
-    "vaultTotalFiles": 73,
-    "vaultTotalSize": 6800920,
+    "vaultTotalFiles": 72,
+    "vaultTotalSize": 6796653,
     "vaultLargestFolders": [
       {
         "name": "Vault",
@@ -369,6 +380,10 @@
       {
         "name": "Capture",
         "size": 62527
+      },
+      {
+        "name": "Track",
+        "size": 846
       },
       {
         "name": "Blueprint",
@@ -386,17 +401,16 @@
     ],
     "hasGitRepo": false,
     "captureNoteAges": [
-      16.89217902777778,
-      53.90271310185185,
-      53.99426402777778,
-      53.95253949074074,
-      18.883562731481483,
-      54.5170649537037,
-      53.90553717592593
+      54.519724652777775,
+      54.569551041666664,
+      54.52254872685185,
+      54.611275578703705,
+      19.50058113425926,
+      17.50919224537037
     ],
     "namingConventions": {
-      "zettelkasten": 0,
-      "natural": 9,
+      "zettelkasten": 1,
+      "natural": 8,
       "kebab": 0,
       "snake": 0,
       "camel": 0,

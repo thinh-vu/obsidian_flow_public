@@ -4,19 +4,50 @@ created-after: 2024-08-01
 progress: medium
 ---
 
-```dataview
-TABLE impact, created
-FROM -"6. Vault"
-WHERE contains(string(join(blueprint, "  ")), this.file.name) AND number(impact) >= number(this.min-impact) AND date(created, "yyyy-MM-dd HH:mm:ss") >= date(this.created-after)
-SORT rank DESC, created DESC
+```base
+formulas:
+  Created: 'if(created, created, file.ctime)'
+filters:
+  and:
+    - '!file.path.startsWith("Vault")'
+    - blueprint.contains(this)
+    - impact >= this["min-impact"]
+    - formula.Created >= this["created-after"]
+views:
+  - type: table
+    name: "TOC"
+    sorts:
+      - property: rank
+        direction: DESC
+      - property: formula.Created
+        direction: DESC
+    order:
+      - file.name
+      - impact
+      - formula.Created
 ```
 
 
 ## Others
 
-```dataview
-TABLE impact, created
-FROM -"6. Vault"
-WHERE contains(string(join(blueprint, "  ")), this.file.name) AND none(list(impact))
-SORT rank DESC, created DESC
+```base
+formulas:
+  Created: 'if(created, created, file.ctime)'
+filters:
+  and:
+    - '!file.path.startsWith("Vault")'
+    - blueprint.contains(this)
+    - '!impact'
+views:
+  - type: table
+    name: "Others"
+    sorts:
+      - property: rank
+        direction: DESC
+      - property: formula.Created
+        direction: DESC
+    order:
+      - file.name
+      - impact
+      - formula.Created
 ```

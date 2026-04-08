@@ -7,20 +7,38 @@ WHERE !completed
 
 ## ✨ RECENT
 
-```dataview
-TABLE dateformat(date(file.ctime), "MMM dd") as Date
-FROM "/"
-WHERE number(impact) >= 4 AND date(created, "yyyy-MM-dd HH:mm:ss") >= date(this.created-after)
-SORT created DESC
-LIMIT 20
+```base
+formulas:
+  Created: 'if(created, created, file.ctime)'
+filters:
+  and:
+    - impact >= 4
+    - formula.Created >= this["created-after"]
+views:
+  - type: table
+    name: "Recent"
+    limit: 20
+    sorts:
+      - property: formula.Created
+        direction: DESC
+    order:
+      - file.name
+      - file.ctime
 ```
 
 ## ⏱️ ON THIS DAY
 
-```dataview
-TABLE file.name as Date
-FROM "/"
-WHERE contains(file.name, dateformat(date(today), "-dd")) = true AND contains(file.name, dateformat(date(today), "-dd-")) = false AND contains(file.name, dateformat(date(today), "yyyy-MM-dd")) = false
+```base
+filters:
+  and:
+    - file.name.contains(today().format("-DD"))
+    - '!file.name.contains(today().format("-DD-"))'
+    - '!file.name.contains(today().format("YYYY-MM-DD"))'
+views:
+  - type: table
+    name: "On this day"
+    order:
+      - file.name
 ```
 
 
