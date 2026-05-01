@@ -4,15 +4,15 @@ aliases:
 created: 2024-09-29 16:53:00
 progress: raw
 blueprint:
-  - "[[../4. Blueprint/Reading Challenges|Reading Challenges]]"
-  - "[[../4. Blueprint/Content Plan|Content Plan]]"
+  - "[[../Blueprint/Reading Challenges|Reading Challenges]]"
+  - "[[../Blueprint/Content Plan|Content Plan]]"
 impact: 
 urgency: 
 tags: 
 channel:
   - Podcast
 source:
-  - "[[../6. Vault/bookshelf/Fooled by Randomness|Fooled by Randomness]]"
+  - "[[../Vault/bookshelf/Fooled by Randomness|Fooled by Randomness]]"
 ---
 **Mở đầu:**
 

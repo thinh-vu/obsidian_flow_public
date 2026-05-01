@@ -15,7 +15,7 @@ category:
 > [!tip]
 > Bạn có biết trong vault mẫu chứa các file script python giúp bạn xử lý nội dung markdown trong những trường hợp bất khả kháng mà có thể sẽ cực kỳ mất công hoặc bỏ cuộc nếu bạn gặp phải?
 
-Vault mẫu Obsidian FLOW chứa các đoạn script python hữu ích tại thư mục `6. Vault/scripts` bao gồm
+Vault mẫu Obsidian FLOW chứa các đoạn script python hữu ích tại thư mục `Vault/scripts` bao gồm
 1. ` replace_md_text.py`: Thay thế 1 đoạn văn bản bất kỳ trong tất cả các file markdown thuộc thư mục chỉ định với đoạn văn bản mới. Hình 1
 2. `update_properties_time_format.py`: Cập nhật định dạng dấu thời gian trong properties của ghi chú trong thư mục được chỉ định, áp dụng với cả thư mục con. Trường hợp này mình viết để sửa đổi định dạng Việt Nam (30-09-2024) sang định dạng chuẩn Thế giới (2024-09-30).
 3. `yaml_add_field_tkinter_ui.py`: Giao diện đồ hoạ đơn giản cho phép lựa chọn thư mục ghi chú để sửa đổi hoặc bổ sung giá trị properties. Hình 2.

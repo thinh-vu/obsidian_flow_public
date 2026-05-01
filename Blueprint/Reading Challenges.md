@@ -9,31 +9,40 @@ genre:
   - Religion & Spirituality
 progress: archived
 ---
+![[Navigation Bar]]
+
+> [!info] Mục tiêu
+> Quản lý lộ trình đọc sách, theo dõi tiến độ và lưu trữ các bài tóm tắt, đánh giá sách thuộc những chủ đề quan tâm nhất.
 
 ```base
-formulas:
-  Title: 'file.asLink("![](" + cover + ")")'
-  Author: 'list(author).join(", ")'
-  Genre: 'list(category).join(" & ")'
 filters:
   and:
-    - file.path.startsWith("Vault/bookshelf")
+    - file.inFolder("Vault/bookshelf")
     - or:
         - blueprint == link("Reading Challenges")
-        - tags.contains("book")
+        - file.hasTag("book")
     - this["genre"].contains(category)
+formulas:
+  Title: file.asLink("![](" + cover + ")")
+  Author: list(author).join(", ")
+  Genre: list(category).join(" & ")
+properties:
+  note.aliases:
+    displayName: title
 views:
-  - type: table
-    name: "Overview"
+  - type: cards
+    name: Overview
+    order:
+      - aliases
+      - author
+      - formula.Genre
+      - summary
     sorts:
       - property: category
       - property: rating
         direction: DESC
       - property: avg_rating
         direction: DESC
-    order:
-      - formula.Title
-      - formula.Author
-      - formula.Genre
-      - summary
+    image: note.cover
+
 ```

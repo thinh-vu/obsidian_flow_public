@@ -6,19 +6,13 @@
   "obsidian-style-settings",
   "obsidian-full-calendar",
   "heatmap-calendar",
-  "tasks-calendar-wrapper",
   "templater-obsidian",
-  "obsidian-projects",
   "flashcards-obsidian",
   "buttons",
   "obsidian-enhancing-mindmap",
   "calendar",
-  "obsidian-reminder-plugin",
-  "obsidian-linter",
   "file-cleaner-redux",
   "dashboard-navigator",
-  "homepage",
   "editing-toolbar",
-  "flow-pkm",
-  "dataview"
+  "flow-pkm"
 ]

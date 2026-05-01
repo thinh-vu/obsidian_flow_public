@@ -18,7 +18,7 @@ formulas:
   Created: 'if(created, created, file.ctime)'
 filters:
   and:
-    - '!file.path.startsWith("Vault")'
+    - '!file.inFolder("Vault")'
     - file.ctime.date() == date(this["created"]).date()
 properties:
   impact:

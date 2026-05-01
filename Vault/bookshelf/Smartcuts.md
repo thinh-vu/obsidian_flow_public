@@ -4,10 +4,10 @@ aliases:
 created: 2023-03-17 01:21:04
 progress: raw
 blueprint:
-  - "[[../../4. Blueprint/Reading Challenges|Reading Challenges]]"
+  - "[[../../Blueprint/Reading Challenges|Reading Challenges]]"
 impact: 
 tags:
-  - book
+  - "#source/book"
   - highlight
 category:
   - Self Help

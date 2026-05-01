@@ -12,12 +12,15 @@
   "enableCustomSort": true,
   "autoCreateFolders": false,
   "showRibbonIcon": true,
-  "reminderCheckIntervalSec": 3600,
+  "reminderCheckIntervalSec": 60,
   "autoTOC": false,
   "tocDataViewQueries": true,
   "maxSubfolders": 9,
   "captureStaleDays": 7,
   "namingConvention": "any",
+  "startupAction": "dashboard",
+  "startupFilePath": "",
+  "zenModeLevel": 1,
   "healthScoring": {
     "maxSubfolderDepth": 2,
     "maxNotesPerFolder": 9,
@@ -43,62 +46,89 @@
   },
   "reminders": {
     "consolidateCapture": {
-      "enabled": true,
+      "enabled": false,
       "frequency": "weekly",
-      "lastTriggered": 0
+      "lastTriggered": 0,
+      "activeDays": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "activeStartTime": "08:00",
+      "activeEndTime": "22:00"
     },
     "dailyNote": {
-      "enabled": true,
+      "enabled": false,
       "frequency": "daily",
-      "lastTriggered": 1775608837954
+      "lastTriggered": 0,
+      "activeDays": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "activeStartTime": "08:00",
+      "activeEndTime": "22:00"
     },
     "weeklyReview": {
-      "enabled": true,
+      "enabled": false,
       "frequency": "weekly",
       "dayOfWeek": 0,
-      "lastTriggered": 1775608837954
+      "lastTriggered": 0,
+      "activeDays": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "activeStartTime": "08:00",
+      "activeEndTime": "22:00"
     },
     "publishContent": {
-      "enabled": true,
+      "enabled": false,
       "frequency": "weekly",
-      "lastTriggered": 1775608837954
+      "lastTriggered": 0,
+      "activeDays": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "activeStartTime": "08:00",
+      "activeEndTime": "22:00"
     },
     "forgeCleanup": {
-      "enabled": true,
+      "enabled": false,
       "frequency": "monthly",
-      "lastTriggered": 0
+      "lastTriggered": 0,
+      "activeDays": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "activeStartTime": "08:00",
+      "activeEndTime": "22:00"
     }
   },
-  "tagTaxonomy": [
-    {
-      "name": "mission",
-      "children": [
-        {
-          "name": "wellbeing",
-          "description": "Sống an nhiên",
-          "children": []
-        }
-      ]
-    }
-  ],
-  "vaultMissions": [
-    {
-      "id": "015aca73-a415-4ab2-b39b-faeec1cab179",
-      "name": "Obsidian Methodology",
-      "description": "Auto-detected from vault",
-      "relatedTags": [],
-      "status": "active"
-    },
-    {
-      "id": "c8073dc6-4709-49f7-8188-5411b913ad1e",
-      "name": "Wealthier Happier Ever",
-      "description": "Sống một cuộc đời đáng sống",
-      "relatedTags": [
-        "#odyssey_journey"
-      ],
-      "status": "active"
-    }
-  ],
+  "tagTaxonomy": [],
+  "vaultMissions": [],
   "taxonomyDimensions": [
     {
       "id": "domain",
@@ -136,288 +166,7 @@
     ]
   },
   "selectedFeelings": [],
-  "lastCachedStats": {
-    "propertiesGrouped": {
-      "created": {
-        "2026-03-29 22:55:13": 1,
-        "2026-02-03": 1,
-        "2026-02-03 10:21:53": 2,
-        "03-02-2026 09:02:91": 1,
-        "2026-03-10 12:01:12": 1,
-        "2026-03-12 11:48:48": 1
-      },
-      "summary": {
-        "Hôm nay doanh thu dịch vụ tháng 3 chính thức vượt mốc 100 triệu": 1,
-        "Sống một cuộc đời đáng sống": 1
-      },
-      "progress": {
-        "medium": 1,
-        "raw": 5
-      },
-      "impact": {
-        "5": 2
-      },
-      "urgency": {
-        "1": 1,
-        "3": 1
-      },
-      "min-impact": {
-        "3": 1,
-        "4": 1
-      },
-      "created-after": {
-        "2024-08-01": 2
-      },
-      "subject": {
-        "Tư vấn pháp lý về hoạt động và phát triển dự án Vnstock": 1
-      },
-      "author": {
-        "Thịnh Vũ (vnstock)": 1
-      }
-    },
-    "tagsCount": {},
-    "activityTimestamps": [
-      1774799713000,
-      1774799941000,
-      1774694296000,
-      1774694422000,
-      1769744804000,
-      1774694135000,
-      1770093218000,
-      1770101211000,
-      1770088913000,
-      1770092974000,
-      1770092974000,
-      1770093129000,
-      1770085308000,
-      1774590519000,
-      1773118872000,
-      1774693203000,
-      1773290928000,
-      1773293360000
-    ],
-    "moodByDate": {},
-    "feelingCounts": {},
-    "feelingByDate": {},
-    "totalActiveNotes": 9,
-    "notesPerFolder": {
-      "track": 1,
-      "blueprint": 2,
-      "capture": 6
-    },
-    "roleStats": {
-      "capture": {
-        "noteCount": 6,
-        "propertiesGrouped": {
-          "created": {
-            "2026-02-03": 1,
-            "2026-02-03 10:21:53": 2,
-            "03-02-2026 09:02:91": 1,
-            "2026-03-10 12:01:12": 1,
-            "2026-03-12 11:48:48": 1
-          },
-          "subject": {
-            "Tư vấn pháp lý về hoạt động và phát triển dự án Vnstock": 1
-          },
-          "author": {
-            "Thịnh Vũ (vnstock)": 1
-          },
-          "progress": {
-            "raw": 5
-          },
-          "impact": {
-            "5": 1
-          }
-        },
-        "tagsCount": {},
-        "notesWithAnyMetadata": 6,
-        "notesWithTags": 0,
-        "notesWithProperties": 6,
-        "notesWithWikilinks": 1,
-        "maxFolderDepth": 0,
-        "subfolderCount": 0,
-        "notesInRoot": 6,
-        "notesPerSubfolder": {},
-        "captureHasWikilink": 1,
-        "captureRawNotes": 0,
-        "trackTasksCompleted": 0,
-        "trackTasksPending": 0,
-        "trackHasFeeling": 0,
-        "forgeWipCount": 0,
-        "forgeHeatmap": {},
-        "forgeProgressDistribution": {}
-      },
-      "track": {
-        "noteCount": 1,
-        "propertiesGrouped": {
-          "created": {
-            "2026-03-29 22:55:13": 1
-          },
-          "summary": {
-            "Hôm nay doanh thu dịch vụ tháng 3 chính thức vượt mốc 100 triệu": 1
-          }
-        },
-        "tagsCount": {},
-        "notesWithAnyMetadata": 1,
-        "notesWithTags": 0,
-        "notesWithProperties": 1,
-        "notesWithWikilinks": 0,
-        "maxFolderDepth": 0,
-        "subfolderCount": 0,
-        "notesInRoot": 1,
-        "notesPerSubfolder": {},
-        "captureHasWikilink": 0,
-        "captureRawNotes": 0,
-        "trackTasksCompleted": 1,
-        "trackTasksPending": 0,
-        "trackHasFeeling": 0,
-        "forgeWipCount": 0,
-        "forgeHeatmap": {},
-        "forgeProgressDistribution": {}
-      },
-      "forge": {
-        "noteCount": 0,
-        "propertiesGrouped": {},
-        "tagsCount": {},
-        "notesWithAnyMetadata": 0,
-        "notesWithTags": 0,
-        "notesWithProperties": 0,
-        "notesWithWikilinks": 0,
-        "maxFolderDepth": 0,
-        "subfolderCount": 0,
-        "notesInRoot": 0,
-        "notesPerSubfolder": {},
-        "captureHasWikilink": 0,
-        "captureRawNotes": 0,
-        "trackTasksCompleted": 0,
-        "trackTasksPending": 0,
-        "trackHasFeeling": 0,
-        "forgeWipCount": 0,
-        "forgeHeatmap": {},
-        "forgeProgressDistribution": {}
-      },
-      "blueprint": {
-        "noteCount": 2,
-        "propertiesGrouped": {
-          "progress": {
-            "medium": 1
-          },
-          "summary": {
-            "Sống một cuộc đời đáng sống": 1
-          },
-          "impact": {
-            "5": 1
-          },
-          "urgency": {
-            "1": 1,
-            "3": 1
-          },
-          "min-impact": {
-            "3": 1,
-            "4": 1
-          },
-          "created-after": {
-            "2024-08-01": 2
-          }
-        },
-        "tagsCount": {},
-        "notesWithAnyMetadata": 2,
-        "notesWithTags": 0,
-        "notesWithProperties": 2,
-        "notesWithWikilinks": 0,
-        "maxFolderDepth": 0,
-        "subfolderCount": 0,
-        "notesInRoot": 2,
-        "notesPerSubfolder": {},
-        "captureHasWikilink": 0,
-        "captureRawNotes": 0,
-        "trackTasksCompleted": 0,
-        "trackTasksPending": 0,
-        "trackHasFeeling": 0,
-        "forgeWipCount": 0,
-        "forgeHeatmap": {},
-        "forgeProgressDistribution": {},
-        "topLinkedFiles": [
-          {
-            "name": "Wealthier Happier Ever",
-            "linkCount": 1
-          },
-          {
-            "name": "Obsidian Methodology",
-            "linkCount": 1
-          }
-        ]
-      },
-      "exhibit": {
-        "noteCount": 0,
-        "propertiesGrouped": {},
-        "tagsCount": {},
-        "notesWithAnyMetadata": 0,
-        "notesWithTags": 0,
-        "notesWithProperties": 0,
-        "notesWithWikilinks": 0,
-        "maxFolderDepth": 0,
-        "subfolderCount": 0,
-        "notesInRoot": 0,
-        "notesPerSubfolder": {},
-        "captureHasWikilink": 0,
-        "captureRawNotes": 0,
-        "trackTasksCompleted": 0,
-        "trackTasksPending": 0,
-        "trackHasFeeling": 0,
-        "forgeWipCount": 0,
-        "forgeHeatmap": {},
-        "forgeProgressDistribution": {}
-      }
-    },
-    "vaultTotalFiles": 72,
-    "vaultTotalSize": 6796653,
-    "vaultLargestFolders": [
-      {
-        "name": "Vault",
-        "size": 6731240
-      },
-      {
-        "name": "Capture",
-        "size": 62527
-      },
-      {
-        "name": "Track",
-        "size": 846
-      },
-      {
-        "name": "Blueprint",
-        "size": 835
-      }
-    ],
-    "orphanedAttachmentsCount": 5,
-    "orphanedAttachmentsSize": 10173,
-    "oversizedFiles": [
-      {
-        "path": "Vault/attachments/Gemini_Generated_Image_89oqcc89oqcc89oq.png",
-        "size": 6506225,
-        "ext": "png"
-      }
-    ],
-    "hasGitRepo": false,
-    "captureNoteAges": [
-      54.519724652777775,
-      54.569551041666664,
-      54.52254872685185,
-      54.611275578703705,
-      19.50058113425926,
-      17.50919224537037
-    ],
-    "namingConventions": {
-      "zettelkasten": 1,
-      "natural": 8,
-      "kebab": 0,
-      "snake": 0,
-      "camel": 0,
-      "pascal": 0,
-      "other": 0
-    }
-  },
+  "lastCachedStats": null,
   "dashboardRefreshIntervalMin": 30,
   "language": "vi",
   "urgencyConfig": {
@@ -459,5 +208,9 @@
     ]
   },
   "publishFieldName": "publish",
-  "channelFieldName": "channel"
+  "channelFieldName": "channel",
+  "taskFilters": {
+    "status": "todo",
+    "priority": "all"
+  }
 }

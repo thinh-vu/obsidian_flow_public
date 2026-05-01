@@ -3,13 +3,13 @@ aliases:
 created: 2024-09-29 16:49:00
 progress: raw
 blueprint:
-  - "[[../4. Blueprint/Reading Challenges|Reading Challenges]]"
+  - "[[../Blueprint/Reading Challenges|Reading Challenges]]"
 impact: 
 urgency: 
 tags: 
 category: 
 source:
-  - "[[../6. Vault/bookshelf/Risk Savvy - How to Make Good Decisions|Risk Savvy: How to Make Good Decisions]]"
+  - "[[../Vault/bookshelf/Risk Savvy - How to Make Good Decisions|Risk Savvy: How to Make Good Decisions]]"
 ---
 
 - **Sợ hãi là phản ứng sinh tồn, nhưng cũng có thể khiến chúng ta sợ hãi những điều sai.**

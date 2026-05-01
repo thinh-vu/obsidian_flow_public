@@ -126,15 +126,6 @@
       "key": "M"
     }
   ],
-  "editor:insert-tag": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod"
-      ],
-      "key": "T"
-    }
-  ],
   "bookmarks:bookmark-current-search": [
     {
       "modifiers": [
@@ -629,6 +620,15 @@
         "Shift"
       ],
       "key": "C"
+    }
+  ],
+  "flow-pkm:flow-open-dashboard-tasks": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "T"
     }
   ]
 }

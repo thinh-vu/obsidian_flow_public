@@ -1,50 +1,60 @@
-## 🎯 TASKS
+![[Navigation Bar]]
 
-```dataview
-TASK
-WHERE !completed
-```
+> [!abstract] 🌊 FLOW VAULT
+> Chào mừng bạn đến với nhà máy tri thức cá nhân. Sử dụng thanh điều hướng phía trên hoặc các bảng tóm tắt bên dưới để bắt đầu.
 
-## ✨ RECENT
+## 📌 TRUY CẬP NHANH
+- [[Content Plan]]: Quản lý nội dung & xuất bản.
+- [[FLOW Methodology]]: Hướng dẫn & phương pháp hệ thống.
+- [[Reading Challenges]]: Thư viện sách & lộ trình đọc.
+- [[CHANGELOG]]: Lịch sử cập nhật Vault.
 
+---
+
+## 📥 HỘP THƯ ĐẾN
 ```base
 formulas:
   Created: 'if(created, created, file.ctime)'
 filters:
   and:
-    - impact >= 4
-    - formula.Created >= this["created-after"]
+    - '!file.inFolder("Vault")'
+    - or:
+      - file.inFolder("Capture")
+      - '!note.progress'
 views:
   - type: table
-    name: "Recent"
-    limit: 20
+    name: "Inbox"
+    limit: 5
     sorts:
       - property: formula.Created
         direction: DESC
     order:
       - file.name
-      - file.ctime
+      - impact
 ```
 
-## ⏱️ ON THIS DAY
+---
 
+## 🔥 ĐIỂM NÓNG
 ```base
+formulas:
+  Created: 'if(created, created, file.ctime)'
 filters:
   and:
-    - file.name.contains(today().format("-DD"))
-    - '!file.name.contains(today().format("-DD-"))'
-    - '!file.name.contains(today().format("YYYY-MM-DD"))'
+    - '!file.inFolder("Vault")'
+    - impact >= 5
 views:
   - type: table
-    name: "On this day"
+    name: "Hot"
+    limit: 3
+    sorts:
+      - property: formula.Created
+        direction: DESC
     order:
       - file.name
+      - summary
 ```
 
-
-## 👟 STREAKS
-
-```dataview
-CALENDAR file.ctime
-LIMIT 5
-```
+---
+> [!tip] Mẹo
+> Mọi chi tiết vận hành chuyên sâu đã có tại **FLOW Dashboard** (Tự động mở khi khởi động Vault).

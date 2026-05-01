@@ -1,4 +1,4 @@
-# python3.10 "6. Vault/scripts/update_properties_time_format.py" "2. Track"
+# python3.10 "Vault/scripts/update_properties_time_format.py" "2. Track"
 
 import os
 import re

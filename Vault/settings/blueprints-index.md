@@ -13,6 +13,6 @@ updated: 2026-03-28
 
 - [[Obsidian Methodology]] — *Auto-detected from vault*
 - [[Wealthier Happier Ever]] — *Sống một cuộc đời đáng sống*
-- [[Obsidian FLOW Methodology]] — *Auto-detected from vault*
+- [[../../Blueprint/FLOW Methodology]] — *Auto-detected from vault*
 - [[Content Plan]] — *Auto-detected from vault*
 - [[Reading Challenges]] — *Auto-detected from vault*

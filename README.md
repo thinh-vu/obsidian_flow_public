@@ -107,12 +107,22 @@ Sử dụng cách này, bạn tải toàn bộ repo được chia sẻ dưới d
 [!tip]
 Bạn có thể tìm thấy nội dung dưới đây tại trang mục lục giới thiệu phương pháp [Obsidian FLOW Methodology](4.%20Blueprint/Obsidian%20FLOW%20Methodology.md).
 
-```dataview
-TABLE tags
-FROM -"6. Vault"
-WHERE contains(string(join(blueprint, "  ")), "Obsidian FLOW Methodology")
-AND number(impact) >= 4
-SORT aliases ASC, created DESC
+```base
+filters:
+  and:
+    - '!file.inFolder("Vault")'
+    - 'note.blueprint.contains("Obsidian FLOW Methodology")'
+    - 'note.impact >= 4'
+views:
+  - type: table
+    properties:
+      - tags
+    sort:
+      - property: note.aliases
+        direction: ASC
+    sorts:
+      - property: note.created
+        direction: DESC
 ```
 
 ---

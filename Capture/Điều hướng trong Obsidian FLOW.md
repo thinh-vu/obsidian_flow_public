@@ -23,16 +23,16 @@ Xem thêm: [Hệ thống phím tắt trong Obsidian FLOW](../5.%20Exhibit/FLOW%2
 ## Quản lý nhiệm vụ cần làm
 
 > [!todo]
-> Sử dụng Tasks Calendar Wrapper plugin để quản lý nhiệm vụ cần làm
-> Sử dụng Reminder plugin để đặt nhắc nhở, gõ `(@` để kích hoạt giao diện chọn ngày, giờ nhắc nhở. Click vào "Focus On Today" sẽ hiện ra dòng thời gian các nhiệm vụ như trong hình.
+> Sử dụng chức năng tích hợp trong FLOW PKM plugin để quản lý nhiệm vụ cần làm
+> Dùng phím tắt Cmd + Opt + T để kích hoạt giao diện quản lý nhiệm vụ trong FLOW Dashboard với đầy đủ tính năng hoặc quản lý đơn giản qua Sidebar. 
+> Phím tắt nhập cài đặt nhanh cho nhiệm vụ bao gồm `@` cho thời gian cần thực hiện, `$` cho giờ cần thực hiện, `!` để cài đặt mức độ quan trọng của nhiệm vụ. 
 
+![](../Vault/attachments/Pasted%20image%2020260501223742.png)
 
-![](../Vault/attachments/Pasted%20image%2020240929172844.png)
+Chức năng thêm và quản lý nhiệm vụ đơn giản qua Sidebar từ FLOW PKM plugin.
+
+![](../Vault/attachments/Pasted%20image%2020260501222928.png)
 
 ## Home
 
 ![](../Vault/attachments/Pasted%20image%2020240929173717.png)
-
-## Điều hướng trong bài viết - Floating TOC
-
-![](../Vault/attachments/floating_toc.png)

@@ -206,8 +206,9 @@
   color: var(--text-normal) !important;
   transition: all 0.2s ease !important;
   white-space: nowrap !important;
-  min-width: fit-content !important; /* Adjust exactly to icon + text width */
-  height: auto !important; /* Override standard Obsidian button height */
+  min-width: fit-content !important;
+  flex-shrink: 0 !important;
+  height: 40px !important;
   line-height: 1 !important;
 }
 
@@ -282,13 +283,25 @@
   /* Compact view toggle */
   .flow-view-toggle {
     margin: 6px 0 !important;
-    gap: 4px !important;
+    gap: 8px !important;
+    overflow-x: auto !important;
+    overflow-y: hidden !important;
+    flex-wrap: nowrap !important;
+    justify-content: flex-start !important;
+    align-items: center !important;
+    padding: 4px 2px 8px 2px !important;
+    -webkit-overflow-scrolling: touch;
+    min-height: 50px !important;
+  }
+  .flow-view-toggle::-webkit-scrollbar {
+    display: none;
   }
 
   .flow-view-btn {
-    padding: 6px 14px !important;
-    font-size: 12px !important;
+    padding: 0 14px !important;
+    font-size: 13px !important;
     gap: 6px !important;
+    height: 36px !important;
   }
 
   /* Compact chart tabs */
@@ -354,6 +367,10 @@
 
   .flow-settings input[type="text"] {
     max-width: 100% !important;
+  }
+
+  .flow-task-toolbar input[type="text"]::placeholder {
+    color: transparent;
   }
 
   /* Emotion wheel chips compact */
@@ -1364,4 +1381,70 @@
   .flow-dashboard-ui-37 { flex-wrap: wrap; width: 100%; }
   .flow-dashboard-ui-38 { flex: 1 1 100%; }
   .flow-dashboard-ui-40 { width: 100%; border-radius: 6px; }
+}
+
+/* Portrait Mobile Tasks Filter Buttons */
+@media screen and (max-width: 768px) and (orientation: portrait) {
+  .flow-task-filter-label {
+    display: none !important;
+  }
+}
+
+/* Status Bar Hover Effect for Focus Mode Toggle */
+.flow-ui-toggle-status {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.flow-ui-toggle-status:hover {
+    background-color: var(--background-modifier-hover);
+}
+
+.flow-ui-toggle-status svg {
+    width: 14px;
+    height: 14px;
+}
+
+/* ── Zen Mode Fallback (For non-Borderism themes) ────────────────── */
+
+body.flow-zen-fallback.flow-zen-level-1 .workspace-ribbon,
+body.flow-zen-fallback.flow-zen-level-2 .workspace-ribbon,
+body.flow-zen-fallback.flow-zen-level-1 .titlebar,
+body.flow-zen-fallback.flow-zen-level-2 .titlebar,
+body.flow-zen-fallback.flow-zen-level-1 .workspace-tab-header-container,
+body.flow-zen-fallback.flow-zen-level-2 .workspace-tab-header-container,
+body.flow-zen-fallback.flow-zen-level-1 .nav-header,
+body.flow-zen-fallback.flow-zen-level-2 .nav-header {
+    display: none !important;
+}
+
+/* ── Zen Mode Aesthetic Enhancements (Card Layout & Gaps) ── */
+body.flow-zen-active .workspace {
+    padding: 12px !important;
+    gap: 12px !important;
+}
+
+/* Card Layout specifically for NON-Borderism themes (All 3 blocks) */
+body.flow-zen-fallback .workspace {
+    background-color: var(--background-secondary) !important;
+}
+
+body.flow-zen-fallback .workspace-split {
+    border-radius: 16px !important;
+    overflow: hidden !important;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.15) !important;
+    border: 1px solid var(--background-modifier-border) !important;
+    background-color: var(--background-primary) !important;
+}
+
+body.flow-zen-fallback .workspace-leaf-content {
+    border-radius: inherit !important;
+}
+
+body.flow-zen-fallback .workspace-tab-header-container {
+    border-bottom: none !important;
+    box-shadow: none !important;
 }

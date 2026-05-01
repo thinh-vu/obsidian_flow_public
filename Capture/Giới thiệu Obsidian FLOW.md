@@ -29,27 +29,45 @@ mindmap-plugin: basic
 
 ## Cấu trúc Vault
 - Thư mục cố định
-	- 1. Capture
-		- **Thu thập**: Ghi lại mọi ý tưởng, thông tin chưa qua xử lý. Chưa cần phân loại ngay
-	- 2. Track
-		- **Theo dõi**: Ghi lại nhật ký công việc/cá nhân thông qua Daily Notes
-	- 3. Forge
-		- **Rèn dũa**: Không gian trau chuốt và rèn dũa các mẩu thông tin/ý tưởng ghi lại trong 1. Capture
-	- 4. Blueprint
-		- **Bản vẽ**: Quản lý các mục tiêu/dự án một cách tổng hợp trong toàn bộ Vault bất kể tiến độ hay nơi lưu trữ, khai thác tối đa DataView và thông tin metadata của ghi chú.
-	- 5. Exhibit
-		- **Trưng bày**: Tổ chức kiến thức hoàn thiện theo chủ đề/phân loại chặt chẽ và dễ dàng tham chiếu hoặc tra cứu.
-	- 6. Vault
-		- **Két sắt**: Nơi lưu trữ các cấu hình hệ thống, tệp đính kèm, ghi chú không sử dụng thường xuyên nhưng vẫn cần lưu trữ, vv
+	- Sub title
+		- Sub title
+			- Capture
+		- Sub title
+			- **Thu thập**: Ghi lại mọi ý tưởng, thông tin chưa qua xử lý. Chưa cần phân loại ngay
+	- Sub title
+		- Sub title
+			- 2. Track
+		- Sub title
+			- **Theo dõi**: Ghi lại nhật ký công việc/cá nhân thông qua Daily Notes
+	- Sub title
+		- Sub title
+			- 3. Forge
+		- Sub title
+			- **Rèn dũa**: Không gian trau chuốt và rèn dũa các mẩu thông tin/ý tưởng ghi lại trong Capture
+	- Sub title
+		- Sub title
+			- Blueprint
+		- Sub title
+			- **Bản vẽ**: Quản lý các mục tiêu/dự án một cách tổng hợp trong toàn bộ Vault bất kể tiến độ hay nơi lưu trữ, khai thác tối đa DataView và thông tin metadata của ghi chú.
+	- Sub title
+		- Sub title
+			- Exhibit
+		- Sub title
+			- **Trưng bày**: Tổ chức kiến thức hoàn thiện theo chủ đề/phân loại chặt chẽ và dễ dàng tham chiếu hoặc tra cứu.
+	- Sub title
+		- Sub title
+			- Vault
+		- Sub title
+			- **Két sắt**: Nơi lưu trữ các cấu hình hệ thống, tệp đính kèm, ghi chú không sử dụng thường xuyên nhưng vẫn cần lưu trữ, vv
 - Thông tin metadata linh hoạt
 	- properties
 	- tags #
 	- wikilink [[]]
 
-## Vault mẫu ^85467832-41ef-87e4
+## Vault mẫu
 - Đăng ký nhận Vault qua mail
 
-## Dự định tiếp theo ^db0765f3-c976-4287
+## Dự định tiếp theo
 - Chia sẻ cộng cồng về phương pháp FLOW ^a98e1961-6e02-bd88
 	- Substack: Nhận bản tin từ Learn-Anything
 - Xây dựng lộ trình khoá học
