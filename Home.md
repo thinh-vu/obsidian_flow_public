@@ -11,7 +11,7 @@
 
 ---
 
-## 📥 HỘP THƯ ĐẾN
+## 📥 Ý TƯỞNG MỚI
 ```base
 formulas:
   Created: 'if(created, created, file.ctime)'

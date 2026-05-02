@@ -13,7 +13,7 @@ tags:
 
 Tôi từng giống như rất nhiều người khi mới bước chân vào thế giới của Obsidian: Bị choáng ngợp bởi sự tự do tuyệt đối. 
 
-Trong những năm đầu tiên, tôi mắc phải một căn bệnh rất phổ biến mang tên "Hội chứng tích trữ". Tôi lưu lại mọi bài báo hay, mọi đoạn trích dẫn tâm đắc, mọi ý tưởng lóe lên trong đầu. Sơ đồ liên kết của tôi phình to ra mỗi ngày, các điểm nối chằng chịt trông rất nguy hiểm và tri thức. Nhưng thực tế? Tôi không tạo ra được bất kỳ sản phẩm sáng tạo nào mới mẻ. Kiến thức đơn giản chỉ ở mức mô tả lại sự vật hiện tượng, triết lý của người khác. Kho lưu trữ của tôi không phải là một bộ não thứ hai, nó là một nhà kho tĩnh lặng chứa đầy những ý tưởng chết.
+Trong những năm đầu tiên làm quen với việc ghi chép kỹ thuật số, mình cũng mắc phải một thói quen rất phổ biến mang tên "đam mê tích trữ". Như rất nhiều người ở đây, mình lưu lại các bài báo hay, mọi đoạn trích dẫn tâm đắc, mọi ý tưởng lóe lên trong đầu. Sơ đồ liên kết của mìn phình to ra mỗi ngày, các điểm nối chằng chịt trông rất nguy hiểm và tri thức. Nhưng thực tế? Mình không tạo ra được bất kỳ sản phẩm sáng tạo nào mới mẻ. Kiến thức đơn giản chỉ ở mức mô tả lại sự vật hiện tượng, triết lý của người khác. Kho lưu trữ của mình không phải là một xưởng chế tác, nó là một nhà kho tĩnh lặng chứa đầy những ý tưởng đã ngủ quên.
 
 Đó là lúc tôi nhận ra một sự thật cay đắng: **Sự tự do vô tổ chức chính là kẻ thù của sáng tạo**. Khi bạn dành quá nhiều thời gian để nghĩ xem phải đặt file này ở thư mục nào, gắn tag gì cho ngầu, bộ nhớ làm việc của não bộ đã bị vắt kiệt. Bạn không còn năng lượng để thực sự "tư duy".
 

@@ -18,9 +18,9 @@
   "maxSubfolders": 9,
   "captureStaleDays": 7,
   "namingConvention": "any",
-  "startupAction": "none",
+  "startupAction": "dashboard",
   "startupFilePath": "",
-  "zenModeLevel": 1,
+  "zenModeLevel": 2,
   "healthScoring": {
     "maxSubfolderDepth": 2,
     "maxNotesPerFolder": 9,
@@ -130,24 +130,25 @@
   "tagTaxonomy": [],
   "vaultMissions": [
     {
-      "id": "mission-1",
-      "name": "Xây dựng hệ thống FLOW vững chắc",
-      "status": "active",
-      "relatedTags": [
-        "topic/pkm",
-        "topic/obsidian"
-      ],
-      "description": "Chuẩn hóa và hoàn thiện bộ tiêu chuẩn của phương pháp FLOW."
+      "id": "6a5be5b3-500a-4cdd-a587-a9647bc7fe62",
+      "name": "Content Plan",
+      "description": "Auto-detected from vault",
+      "relatedTags": [],
+      "status": "active"
     },
     {
-      "id": "mission-2",
-      "name": "Nghiên cứu Tư duy hệ thống",
-      "status": "active",
-      "relatedTags": [
-        "topic/mindset",
-        "topic/database"
-      ],
-      "description": "Áp dụng tư duy CSDL vào việc tổ chức ghi chú."
+      "id": "ca198dbc-fedd-4f31-991e-9b44f4b60f45",
+      "name": "Obsidian PKM Mastery",
+      "description": "Auto-detected from vault",
+      "relatedTags": [],
+      "status": "active"
+    },
+    {
+      "id": "701194ba-f3d1-42b4-94b4-d799074b27fc",
+      "name": "Reading Challenges",
+      "description": "Auto-detected from vault",
+      "relatedTags": [],
+      "status": "active"
     }
   ],
   "taxonomyDimensions": [
@@ -187,7 +188,966 @@
     ]
   },
   "selectedFeelings": [],
-  "lastCachedStats": null,
+  "lastCachedStats": {
+    "propertiesGrouped": {
+      "created": {
+        "2026-04-08 08:00:00": 1,
+        "2026-04-09 08:00:00": 1,
+        "2026-04-10 08:00:00": 1,
+        "2026-04-11 08:00:00": 1,
+        "2026-04-12 08:00:00": 1,
+        "2026-04-13 08:00:00": 1,
+        "2026-04-14 08:00:00": 1,
+        "2026-04-15 08:00:00": 1,
+        "2026-04-16 08:00:00": 1,
+        "2026-04-17 08:00:00": 1,
+        "2026-04-18 08:00:00": 1,
+        "2026-04-19 08:00:00": 1,
+        "2026-04-20 08:00:00": 1,
+        "2026-04-21 08:00:00": 1,
+        "2026-04-22 08:00:00": 1,
+        "2026-04-23 08:00:00": 1,
+        "2026-04-24 08:00:00": 1,
+        "2026-04-25 08:00:00": 1,
+        "2026-04-26 08:00:00": 1,
+        "2026-04-27 08:00:00": 1,
+        "2026-04-28 08:00:00": 1,
+        "2026-04-29 08:00:00": 1,
+        "2026-04-30 08:00:00": 1,
+        "2026-03-28 16:29:01": 1,
+        "2024-10-06 10:37:14": 1,
+        "2024-09-30 23:09:30": 1,
+        "2026-05-01 08:30:00": 1,
+        "2024-09-29 22:09:43": 1,
+        "2024-09-21 00:09:52": 1,
+        "2026-04-29 23:35:00": 1,
+        "2026-04-29 06:05:00": 1,
+        "2024-09-16 23:09:00": 1,
+        "2026-04-29 21:07:58": 1,
+        "2024-09-16 21:09:52": 1,
+        "2026-04-29 06:10:00": 1,
+        "2026-04-29 23:25:00": 1,
+        "2026-04-29 05:55:00": 1,
+        "2024-09-16 21:09:23": 1,
+        "2026-04-29 22:50:00": 1,
+        "2026-05-01 14:20:00": 1,
+        "2026-05-01 10:15:00": 1,
+        "2026-04-29 23:45:00": 1,
+        "2024-09-28 23:09:36": 1,
+        "2024-09-16 23:09:24": 1,
+        "2024-09-17 00:09:20": 1,
+        "2024-09-16 23:09:47": 1,
+        "2024-09-16 23:09:11": 1,
+        "2024-09-16 22:09:49": 1,
+        "2024-09-16 23:09:46": 1,
+        "2024-09-16 23:09:04": 1,
+        "2024-09-27 01:09:00": 2,
+        "2024-09-19 21:09:04": 1,
+        "2024-09-19 22:09:13": 1,
+        "2024-09-23 20:30:00": 1,
+        "2024-09-30 20:09:00": 1,
+        "2024-09-16 21:09:58": 1,
+        "2024-09-29 17:11:00": 1,
+        "2024-10-06 10:41:56": 1,
+        "2024-09-30 23:21:00": 1,
+        "2026-04-29 05:45:00": 9,
+        "2024-09-29 16:49:00": 1,
+        "2024-09-29 16:53:00": 1,
+        "2024-09-24 23:32:00": 1,
+        "2026-04-29 05:50:00": 5,
+        "2024-09-28 23:37:00": 1,
+        "2024-09-22 21:06:00": 1,
+        "2026-05-02 00:00:00": 1
+      },
+      "progress": {
+        "done": 31,
+        "medium": 19,
+        "raw": 23,
+        "active": 3
+      },
+      "mood": {
+        "6": 4,
+        "7": 4,
+        "8": 5,
+        "9": 5,
+        "10": 5
+      },
+      "feeling": {
+        "excited": 5,
+        "calm": 5,
+        "tired": 5,
+        "happy": 4,
+        "focus": 4,
+        "proud": 1,
+        "🌟 Excited": 1,
+        "successful": 1
+      },
+      "summary": {
+        "Hôm nay là một ngày tuyệt vời để nâng cấp hệ thống Obsidian FLOW.": 1,
+        "Hướng dẫn xây dựng Vault Obsidian theo tư duy quản trị cơ sở dữ liệu để tối ưu hóa khả năng truy xuất và mở rộng.": 1,
+        "Phân tích cách thiết kế metadata và câu lệnh truy vấn để biến Vault thành một thực thể thông minh.": 1,
+        "Khám phá cách AI Agent như Antigravity sẽ thay đổi cách chúng ta tương tác với kiến thức cá nhân.": 1,
+        "Phân tích cách áp dụng tư duy hệ thống để tối ưu hoá dòng chảy thông tin trong bộ não thứ hai.": 1,
+        "FLOW là một phương pháp quản lý thông tin linh hoạt và toàn diện trong Obsidian giúp bạn phát triển sáng tạo, hỗ trợ tư duy mạng lưới, và quản lý dự án một cách có hệ thống.": 1,
+        "Bản đồ trung tâm (Master MOC) tập hợp tư duy, phương pháp và kỹ thuật để biến Obsidian thành một cơ sở dữ liệu tri thức mạnh mẽ.": 1
+      },
+      "rank": {
+        "2": 1,
+        "4": 1,
+        "5": 1,
+        "6": 1
+      },
+      "blueprint": {
+        "Obsidian PKM Mastery": 29,
+        "FLOW Methodology": 17,
+        "Content Plan": 9,
+        "FLOW launching plan": 2,
+        "null": 1,
+        "Reading Challenges": 2
+      },
+      "cover": {
+        "../../Vault/attachments/obsidian-5-lenses.png": 1,
+        "../../Vault/attachments/flow-pkm-note-lifecycle.png": 1,
+        "../../Vault/attachments/3-pkm-ways.png": 1,
+        "../../Vault/attachments/obsidian-pkm-methods-reveal.png": 1,
+        "../../Vault/attachments/obsidian-flow-shortcuts-he-thong-phim-tat.png": 1,
+        "../../Vault/attachments/flow_methodology_cover.png": 1,
+        "../../Vault/attachments/obsidian_flow_xem_ghi_chu_markdown_trong_onedrive.png": 1,
+        "../../Vault/attachments/nha-may-san-xuat-y-tuong-flow.png": 1
+      },
+      "impact": {
+        "4": 4,
+        "5": 19
+      },
+      "publish": {
+        "2023-09-28T20:30:00": 1,
+        "18-09-2024": 1,
+        "2024-09-20 06:15:00": 1,
+        "2024-09-23T21:45:00": 1,
+        "2024-09-30 21:20:00": 1
+      },
+      "channel": {
+        "Substack": 5,
+        "Facebook": 3,
+        "Blog": 4,
+        "Podcast": 1
+      },
+      "category": {
+        "Methodology": 1,
+        "educational": 1,
+        "null": 1
+      },
+      "publish_url": {
+        "https://learnanything.substack.com/p/flow-phuong-phap-quan-ly-tri-thuc": 1,
+        "https://thinhvu.com/2024/09/18/obsidian-flow-phuong-phap-quan-ly-kien-thuc-toan-dien/": 1
+      },
+      "mindmap-plugin": {
+        "basic": 3
+      },
+      "urgency": {
+        "0": 1
+      },
+      "min-impact": {
+        "4": 2
+      },
+      "created-after": {
+        "2024-09-18": 1,
+        "2024-08-01": 1
+      },
+      "genre": {
+        "Business & Economics": 1,
+        "Self-Help": 1,
+        "Psychology": 1,
+        "Family & Relationships": 1,
+        "Religion & Spirituality": 1
+      }
+    },
+    "tagsCount": {
+      "type/journal": 23,
+      "format/journal": 1,
+      "topic/pkm": 8,
+      "topic/obsidian": 3,
+      "type/article": 5,
+      "topic/database": 17,
+      "type/synthesis": 2,
+      "knowledge": 2,
+      "topic/neuroscience": 2,
+      "topic/mindset": 2,
+      "quick-start": 3,
+      "topic/metadata": 1,
+      "topic/workflow": 1,
+      "type/action-plan": 1,
+      "topic/methodology": 1,
+      "topic/ai": 1,
+      "topic/systems-thinking": 1,
+      "system/manual": 6,
+      "project": 1,
+      "format/meeting": 1,
+      "principle": 1,
+      "system/template": 1,
+      "intermediate": 1,
+      "migration": 1,
+      "fundamental": 2,
+      "advanced": 1,
+      "automation": 1,
+      "type/concept": 12,
+      "type/technique": 2,
+      "type/moc": 3
+    },
+    "activityTimestamps": [
+      1775608102078,
+      1777681703643,
+      1775694502078,
+      1777681703266,
+      1775780902078,
+      1777681703255,
+      1775867302078,
+      1777681703248,
+      1775953702078,
+      1777681703233,
+      1776040102078,
+      1777681703223,
+      1776126502078,
+      1777681703193,
+      1776212902078,
+      1777681703179,
+      1776299302078,
+      1777681703146,
+      1776385702078,
+      1777681703138,
+      1776472102078,
+      1777681703124,
+      1776558502078,
+      1777681703112,
+      1776644902078,
+      1777681703093,
+      1776731302078,
+      1777681703085,
+      1776817702078,
+      1777681703078,
+      1776904102078,
+      1777681703071,
+      1776990502078,
+      1777681703058,
+      1777076902078,
+      1777681703043,
+      1777163302078,
+      1777681703027,
+      1777249702078,
+      1777681703017,
+      1777336102078,
+      1777681703004,
+      1777422502078,
+      1777681702992,
+      1777508902078,
+      1777681702979,
+      1774712178559,
+      1777650410322,
+      1774712178559,
+      1777651730763,
+      1774712178559,
+      1777650410321,
+      1777649840006,
+      1777681702078,
+      1774712178559,
+      1777650410322,
+      1774712178559,
+      1777650410321,
+      1777680574034,
+      1777684661524,
+      1777680574168,
+      1777681681256,
+      1774712178558,
+      1777684642974,
+      1777680574177,
+      1777681681252,
+      1774712178557,
+      1777683517247,
+      1777680574190,
+      1777681681246,
+      1777680574158,
+      1777684290314,
+      1777680574038,
+      1777681681245,
+      1774712178557,
+      1777683517249,
+      1777680574186,
+      1777684190724,
+      1777680574069,
+      1777684959205,
+      1777652961172,
+      1777681681238,
+      1777652961172,
+      1777683517246,
+      1777680574030,
+      1777684947603,
+      1777682775793,
+      1777684917189,
+      1777682018380,
+      1777684922378,
+      1777681868933,
+      1777684927039,
+      1774712178557,
+      1777683517250,
+      1774712178559,
+      1777683517251,
+      1774712178558,
+      1777683517254,
+      1774712178558,
+      1777683517252,
+      1774712178557,
+      1777683517254,
+      1774712178557,
+      1777683517253,
+      1774712178558,
+      1777683517253,
+      1774712178558,
+      1777683517251,
+      1774712178556,
+      1777683517258,
+      1774712178555,
+      1777683517255,
+      1774712178556,
+      1777683517257,
+      1774712178556,
+      1777683517256,
+      1774712178556,
+      1777683517257,
+      1774712178556,
+      1777683517256,
+      1774712178555,
+      1777683517236,
+      1774712178555,
+      1777683517233,
+      1774712178555,
+      1777683517233,
+      1774712178554,
+      1777683517234,
+      1777680574222,
+      1777681679709,
+      1774712178555,
+      1777683517237,
+      1774712178555,
+      1777685123914,
+      1774712178554,
+      1777683517236,
+      1777680574236,
+      1777681679709,
+      1777680574200,
+      1777681679709,
+      1777680574208,
+      1777681679709,
+      1777680574239,
+      1777681679709,
+      1777680574230,
+      1777681679709,
+      1774712178554,
+      1777683517236,
+      1777680574242,
+      1777681679709,
+      1777680574248,
+      1777681679709,
+      1774712178554,
+      1777683517236,
+      1777680574245,
+      1777681679709,
+      1777680574216,
+      1777681679709,
+      1777680574250,
+      1777681679709,
+      1777680574234,
+      1777681679709,
+      1777680574205,
+      1777681679709,
+      1777680574226,
+      1777681679709,
+      1774712178553,
+      1777680783152,
+      1777681323400,
+      1777683688348,
+      1774712178553,
+      1777684910862
+    ],
+    "moodByDate": {
+      "2026-04-08": 10,
+      "2026-04-09": 9,
+      "2026-04-10": 8,
+      "2026-04-11": 7,
+      "2026-04-12": 6,
+      "2026-04-13": 10,
+      "2026-04-14": 9,
+      "2026-04-15": 8,
+      "2026-04-16": 7,
+      "2026-04-17": 6,
+      "2026-04-18": 10,
+      "2026-04-19": 9,
+      "2026-04-20": 8,
+      "2026-04-21": 7,
+      "2026-04-22": 6,
+      "2026-04-23": 10,
+      "2026-04-24": 9,
+      "2026-04-25": 8,
+      "2026-04-26": 7,
+      "2026-04-27": 6,
+      "2026-04-28": 10,
+      "2026-04-29": 9,
+      "2026-04-30": 8
+    },
+    "feelingCounts": {
+      "excited": 5,
+      "calm": 5,
+      "tired": 5,
+      "happy": 4,
+      "focus": 4,
+      "proud": 1,
+      "🌟 excited": 1,
+      "successful": 1
+    },
+    "feelingByDate": {
+      "2026-04-08": [
+        "excited"
+      ],
+      "2026-04-09": [
+        "calm"
+      ],
+      "2026-04-10": [
+        "tired"
+      ],
+      "2026-04-11": [
+        "happy"
+      ],
+      "2026-04-12": [
+        "focus"
+      ],
+      "2026-04-13": [
+        "excited"
+      ],
+      "2026-04-14": [
+        "calm"
+      ],
+      "2026-04-15": [
+        "tired"
+      ],
+      "2026-04-16": [
+        "happy"
+      ],
+      "2026-04-17": [
+        "focus"
+      ],
+      "2026-04-18": [
+        "excited"
+      ],
+      "2026-04-19": [
+        "calm"
+      ],
+      "2026-04-20": [
+        "tired"
+      ],
+      "2026-04-21": [
+        "happy"
+      ],
+      "2026-04-22": [
+        "focus"
+      ],
+      "2026-04-23": [
+        "excited"
+      ],
+      "2026-04-24": [
+        "calm"
+      ],
+      "2026-04-25": [
+        "tired"
+      ],
+      "2026-04-26": [
+        "happy"
+      ],
+      "2026-04-27": [
+        "focus"
+      ],
+      "2026-04-28": [
+        "excited"
+      ],
+      "2026-04-29": [
+        "calm"
+      ],
+      "2026-04-30": [
+        "tired"
+      ],
+      "2026-03-28": [
+        "proud"
+      ],
+      "2026-05-01": [
+        "🌟 excited"
+      ],
+      "2024-09-21": [
+        "successful"
+      ]
+    },
+    "totalActiveNotes": 86,
+    "notesPerFolder": {
+      "track": 29,
+      "forge": 25,
+      "exhibit": 6,
+      "capture": 23,
+      "blueprint": 3
+    },
+    "roleStats": {
+      "capture": {
+        "noteCount": 23,
+        "propertiesGrouped": {
+          "created": {
+            "2024-09-29 17:11:00": 1,
+            "2024-10-06 10:41:56": 1,
+            "2024-09-30 23:21:00": 1,
+            "2024-09-27 01:09:00": 1,
+            "2026-04-29 05:45:00": 9,
+            "2024-09-29 16:49:00": 1,
+            "2024-09-29 16:53:00": 1,
+            "2024-09-24 23:32:00": 1,
+            "2026-04-29 05:50:00": 5,
+            "2024-09-28 23:37:00": 1,
+            "2024-09-22 21:06:00": 1
+          },
+          "progress": {
+            "raw": 23
+          },
+          "blueprint": {
+            "null": 1,
+            "Obsidian PKM Mastery": 20,
+            "Reading Challenges": 2,
+            "Content Plan": 1
+          },
+          "category": {
+            "null": 1
+          },
+          "mindmap-plugin": {
+            "basic": 3
+          },
+          "impact": {
+            "5": 2
+          },
+          "urgency": {
+            "0": 1
+          },
+          "channel": {
+            "Podcast": 1
+          }
+        },
+        "tagsCount": {
+          "advanced": 1,
+          "automation": 1,
+          "topic/database": 14,
+          "type/concept": 12,
+          "type/technique": 2
+        },
+        "notesWithAnyMetadata": 23,
+        "notesWithTags": 15,
+        "notesWithProperties": 23,
+        "notesWithWikilinks": 11,
+        "maxFolderDepth": 0,
+        "subfolderCount": 0,
+        "notesInRoot": 23,
+        "notesPerSubfolder": {},
+        "captureHasWikilink": 11,
+        "captureRawNotes": 0,
+        "trackTasksCompleted": 0,
+        "trackTasksPending": 0,
+        "trackHasFeeling": 0,
+        "forgeWipCount": 0,
+        "forgeHeatmap": {},
+        "forgeProgressDistribution": {}
+      },
+      "track": {
+        "noteCount": 29,
+        "propertiesGrouped": {
+          "created": {
+            "2026-04-08 08:00:00": 1,
+            "2026-04-09 08:00:00": 1,
+            "2026-04-10 08:00:00": 1,
+            "2026-04-11 08:00:00": 1,
+            "2026-04-12 08:00:00": 1,
+            "2026-04-13 08:00:00": 1,
+            "2026-04-14 08:00:00": 1,
+            "2026-04-15 08:00:00": 1,
+            "2026-04-16 08:00:00": 1,
+            "2026-04-17 08:00:00": 1,
+            "2026-04-18 08:00:00": 1,
+            "2026-04-19 08:00:00": 1,
+            "2026-04-20 08:00:00": 1,
+            "2026-04-21 08:00:00": 1,
+            "2026-04-22 08:00:00": 1,
+            "2026-04-23 08:00:00": 1,
+            "2026-04-24 08:00:00": 1,
+            "2026-04-25 08:00:00": 1,
+            "2026-04-26 08:00:00": 1,
+            "2026-04-27 08:00:00": 1,
+            "2026-04-28 08:00:00": 1,
+            "2026-04-29 08:00:00": 1,
+            "2026-04-30 08:00:00": 1,
+            "2026-03-28 16:29:01": 1,
+            "2024-10-06 10:37:14": 1,
+            "2024-09-30 23:09:30": 1,
+            "2026-05-01 08:30:00": 1,
+            "2024-09-29 22:09:43": 1,
+            "2024-09-21 00:09:52": 1
+          },
+          "progress": {
+            "done": 23
+          },
+          "mood": {
+            "6": 4,
+            "7": 4,
+            "8": 5,
+            "9": 5,
+            "10": 5
+          },
+          "feeling": {
+            "excited": 5,
+            "calm": 5,
+            "tired": 5,
+            "happy": 4,
+            "focus": 4,
+            "proud": 1,
+            "🌟 Excited": 1,
+            "successful": 1
+          },
+          "summary": {
+            "Hôm nay là một ngày tuyệt vời để nâng cấp hệ thống Obsidian FLOW.": 1
+          }
+        },
+        "tagsCount": {
+          "type/journal": 23,
+          "format/journal": 1
+        },
+        "notesWithAnyMetadata": 29,
+        "notesWithTags": 24,
+        "notesWithProperties": 29,
+        "notesWithWikilinks": 3,
+        "maxFolderDepth": 0,
+        "subfolderCount": 0,
+        "notesInRoot": 29,
+        "notesPerSubfolder": {},
+        "captureHasWikilink": 0,
+        "captureRawNotes": 0,
+        "trackTasksCompleted": 53,
+        "trackTasksPending": 0,
+        "trackHasFeeling": 26,
+        "forgeWipCount": 0,
+        "forgeHeatmap": {},
+        "forgeProgressDistribution": {}
+      },
+      "forge": {
+        "noteCount": 25,
+        "propertiesGrouped": {
+          "created": {
+            "2026-04-29 23:35:00": 1,
+            "2026-04-29 06:05:00": 1,
+            "2024-09-16 23:09:00": 1,
+            "2026-04-29 21:07:58": 1,
+            "2024-09-16 21:09:52": 1,
+            "2026-04-29 06:10:00": 1,
+            "2026-04-29 23:25:00": 1,
+            "2026-04-29 05:55:00": 1,
+            "2024-09-16 21:09:23": 1,
+            "2026-04-29 22:50:00": 1,
+            "2026-05-01 14:20:00": 1,
+            "2026-05-01 10:15:00": 1,
+            "2026-04-29 23:45:00": 1,
+            "2024-09-28 23:09:36": 1,
+            "2024-09-16 23:09:24": 1,
+            "2024-09-17 00:09:20": 1,
+            "2024-09-16 23:09:47": 1,
+            "2024-09-16 23:09:11": 1,
+            "2024-09-16 22:09:49": 1,
+            "2024-09-16 23:09:46": 1,
+            "2024-09-16 23:09:04": 1
+          },
+          "progress": {
+            "medium": 19,
+            "done": 2
+          },
+          "rank": {
+            "2": 1,
+            "4": 1,
+            "5": 1,
+            "6": 1
+          },
+          "blueprint": {
+            "Obsidian PKM Mastery": 9,
+            "FLOW Methodology": 11,
+            "Content Plan": 1
+          },
+          "cover": {
+            "../../Vault/attachments/obsidian-5-lenses.png": 1,
+            "../../Vault/attachments/flow-pkm-note-lifecycle.png": 1,
+            "../../Vault/attachments/3-pkm-ways.png": 1,
+            "../../Vault/attachments/obsidian-pkm-methods-reveal.png": 1
+          },
+          "summary": {
+            "Hướng dẫn xây dựng Vault Obsidian theo tư duy quản trị cơ sở dữ liệu để tối ưu hóa khả năng truy xuất và mở rộng.": 1,
+            "Phân tích cách thiết kế metadata và câu lệnh truy vấn để biến Vault thành một thực thể thông minh.": 1,
+            "Khám phá cách AI Agent như Antigravity sẽ thay đổi cách chúng ta tương tác với kiến thức cá nhân.": 1,
+            "Phân tích cách áp dụng tư duy hệ thống để tối ưu hoá dòng chảy thông tin trong bộ não thứ hai.": 1
+          },
+          "impact": {
+            "4": 2,
+            "5": 13
+          }
+        },
+        "tagsCount": {
+          "topic/pkm": 7,
+          "topic/obsidian": 2,
+          "type/article": 5,
+          "topic/database": 2,
+          "type/synthesis": 2,
+          "knowledge": 2,
+          "topic/neuroscience": 2,
+          "topic/mindset": 2,
+          "quick-start": 2,
+          "topic/metadata": 1,
+          "topic/workflow": 1,
+          "type/action-plan": 1,
+          "topic/methodology": 1,
+          "topic/ai": 1,
+          "topic/systems-thinking": 1,
+          "system/manual": 6,
+          "project": 1,
+          "format/meeting": 1,
+          "principle": 1,
+          "system/template": 1
+        },
+        "notesWithAnyMetadata": 25,
+        "notesWithTags": 21,
+        "notesWithProperties": 21,
+        "notesWithWikilinks": 10,
+        "maxFolderDepth": 1,
+        "subfolderCount": 3,
+        "notesInRoot": 0,
+        "notesPerSubfolder": {
+          "Obsidian": 10,
+          "PKM": 4,
+          "FLOW": 11
+        },
+        "captureHasWikilink": 0,
+        "captureRawNotes": 0,
+        "trackTasksCompleted": 0,
+        "trackTasksPending": 0,
+        "trackHasFeeling": 0,
+        "forgeWipCount": 21,
+        "forgeHeatmap": {
+          "Obsidian": "hot",
+          "PKM": "hot",
+          "FLOW": "hot"
+        },
+        "forgeProgressDistribution": {
+          "medium": 19,
+          "done": 2
+        }
+      },
+      "blueprint": {
+        "noteCount": 3,
+        "propertiesGrouped": {
+          "min-impact": {
+            "4": 2
+          },
+          "created-after": {
+            "2024-09-18": 1,
+            "2024-08-01": 1
+          },
+          "genre": {
+            "Business & Economics": 1,
+            "Self-Help": 1,
+            "Psychology": 1,
+            "Family & Relationships": 1,
+            "Religion & Spirituality": 1
+          },
+          "progress": {
+            "active": 3
+          },
+          "created": {
+            "2026-05-02 00:00:00": 1
+          },
+          "summary": {
+            "Bản đồ trung tâm (Master MOC) tập hợp tư duy, phương pháp và kỹ thuật để biến Obsidian thành một cơ sở dữ liệu tri thức mạnh mẽ.": 1
+          }
+        },
+        "tagsCount": {
+          "type/moc": 3,
+          "topic/obsidian": 1,
+          "topic/database": 1,
+          "topic/pkm": 1
+        },
+        "notesWithAnyMetadata": 3,
+        "notesWithTags": 3,
+        "notesWithProperties": 3,
+        "notesWithWikilinks": 2,
+        "maxFolderDepth": 0,
+        "subfolderCount": 0,
+        "notesInRoot": 3,
+        "notesPerSubfolder": {},
+        "captureHasWikilink": 0,
+        "captureRawNotes": 0,
+        "trackTasksCompleted": 0,
+        "trackTasksPending": 0,
+        "trackHasFeeling": 0,
+        "forgeWipCount": 0,
+        "forgeHeatmap": {},
+        "forgeProgressDistribution": {},
+        "topLinkedFiles": [
+          {
+            "name": "Obsidian PKM Mastery",
+            "linkCount": 50
+          },
+          {
+            "name": "Reading Challenges",
+            "linkCount": 49
+          },
+          {
+            "name": "Content Plan",
+            "linkCount": 11
+          }
+        ]
+      },
+      "exhibit": {
+        "noteCount": 6,
+        "propertiesGrouped": {
+          "created": {
+            "2024-09-27 01:09:00": 1,
+            "2024-09-19 21:09:04": 1,
+            "2024-09-19 22:09:13": 1,
+            "2024-09-23 20:30:00": 1,
+            "2024-09-30 20:09:00": 1,
+            "2024-09-16 21:09:58": 1
+          },
+          "progress": {
+            "done": 6
+          },
+          "blueprint": {
+            "Content Plan": 7,
+            "FLOW Methodology": 6,
+            "FLOW launching plan": 2
+          },
+          "impact": {
+            "4": 2,
+            "5": 4
+          },
+          "publish": {
+            "2023-09-28T20:30:00": 1,
+            "18-09-2024": 1,
+            "2024-09-20 06:15:00": 1,
+            "2024-09-23T21:45:00": 1,
+            "2024-09-30 21:20:00": 1
+          },
+          "channel": {
+            "Substack": 5,
+            "Facebook": 3,
+            "Blog": 4
+          },
+          "cover": {
+            "../../Vault/attachments/obsidian-flow-shortcuts-he-thong-phim-tat.png": 1,
+            "../../Vault/attachments/flow_methodology_cover.png": 1,
+            "../../Vault/attachments/obsidian_flow_xem_ghi_chu_markdown_trong_onedrive.png": 1,
+            "../../Vault/attachments/nha-may-san-xuat-y-tuong-flow.png": 1
+          },
+          "category": {
+            "Methodology": 1,
+            "educational": 1
+          },
+          "summary": {
+            "FLOW là một phương pháp quản lý thông tin linh hoạt và toàn diện trong Obsidian giúp bạn phát triển sáng tạo, hỗ trợ tư duy mạng lưới, và quản lý dự án một cách có hệ thống.": 1
+          },
+          "publish_url": {
+            "https://learnanything.substack.com/p/flow-phuong-phap-quan-ly-tri-thuc": 1,
+            "https://thinhvu.com/2024/09/18/obsidian-flow-phuong-phap-quan-ly-kien-thuc-toan-dien/": 1
+          }
+        },
+        "tagsCount": {
+          "intermediate": 1,
+          "migration": 1,
+          "fundamental": 2,
+          "quick-start": 1
+        },
+        "notesWithAnyMetadata": 6,
+        "notesWithTags": 5,
+        "notesWithProperties": 6,
+        "notesWithWikilinks": 0,
+        "maxFolderDepth": 0,
+        "subfolderCount": 0,
+        "notesInRoot": 6,
+        "notesPerSubfolder": {},
+        "captureHasWikilink": 0,
+        "captureRawNotes": 0,
+        "trackTasksCompleted": 0,
+        "trackTasksPending": 0,
+        "trackHasFeeling": 0,
+        "forgeWipCount": 0,
+        "forgeHeatmap": {},
+        "forgeProgressDistribution": {}
+      }
+    },
+    "vaultTotalFiles": 202,
+    "vaultTotalSize": 17797917,
+    "vaultLargestFolders": [
+      {
+        "name": "Vault",
+        "size": 14943527
+      },
+      {
+        "name": "Forge",
+        "size": 140854
+      },
+      {
+        "name": "Exhibit",
+        "size": 69125
+      },
+      {
+        "name": "Capture",
+        "size": 39713
+      },
+      {
+        "name": "Track",
+        "size": 10445
+      }
+    ],
+    "orphanedAttachmentsCount": 4,
+    "orphanedAttachmentsSize": 2106179,
+    "oversizedFiles": [],
+    "hasGitRepo": false,
+    "captureNoteAges": [
+      34.450857025462966,
+      34.450857025462966,
+      34.450857025462966,
+      34.45085703703704,
+      0.09442569444444444,
+      34.450857025462966,
+      34.450857025462966,
+      34.45085703703704,
+      0.0944255324074074,
+      0.09442594907407408,
+      0.09442585648148148,
+      0.09442549768518518,
+      0.09442560185185185,
+      34.45085703703704,
+      0.09442546296296296,
+      0.09442539351851852,
+      34.45085703703704,
+      0.09442542824074074,
+      0.09442576388888889,
+      0.09442537037037037,
+      0.09442555555555555,
+      0.0944258912037037,
+      0.09442564814814815
+    ],
+    "namingConventions": {
+      "zettelkasten": 29,
+      "natural": 57,
+      "kebab": 0,
+      "snake": 0,
+      "camel": 0,
+      "pascal": 0,
+      "other": 0
+    }
+  },
   "dashboardRefreshIntervalMin": 30,
   "language": "vi",
   "urgencyConfig": {

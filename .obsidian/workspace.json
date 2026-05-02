@@ -70,9 +70,24 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "61aa25714163dd3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Forge/FLOW/Sứ mệnh của FLOW PKM Plugin.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Sứ mệnh của FLOW PKM Plugin"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -256,7 +271,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
+                "file": "Forge/FLOW/Sứ mệnh của FLOW PKM Plugin.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -284,7 +299,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Home"
+              "title": "Graph of Sứ mệnh của FLOW PKM Plugin"
             }
           }
         ]
@@ -312,8 +327,12 @@
       "pexels-banner:🚩 Pixel Banner Menu": false
     }
   },
-  "active": "c6135b3486af3d34",
+  "active": "61aa25714163dd3c",
   "lastOpenFiles": [
+    "Blueprint/Obsidian PKM Mastery.md",
+    "Forge/FLOW/Sứ mệnh của FLOW PKM Plugin.md",
+    "Home.md",
+    "Track/2026-05-02.md",
     "Capture/Quan hệ Một-Nhiều và Nhiều-Nhiều trong Obsidian.md",
     "Capture/Primary Key - Tên file và tính duy nhất.md",
     "Capture/Obsidian Roadmap - From Novice to Master.md",
@@ -336,10 +355,6 @@
     "Exhibit/FLOW - Nhà Máy Sản Xuất Ý Tưởng & Hành Trình Sáng Tạo.md",
     "Exhibit/Cấu trúc thư mục theo phương pháp FLOW.md",
     "Blueprint/Content Plan.md",
-    "Blueprint/Obsidian PKM Mastery.md",
-    "Blueprint/Reading Challenges.md",
-    "Forge/Obsidian/5 lăng kính định hình phong cách sử dụng Obsidian.md",
-    "Forge/Obsidian/Hướng dẫn nhanh để bắt đầu viết và tổ chức ghi chú.md",
     "Vault/attachments/3-pkm-ways.png",
     "Vault/attachments/obsidian-pkm-methods-reveal.png",
     "Vault/attachments/obsidian-5-lenses.png",
