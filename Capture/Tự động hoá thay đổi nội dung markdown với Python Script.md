@@ -2,13 +2,14 @@
 aliases: 
 created: 2024-09-30 23:21:00
 progress: raw
-blueprint: 
+blueprint:
+  - "[[Obsidian PKM Mastery]]"
 impact: 5
 urgency: 0
 tags:
   - advanced
   - automation
-category:
+category: 
 ---
 
 

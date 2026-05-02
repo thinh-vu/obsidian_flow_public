@@ -1,12 +1,16 @@
 ---
-aliases: []
+aliases:
+  - 
 created: 2024-09-29 17:11:00
 progress: raw
-blueprint: []
+blueprint:
+  - 
 impact: 
 urgency: 
-tags: []
-category: []
+tags:
+  - 
+category:
+  - 
 ---
 
 > [!important]
@@ -36,3 +40,6 @@ Chức năng thêm và quản lý nhiệm vụ đơn giản qua Sidebar từ FLO
 ## Home
 
 ![](../Vault/attachments/Pasted%20image%2020240929173717.png)
+
+
+> Liên quan: [[Obsidian PKM Mastery]] | [[Obsidian PKM Mastery]]

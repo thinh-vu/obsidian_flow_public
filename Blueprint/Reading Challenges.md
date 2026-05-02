@@ -7,12 +7,16 @@ genre:
   - Psychology
   - Family & Relationships
   - Religion & Spirituality
-progress: archived
+progress: active
+tags:
+  - type/moc
 ---
 ![[Navigation Bar]]
 
 > [!info] Mục tiêu
 > Quản lý lộ trình đọc sách, theo dõi tiến độ và lưu trữ các bài tóm tắt, đánh giá sách thuộc những chủ đề quan tâm nhất.
+
+## 📌 Ghi chú nòng cốt
 
 ```base
 filters:

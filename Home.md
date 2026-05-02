@@ -5,7 +5,7 @@
 
 ## 📌 TRUY CẬP NHANH
 - [[Content Plan]]: Quản lý nội dung & xuất bản.
-- [[FLOW Methodology]]: Hướng dẫn & phương pháp hệ thống.
+- [[Obsidian PKM Mastery]]: Hướng dẫn & phương pháp hệ thống.
 - [[Reading Challenges]]: Thư viện sách & lộ trình đọc.
 - [[CHANGELOG]]: Lịch sử cập nhật Vault.
 

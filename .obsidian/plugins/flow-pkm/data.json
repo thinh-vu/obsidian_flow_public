@@ -18,7 +18,7 @@
   "maxSubfolders": 9,
   "captureStaleDays": 7,
   "namingConvention": "any",
-  "startupAction": "dashboard",
+  "startupAction": "none",
   "startupFilePath": "",
   "zenModeLevel": 1,
   "healthScoring": {
@@ -128,7 +128,28 @@
     }
   },
   "tagTaxonomy": [],
-  "vaultMissions": [],
+  "vaultMissions": [
+    {
+      "id": "mission-1",
+      "name": "Xây dựng hệ thống FLOW vững chắc",
+      "status": "active",
+      "relatedTags": [
+        "topic/pkm",
+        "topic/obsidian"
+      ],
+      "description": "Chuẩn hóa và hoàn thiện bộ tiêu chuẩn của phương pháp FLOW."
+    },
+    {
+      "id": "mission-2",
+      "name": "Nghiên cứu Tư duy hệ thống",
+      "status": "active",
+      "relatedTags": [
+        "topic/mindset",
+        "topic/database"
+      ],
+      "description": "Áp dụng tư duy CSDL vào việc tổ chức ghi chú."
+    }
+  ],
   "taxonomyDimensions": [
     {
       "id": "domain",

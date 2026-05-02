@@ -1,18 +1,17 @@
 ---
 aliases:
-  - "Podcast: Bị Lừa Bởi Ngẫu Nhiên - Cuộc Sống Không Như Ta Nghĩ"
 created: 2024-09-29 16:53:00
 progress: raw
 blueprint:
   - "[[../Blueprint/Reading Challenges|Reading Challenges]]"
   - "[[../Blueprint/Content Plan|Content Plan]]"
-impact: 
-urgency: 
-tags: 
+impact:
+urgency:
+tags:
 channel:
   - Podcast
 source:
-  - "[[../Vault/bookshelf/Fooled by Randomness|Fooled by Randomness]]"
+  - - - ../Vault/bookshelf/Fooled by Randomness|Fooled by Randomness
 ---
 **Mở đầu:**
 
@@ -85,3 +84,6 @@ Nassim Nicholas Taleb,  người   được   biết   đến   với  tên   g�
  Cảm  ơn  các  bạn  đã  theo  dõi  podcast  của  chúng  tôi.  Hẹn  gặp   lại   các  bạn  trong   những  tập  tiếp  theo. 
 
 
+
+
+> Liên quan: [[Obsidian PKM Mastery]] | [[Obsidian PKM Mastery]]

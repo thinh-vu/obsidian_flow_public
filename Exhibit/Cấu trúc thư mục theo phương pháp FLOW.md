@@ -5,7 +5,7 @@ created: 2024-09-16 21:09:58
 progress: done
 blueprint:
   - "[[Content Plan]]"
-  - "[[../Blueprint/FLOW Methodology|FLOW Methodology]]"
+  - "[[../Blueprint/Obsidian PKM Mastery|FLOW Methodology]]"
 impact: 5
 urgency:
 tags:

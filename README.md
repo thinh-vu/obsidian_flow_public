@@ -102,16 +102,16 @@ Sử dụng cách này, bạn tải toàn bộ repo được chia sẻ dưới d
 ---
 ## IV. Thiết lập Obsidian Vault của bạn theo phương pháp FLOW
 
->Bạn có thể tìm thấy nội dung dưới đây tại trang mục lục giới thiệu phương pháp [Obsidian FLOW Methodology](4.%20Blueprint/Obsidian%20FLOW%20Methodology.md).
+>Bạn có thể tìm thấy nội dung dưới đây tại trang mục lục giới thiệu phương pháp [Obsidian PKM Mastery](4.%20Blueprint/Obsidian%20FLOW%20Methodology.md).
 ## V. Thiết lập Obsidian Vault của bạn theo phương pháp FLOW
 [!tip]
-Bạn có thể tìm thấy nội dung dưới đây tại trang mục lục giới thiệu phương pháp [Obsidian FLOW Methodology](4.%20Blueprint/Obsidian%20FLOW%20Methodology.md).
+Bạn có thể tìm thấy nội dung dưới đây tại trang mục lục giới thiệu phương pháp [Obsidian PKM Mastery](4.%20Blueprint/Obsidian%20FLOW%20Methodology.md).
 
 ```base
 filters:
   and:
     - '!file.inFolder("Vault")'
-    - 'note.blueprint.contains("Obsidian FLOW Methodology")'
+    - 'note.blueprint.contains("Obsidian PKM Mastery")'
     - 'note.impact >= 4'
 views:
   - type: table

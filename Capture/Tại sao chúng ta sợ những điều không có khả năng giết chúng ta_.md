@@ -9,7 +9,7 @@ urgency:
 tags: 
 category: 
 source:
-  - "[[../Vault/bookshelf/Risk Savvy - How to Make Good Decisions|Risk Savvy: How to Make Good Decisions]]"
+  - [[../Vault/bookshelf/Risk Savvy - How to Make Good Decisions|Risk Savvy: How to Make Good Decisions]]
 ---
 
 - **Sợ hãi là phản ứng sinh tồn, nhưng cũng có thể khiến chúng ta sợ hãi những điều sai.**
@@ -20,3 +20,5 @@ source:
     - Tập trung vào việc phát triển kỹ năng, giá trị đạo đức, và những mục tiêu nội tại sẽ giúp ta kiểm soát cảm xúc và giảm bớt lo lắng.
 - **Lắng nghe trực giác, bởi vì nó có thể là một nguồn thông tin quý giá.**
     - Trực giác không phải là cảm xúc bốc đồng, mà là một dạng trí tuệ tiềm thức dựa trên kinh nghiệm và các quy tắc đơn giản. Hãy tin tưởng vào trực giác của mình trong việc đưa ra quyết định.
+
+> Liên quan: [[Obsidian PKM Mastery]] | [[Obsidian PKM Mastery]]

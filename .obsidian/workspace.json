@@ -97,7 +97,8 @@
               "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -281,7 +282,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "README.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -304,12 +304,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.6265620877139471,
+                  "scale": 0.487075992029334,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of README"
+              "title": "Graph view"
             }
           }
         ]
@@ -333,59 +333,58 @@
       "workspaces:Manage workspace layouts": false,
       "callout-manager:Insert Callout": false,
       "templater-obsidian:Templater": true,
-      "obsidian-projects:Open projects": true,
-      "homepage:Open homepage": false,
-      "flow-pkm:FLOW Dashboard": false
+      "flow-pkm:FLOW Dashboard": false,
+      "pexels-banner:🚩 Pixel Banner Menu": false
     }
   },
-  "active": "5937c74a9416a612",
+  "active": "10552c9d7e3a4ae6",
   "lastOpenFiles": [
-    "Home.md",
-    "README.md",
-    "Blueprint/FLOW Methodology.md",
-    "Forge/8. Chiến lược sử dụng tag trong phương pháp FLOW.md",
-    "Forge/9 Tuyển chọn nội dung tự động với TOC và Dataview trong hệ thống FLOW.md",
-    "Vault/templates/8. Profile.md",
-    "Forge/7. Nguyên tắc quản lý properties trong Obsidian FLOW.md",
-    "Forge/1. Phương pháp quản lý cấu trúc Vault linh hoạt với FLOW.md",
-    "Forge/Tư duy hệ thống trong quản lý tri thức.md",
-    "Track/2026-05-01.md",
-    "Forge/Tương lai của AI và PKM.md",
-    "Vault/templater/TOC.md",
-    "Vault/templates/9. TOC.md",
+    "Capture/Quan hệ Một-Nhiều và Nhiều-Nhiều trong Obsidian.md",
+    "Capture/Primary Key - Tên file và tính duy nhất.md",
+    "Capture/Obsidian Roadmap - From Novice to Master.md",
+    "Capture/MOC là một Index - Tăng tốc độ truy xuất thông tin.md",
+    "Capture/Metadata là Schema - Quy định cấu trúc cho dữ liệu.md",
+    "Capture/Giới thiệu Obsidian FLOW.md",
+    "Capture/Ghi chú là một Record - Đơn vị dữ liệu nhỏ nhất.md",
+    "Capture/Feedback khoá học Python.md",
+    "Capture/Điều hướng trong Obsidian FLOW.md",
+    "Capture/Database View - Hiển thị dữ liệu dưới dạng bảng và danh sách.md",
+    "Capture/Data Normalization - Tại sao cần Ghi chú Nguyên tử.md",
+    "Capture/Data Integrity - Giữ cho Metadata luôn sạch và nhất quán.md",
+    "Capture/CRUD trong Obsidian - Tạo Đọc Cập nhật Xóa.md",
+    "Capture/Bị Lừa Bởi Sự Ngẫu Nhiên - Cuộc Sống Không Như Ta Nghĩ.md",
+    "Capture/ACID trong hệ thống file - Bảo vệ tính toàn vẹn tri thức.md",
+    "Exhibit/Hệ thống phím tắt trong Obsidian FLOW.md",
+    "Exhibit/Giới thiệu phương pháp FLOW.md",
+    "Exhibit/FLOW Và DIKW - Từ Thông Tin Đến Thông Thái.md",
+    "Exhibit/FLOW tương thích các dịch vụ truyền thống.md",
+    "Exhibit/FLOW - Nhà Máy Sản Xuất Ý Tưởng & Hành Trình Sáng Tạo.md",
+    "Exhibit/Cấu trúc thư mục theo phương pháp FLOW.md",
+    "Blueprint/Content Plan.md",
+    "Blueprint/Obsidian PKM Mastery.md",
+    "Blueprint/Reading Challenges.md",
+    "Forge/Obsidian/5 lăng kính định hình phong cách sử dụng Obsidian.md",
+    "Forge/Obsidian/Hướng dẫn nhanh để bắt đầu viết và tổ chức ghi chú.md",
+    "Vault/attachments/3-pkm-ways.png",
+    "Vault/attachments/obsidian-pkm-methods-reveal.png",
+    "Vault/attachments/obsidian-5-lenses.png",
+    "Vault/attachments/flow-pkm-note-lifecycle.png",
+    "Vault/attachments/flow-pkm-scoring-dashboard.png",
+    "Vault/attachments/flow-pkm-dashboard.png",
+    "user_guide",
+    "Forge/Obsidian",
+    "Forge/PKM",
+    "Forge/FLOW",
+    "update_blueprints.py",
+    "rename_script.py",
     "overhaul_tags.py",
     "list_tags.py",
-    "Blueprint/Content Plan.md",
-    "Blueprint/Reading Challenges.md",
-    "Exhibit/Cấu trúc thư mục theo phương pháp FLOW.md",
-    "Exhibit/Hệ thống phím tắt trong Obsidian FLOW.md",
-    "Exhibit/FLOW - Nhà Máy Sản Xuất Ý Tưởng & Hành Trình Sáng Tạo.md",
-    "Exhibit/3. FLOW Và DIKW - Từ Thông Tin Đến Thông Thái.md",
-    "Exhibit/2. FLOW tương thích các dịch vụ truyền thống.md",
-    "Exhibit/1. Giới thiệu phương pháp FLOW.md",
     "fix_haslink.py",
-    "Forge/FLOW system/9 Tuyển chọn nội dung tự động với TOC và Dataview trong hệ thống FLOW.md",
     "Forge/FLOW system",
-    "fix_queries.py",
-    "find_bases.py",
-    "Capture/0. Tổng quan Vault.md",
-    "CHANGELOG.md",
-    "Vault/Navigation Bar.md",
-    "Forge/5. Quy tắc đặt tên nội dung theo phương pháp FLOW.md",
-    "flatten.py",
-    "fix_paths.py",
     "Vault/attachments/Pasted image 20260501223742.png",
     "Vault/attachments/Pasted image 20260501223419.png",
     "Vault/attachments/Pasted image 20260501223416.png",
     "Vault/attachments/obsidian_project_enable_rich_text_formating.png",
-    "Vault/attachments/choose_progress_properties_as_status_field.png",
-    "Vault/attachments/Pasted image 20240925153203.png",
-    "Vault/attachments/Pasted image 20240929172844.png",
-    "Vault/attachments/Pasted image 20240929173717.png",
-    "Vault/attachments/Pasted image 20240925142917.png",
-    "Vault/attachments/floating_toc.png",
-    "README.pdf",
-    "Archive.zip",
     "Untitled.canvas"
   ]
 }

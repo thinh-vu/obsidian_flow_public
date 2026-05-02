@@ -2,6 +2,8 @@
 min-impact: 4
 created-after: 2024-08-01
 progress: active
+tags:
+  - type/moc
 ---
 ![[Navigation Bar]]
 
@@ -9,7 +11,7 @@ progress: active
 > Blueprint quản lý toàn bộ các tuyến nội dung, bài viết và video đang được phát triển.
 
 ## 📌 Ghi chú nòng cốt (Core Notes)
-- [[Obsidian FLOW Methodology]]: Phương pháp cốt lõi.
+- [[Obsidian PKM Mastery]]: Phương pháp cốt lõi.
 
 ## 🎯 Tiến độ thực thi (Action Plan)
 ```base
@@ -43,13 +45,22 @@ views:
 filters:
   and:
     - '!file.inFolder("Vault")'
-    - file.hasLink(this.file.name)
+    - or:
+        - file.hasLink(this.file.name)
+        - and:
+            - or:
+                - file.inFolder("Forge/FLOW")
+                - file.inFolder("Forge/PKM")
+            - or:
+                - progress == "done"
+                - impact >= 4
     - or:
         - progress == "done"
         - progress == "archived"
+        - impact >= 4
         - "!note.progress"
 formulas:
-  Created: if(created, created, file.ctime)
+  Created: 'if(created, created, file.ctime)'
 views:
   - type: cards
     name: Completed Content
@@ -69,5 +80,4 @@ views:
         direction: DESC
       - property: formula.Created
         direction: DESC
-
 ```
