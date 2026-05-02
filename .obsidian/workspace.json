@@ -60,32 +60,6 @@
             }
           },
           {
-            "id": "2af468f51bac5145",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Blueprint/FLOW Methodology.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "FLOW Methodology"
-            }
-          },
-          {
             "id": "10552c9d7e3a4ae6",
             "type": "leaf",
             "pinned": true,
@@ -98,7 +72,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -282,6 +256,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Home.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -309,7 +284,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of Home"
             }
           }
         ]
@@ -337,7 +312,7 @@
       "pexels-banner:🚩 Pixel Banner Menu": false
     }
   },
-  "active": "10552c9d7e3a4ae6",
+  "active": "c6135b3486af3d34",
   "lastOpenFiles": [
     "Capture/Quan hệ Một-Nhiều và Nhiều-Nhiều trong Obsidian.md",
     "Capture/Primary Key - Tên file và tính duy nhất.md",
