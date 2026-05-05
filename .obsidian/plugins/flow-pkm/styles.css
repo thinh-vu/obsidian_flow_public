@@ -1072,16 +1072,25 @@
 /* tag-suggest.ts */
 .flow-suggest-container {
 	display: flex;
-	flex-direction: column;
-	gap: 2px;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items: center;
+	width: 100%;
+	gap: 12px;
 }
-.flow-suggest-tag {
+.flow-suggest-main {
 	font-weight: 500;
-	color: var(--text-accent);
+	color: var(--text-normal);
+	flex: 1;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
 }
-.flow-suggest-desc {
-	font-size: 0.85em;
+.flow-suggest-secondary {
 	color: var(--text-muted);
+	font-size: 0.85em;
+	font-family: var(--font-monospace);
+	white-space: nowrap;
 }
 
 /* general.ts credits section */
