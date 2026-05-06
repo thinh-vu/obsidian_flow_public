@@ -74,6 +74,7 @@
           {
             "id": "61aa25714163dd3c",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -82,12 +83,28 @@
                 "source": false,
                 "backlinks": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "Sứ mệnh của FLOW PKM Plugin"
             }
+          },
+          {
+            "id": "7cab7458141f4c02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CHANGELOG.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "CHANGELOG"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -162,7 +179,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 447.5
+    "width": 306.5
   },
   "right": {
     "id": "b2a70d1e73e50140",
@@ -171,6 +188,7 @@
       {
         "id": "41681102ef631353",
         "type": "tabs",
+        "dimension": 52.57142857142857,
         "children": [
           {
             "id": "5bfa6da26e6d3b5d",
@@ -264,6 +282,7 @@
       {
         "id": "ca3b5d56810ea257",
         "type": "tabs",
+        "dimension": 47.42857142857143,
         "children": [
           {
             "id": "15cbcb4fa8cff1ab",
@@ -271,7 +290,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Forge/FLOW/Sứ mệnh của FLOW PKM Plugin.md",
+                "file": "CHANGELOG.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -294,22 +313,23 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.487075992029334,
+                  "scale": 0.6469349365599913,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Sứ mệnh của FLOW PKM Plugin"
+              "title": "Graph of CHANGELOG"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 382.5
+    "width": 355.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "flow-pkm:Flow dashboard": false,
       "random-note:Open random note": false,
       "daily-notes:Open today's daily note": false,
       "canvas:Create new canvas": false,
@@ -323,16 +343,15 @@
       "workspaces:Manage workspace layouts": false,
       "callout-manager:Insert Callout": false,
       "templater-obsidian:Templater": true,
-      "flow-pkm:FLOW Dashboard": false,
       "pexels-banner:🚩 Pixel Banner Menu": false
     }
   },
-  "active": "61aa25714163dd3c",
+  "active": "7cab7458141f4c02",
   "lastOpenFiles": [
-    "Blueprint/Obsidian PKM Mastery.md",
-    "Forge/FLOW/Sứ mệnh của FLOW PKM Plugin.md",
     "Home.md",
-    "Track/2026-05-02.md",
+    "Capture/ACID trong hệ thống file - Bảo vệ tính toàn vẹn tri thức.md",
+    "Capture/Structured vs Unstructured Data - Cuộc chiến giữa YAML và Body.md",
+    "Capture/Query - Nghệ thuật đặt câu hỏi cho dữ liệu.md",
     "Capture/Quan hệ Một-Nhiều và Nhiều-Nhiều trong Obsidian.md",
     "Capture/Primary Key - Tên file và tính duy nhất.md",
     "Capture/Obsidian Roadmap - From Novice to Master.md",
@@ -347,14 +366,14 @@
     "Capture/Data Integrity - Giữ cho Metadata luôn sạch và nhất quán.md",
     "Capture/CRUD trong Obsidian - Tạo Đọc Cập nhật Xóa.md",
     "Capture/Bị Lừa Bởi Sự Ngẫu Nhiên - Cuộc Sống Không Như Ta Nghĩ.md",
-    "Capture/ACID trong hệ thống file - Bảo vệ tính toàn vẹn tri thức.md",
+    "README.md",
+    "Forge/FLOW/Sứ mệnh của FLOW PKM Plugin.md",
+    "Blueprint/Obsidian PKM Mastery.md",
+    "Track/2026-05-02.md",
     "Exhibit/Hệ thống phím tắt trong Obsidian FLOW.md",
     "Exhibit/Giới thiệu phương pháp FLOW.md",
     "Exhibit/FLOW Và DIKW - Từ Thông Tin Đến Thông Thái.md",
     "Exhibit/FLOW tương thích các dịch vụ truyền thống.md",
-    "Exhibit/FLOW - Nhà Máy Sản Xuất Ý Tưởng & Hành Trình Sáng Tạo.md",
-    "Exhibit/Cấu trúc thư mục theo phương pháp FLOW.md",
-    "Blueprint/Content Plan.md",
     "Vault/attachments/3-pkm-ways.png",
     "Vault/attachments/obsidian-pkm-methods-reveal.png",
     "Vault/attachments/obsidian-5-lenses.png",

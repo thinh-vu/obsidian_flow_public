@@ -57,8 +57,8 @@ Khoá học **Obsidian FLOW PKM** đi sâu vào việc làm việc với thông 
 Nhân dịp ra mắt khoá học mới Obsidian FLOW PKM vào tháng 3/2026, Thịnh dành tặng ưu đãi đặc biệt cho **100 học viên đăng ký đầu tiên**:
 
 **🚀 Khoá học Obsidian FLOW PKM:**
-- Giá gốc: 1.499.000đ
-- **Giá ưu đãi:** **999.000đ**
+- Giá gốc: 1.599.000đ
+- **Giá ưu đãi:** **1.299.000đ**
 
 [![Đăng ký nhận ưu đãi Khoá PKM](https://img.shields.io/badge/Đăng_ký_Khoá_PKM-2E8B57?style=for-the-badge&logo=firefox)](https://course.learn-anything.vn/courses/khoa-hoc-obsidian-flow-pkm)
 
@@ -161,7 +161,7 @@ Bạn có thể đăng ký kênh và theo dõi trang cá nhân của Thịnh đ�
 ## VIII. Giới thiệu tác giả
 
 ## IX. Giới thiệu tác giả
-![1. Xin chào, đây là Thịnh](1.%20Capture/1.%20Xin%20chào,%20đây%20là%20Thịnh.md)
+![Xin chào, đây là Thịnh](Capture/Xin%20chào,%20đây%20là%20Thịnh.md)
 
 
 

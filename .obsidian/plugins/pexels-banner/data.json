@@ -1,7 +1,7 @@
 {
   "pixelBannerPlusEmail": "",
   "pixelBannerPlusApiKey": "",
-  "pixelBannerPlusEnabled": true,
+  "pixelBannerPlusEnabled": false,
   "apiProvider": "all",
   "pexelsApiKey": "",
   "pixabayApiKey": "",
@@ -129,7 +129,7 @@
   "hideEmbeddedNoteTitles": false,
   "hideEmbeddedNoteBanners": false,
   "showBannerInPopoverPreviews": true,
-  "showSelectImageIcon": true,
+  "showSelectImageIcon": false,
   "selectImageIconOpacity": 40,
   "selectImageIconFlag": "red",
   "defaultSelectImagePath": "",
