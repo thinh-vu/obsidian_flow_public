@@ -1,7 +1,7 @@
 ---
 generated: true
 plugin: obsidian-flow
-updated: 2026-05-02
+updated: 2026-05-26
 ---
 
 # 🧭 Blueprints & Missions
@@ -11,6 +11,6 @@ updated: 2026-05-02
 
 ## 🟢 Active Missions
 
-- [[Content Plan]] — *Auto-detected from vault*
-- [[Obsidian PKM Mastery]] — *Auto-detected from vault*
-- [[Reading Challenges]] — *Auto-detected from vault*
+- [[Content Plan]] — *Tự nhận diện trong vault*
+- [[Obsidian PKM Mastery]] — *Tự nhận diện trong vault*
+- [[Reading Challenges]] — *Tự nhận diện trong vault*

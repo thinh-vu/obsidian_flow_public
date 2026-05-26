@@ -11,7 +11,7 @@ tags:
 channel:
   - Podcast
 source:
-  - - - ../Vault/bookshelf/Fooled by Randomness|Fooled by Randomness
+  - "[[../Vault/bookshelf/Fooled by Randomness|Fooled by Randomness]]"
 ---
 **Mở đầu:**
 
