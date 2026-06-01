@@ -10240,17 +10240,17 @@ body .markdown-rendered .callout:is([data-callout="quote"], [data-callout="cite"
 }
 
 /* Metadata (Properties) View */
-body .metadata-container {
+body:not(.is-mobile) .metadata-container {
     background-color: transparent !important;
     border: 1px solid var(--color-base-30) !important;
     border-radius: var(--radius-m) !important;
     margin-bottom: 20px !important;
     position: relative !important;
-    padding-bottom: 24px !important; /* Make room at the bottom for the expand/collapse button */
+    padding-bottom: 36px !important; /* Make room at the bottom for the expand/collapse button */
 }
 
 /* 1. Align the "Properties" heading to match the left margin of the data fields */
-body .metadata-container .metadata-properties-heading {
+body:not(.is-mobile) .metadata-container .metadata-properties-heading {
     padding-left: 12px !important;
     padding-top: 8px !important;
     padding-bottom: 8px !important;
@@ -10263,13 +10263,13 @@ body .metadata-container .metadata-properties-heading {
     will-change: auto !important;
 }
 
-body .metadata-container .metadata-properties-heading .metadata-properties-title {
+body:not(.is-mobile) .metadata-container .metadata-properties-heading .metadata-properties-title {
     padding-left: 20px !important; /* Adjust to match the property list indentation */
 }
 
 /* 2. Reposition the collapse indicator to the bottom center of the container */
-body .workspace-leaf-content .metadata-container .metadata-properties-heading .collapse-indicator,
-body .metadata-container .metadata-properties-heading .collapse-indicator {
+body:not(.is-mobile) .workspace-leaf-content .metadata-container .metadata-properties-heading .collapse-indicator,
+body:not(.is-mobile) .metadata-container .metadata-properties-heading .collapse-indicator {
     position: absolute !important;
     bottom: 0 !important;
     top: auto !important;
@@ -10281,14 +10281,14 @@ body .metadata-container .metadata-properties-heading .collapse-indicator {
     justify-content: center !important;
     align-items: center !important;
     opacity: 0.5 !important;
-    cursor: pointer !important;
+    pointer-events: none !important;
     background: transparent !important;
     margin: 0 !important;
     padding: 0 !important;
     transition: opacity 0.2s ease, background 0.2s ease !important;
 }
 
-body .metadata-container:hover .collapse-indicator {
+body:not(.is-mobile) .metadata-container:hover .collapse-indicator {
     opacity: 1 !important;
     background: rgba(150, 150, 150, 0.1) !important;
     border-bottom-left-radius: var(--radius-m) !important;
@@ -10296,18 +10296,22 @@ body .metadata-container:hover .collapse-indicator {
 }
 
 /* Adjust SVG rotation to point down (collapsed) or up (expanded) */
-body .metadata-container.is-collapsed .collapse-indicator > svg {
+body:not(.is-mobile) .metadata-container.is-collapsed .collapse-indicator > svg {
     transform: rotate(0deg) !important; /* Base is chevron-down. 0deg points down to indicate "expand" */
     color: var(--text-muted) !important;
+    pointer-events: auto !important;
+    cursor: pointer !important;
 }
 
-body .metadata-container:not(.is-collapsed) .collapse-indicator > svg {
+body:not(.is-mobile) .metadata-container:not(.is-collapsed) .collapse-indicator > svg {
     transform: rotate(180deg) !important; /* 180deg points up to indicate "collapse" */
     color: var(--text-muted) !important;
+    pointer-events: auto !important;
+    cursor: pointer !important;
 }
 
 /* 3. Override the default collapse behavior to show the first 4 properties */
-body .metadata-container.is-collapsed .metadata-content {
+body:not(.is-mobile) .metadata-container.is-collapsed .metadata-content {
     display: block !important;
     height: auto !important;
     opacity: 1 !important;
@@ -10316,14 +10320,14 @@ body .metadata-container.is-collapsed .metadata-content {
     clip-path: none !important;
 }
 
-body .metadata-container.is-collapsed .metadata-properties {
+body:not(.is-mobile) .metadata-container.is-collapsed .metadata-properties {
     display: block !important;
     height: auto !important;
     opacity: 1 !important;
     visibility: visible !important;
 }
 
-body .metadata-container.is-collapsed .metadata-property {
+body:not(.is-mobile) .metadata-container.is-collapsed .metadata-property {
     display: flex !important;
     height: auto !important;
     opacity: 1 !important;
@@ -10331,24 +10335,31 @@ body .metadata-container.is-collapsed .metadata-property {
 }
 
 /* Hide properties from the 5th onwards when collapsed */
-body .metadata-container.is-collapsed .metadata-property:nth-child(n+5) {
+body:not(.is-mobile) .metadata-container.is-collapsed .metadata-property:nth-child(n+5) {
     display: none !important;
 }
 
 /* Hide the "Add property" button when collapsed */
-body .metadata-container.is-collapsed .metadata-add-button {
+body:not(.is-mobile) .metadata-container.is-collapsed .metadata-add-button {
     display: none !important;
 }
 
-body .metadata-property {
-    background-color: transparent !important;
+body:not(.is-mobile) .metadata-add-button {
+    position: relative !important;
+    z-index: 1 !important;
 }
 
-body .metadata-property-key {
+body:not(.is-mobile) .metadata-property {
+    background-color: transparent !important;
+    position: relative !important;
+    z-index: 1 !important;
+}
+
+body:not(.is-mobile) .metadata-property-key {
     color: var(--text-muted) !important;
 }
 
-body .metadata-property-value {
+body:not(.is-mobile) .metadata-property-value {
     color: var(--text-normal) !important;
 }
 
@@ -10535,60 +10546,4 @@ body .workspace-leaf-content[data-type="file-explorer"] .tree-item-icon.collapse
 body .workspace-leaf-content[data-type="file-explorer"] .tree-item-icon.collapse-icon svg.svg-icon {
     color: var(--text-muted) !important; /* Make the native chevron visible again */
     opacity: 1 !important;
-}
-
-
-/* ----------------------------------- */
-/* Workspace Panels & Stacked Cards    */
-/* ----------------------------------- */
-
-/* 1. Make the main workspace split containers transparent */
-body:not(.is-mobile) .workspace-split,
-body:not(.is-mobile) .workspace-tabs {
-    background-color: transparent !important;
-    border: none !important;
-}
-
-/* 2. Apply background, rounding, and border to the actual content containers (Cards) */
-/* This correctly aligns the sidebars and editor top edges by targeting the inner container */
-body:not(.is-mobile) .workspace-split .workspace-tab-container {
-    background-color: var(--background-secondary) !important;
-    border-radius: var(--card-border-radius-light, 8px) !important;
-    overflow: hidden !important;
-    border: 1px solid var(--background-modifier-border-hover) !important;
-}
-
-body:not(.is-mobile).theme-dark .workspace-split .workspace-tab-container {
-    border-radius: var(--card-border-radius-dark, 8px) !important;
-}
-
-/* 3. Ensure Editor card has the primary background */
-body:not(.is-mobile) .workspace-split.mod-root .workspace-tab-container {
-    background-color: var(--background-primary) !important;
-}
-
-/* 4. Increase the gap between stacked cards in sidebars to 16px (matches horizontal gap) */
-body:not(.is-mobile) .workspace-split.mod-left-split .workspace-leaf-resize-handle,
-body:not(.is-mobile) .workspace-split.mod-right-split .workspace-leaf-resize-handle {
-    background-color: transparent !important;
-    border: none !important;
-}
-
-/* Vertical stack gap */
-body:not(.is-mobile) .workspace-split.mod-left-split .workspace-split.mod-vertical > .workspace-leaf-resize-handle,
-body:not(.is-mobile) .workspace-split.mod-right-split .workspace-split.mod-vertical > .workspace-leaf-resize-handle {
-    height: 16px !important;
-    min-height: 16px !important;
-}
-
-/* Horizontal stack gap */
-body:not(.is-mobile) .workspace-split.mod-left-split .workspace-split.mod-horizontal > .workspace-leaf-resize-handle,
-body:not(.is-mobile) .workspace-split.mod-right-split .workspace-split.mod-horizontal > .workspace-leaf-resize-handle {
-    width: 16px !important;
-    min-width: 16px !important;
-}
-
-/* 5. Make tab headers transparent so they float seamlessly above the cards */
-body:not(.is-mobile) .workspace-split .workspace-tab-header-container {
-    background-color: transparent !important;
 }
